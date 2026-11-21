@@ -91,3 +91,59 @@ body {
 .module-card:not(:disabled):hover {
   border-color: #3157d5;
 }
+
+
+/* Notification Modal */
+.notification-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.45);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    z-index: 2000;
+}
+
+.notification-modal {
+    background: #fff;
+    width: 100%;
+    max-width: 420px;
+    padding: 28px;
+    border-radius: 16px;
+    text-align: center;
+    box-shadow: 0 12px 40px rgba(0, 0, 0, 0.15);
+    animation: notificationAppear 0.2s ease-out;
+}
+
+.notification-icon {
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 26px;
+    margin: 0 auto 18px;
+}
+
+.notification-icon.info {
+    background: #eaf2ff;
+}
+
+.notification-icon.danger {
+    background: #fff0f0;
+}
+
+@keyframes notificationAppear {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
