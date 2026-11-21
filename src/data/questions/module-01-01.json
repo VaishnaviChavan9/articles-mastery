@@ -1,0 +1,146 @@
+
+{
+  "subtopicId": "subtopic-01-01",
+  "questions": [
+    {
+      "id": "q001",
+      "question": "Which of the following best describes an article?",
+      "options": ["A word used to describe an action", "A word used before a noun", "A word used instead of a verb", "A word used to join sentences"],
+      "correctAnswer": "A word used before a noun",
+      "explanation": "An article is used before a noun to indicate whether it is specific or non-specific."
+    },
+    {
+      "id": "q002",
+      "question": "Which of these is an indefinite article?",
+      "options": ["The", "A", "This", "That"],
+      "correctAnswer": "A",
+      "explanation": "A and An are indefinite articles. They generally refer to non-specific singular countable nouns."
+    },
+    {
+      "id": "q003",
+      "question": "Which of these is a definite article?",
+      "options": ["A", "An", "The", "Some"],
+      "correctAnswer": "The",
+      "explanation": "The is the definite article. It refers to a particular or identifiable noun."
+    },
+    {
+      "id": "q004",
+      "question": "How many articles are there in English?",
+      "options": ["One", "Two", "Three", "Four"],
+      "correctAnswer": "Three",
+      "explanation": "English has three articles: A, An and The."
+    },
+    {
+      "id": "q005",
+      "question": "Which sentence uses an article correctly?",
+      "options": ["I saw a elephant.", "She bought a book.", "He is an teacher.", "The honesty is important."],
+      "correctAnswer": "She bought a book.",
+      "explanation": "Book is a singular countable noun, and a is used before it when it is not specific."
+    },
+    {
+      "id": "q006",
+      "question": "Which article is used when referring to a non-specific singular countable noun beginning with a consonant sound?",
+      "options": ["The", "An", "A", "No article"],
+      "correctAnswer": "A",
+      "explanation": "A is generally used before a non-specific singular countable noun beginning with a consonant sound."
+    },
+    {
+      "id": "q007",
+      "question": "Which article is used before a noun when the speaker and listener know exactly which one is meant?",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The is used when the noun is specific or identifiable to the speaker and listener."
+    },
+    {
+      "id": "q008",
+      "question": "Identify the articles in this sentence: 'The boy ate an apple.'",
+      "options": ["The and an", "Boy and apple", "A and the", "An and ate"],
+      "correctAnswer": "The and an",
+      "explanation": "The appears before boy, and an appears before apple."
+    },
+    {
+      "id": "q009",
+      "question": "Which sentence contains no article?",
+      "options": ["I bought a pen.", "The sun is bright.", "Children enjoy playing.", "She ate an orange."],
+      "correctAnswer": "Children enjoy playing.",
+      "explanation": "Children is a plural noun used in a general sense, so no article is needed."
+    },
+    {
+      "id": "q010",
+      "question": "What is the main difference between A/An and The?",
+      "options": ["A/An are verbs; The is an adjective", "A/An are indefinite; The is definite", "They have exactly the same use", "The is used only with plural nouns"],
+      "correctAnswer": "A/An are indefinite; The is definite",
+      "explanation": "A and An introduce non-specific nouns, while The identifies a specific noun."
+    },
+    {
+      "id": "q011",
+      "question": "Choose the correct article: 'She is ___ engineer.'",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "An",
+      "explanation": "Engineer begins with a vowel sound, so an is used."
+    },
+    {
+      "id": "q012",
+      "question": "Choose the correct article: 'I need ___ glass of water.'",
+      "options": ["An", "The only", "A", "No article"],
+      "correctAnswer": "A",
+      "explanation": "Glass is a singular countable noun beginning with a consonant sound."
+    },
+    {
+      "id": "q013",
+      "question": "In 'I saw a dog. The dog was barking.', why is 'the' used in the second sentence?",
+      "options": ["Because dog is plural", "Because the dog has already been introduced", "Because dog begins with a consonant", "Because all animals require the"],
+      "correctAnswer": "Because the dog has already been introduced",
+      "explanation": "The second mention refers to the same dog, making it specific."
+    },
+    {
+      "id": "q014",
+      "question": "Which sentence uses 'the' to refer to something unique?",
+      "options": ["I saw a bird.", "The moon looks beautiful.", "She has a bag.", "He bought an umbrella."],
+      "correctAnswer": "The moon looks beautiful.",
+      "explanation": "The moon is treated as a unique object in this context."
+    },
+    {
+      "id": "q015",
+      "question": "Which statement about articles is correct?",
+      "options": ["Articles are always used before every noun", "Articles can be used only with plural nouns", "Some nouns can be used without articles", "The is an indefinite article"],
+      "correctAnswer": "Some nouns can be used without articles",
+      "explanation": "English uses zero article in many situations, such as general plural nouns and some proper nouns."
+    },
+    {
+      "id": "q016",
+      "question": "Which word is a noun in the sentence 'A student reads a book'?",
+      "options": ["Reads", "A", "Student", "Quickly"],
+      "correctAnswer": "Student",
+      "explanation": "Student is a noun. A is the article used before it."
+    },
+    {
+      "id": "q017",
+      "question": "Which sentence uses an indefinite article?",
+      "options": ["The train is late.", "A train arrived.", "The teacher smiled.", "Water is essential."],
+      "correctAnswer": "A train arrived.",
+      "explanation": "A introduces a non-specific train."
+    },
+    {
+      "id": "q018",
+      "question": "Which sentence uses the definite article correctly?",
+      "options": ["The my friend is here.", "The Earth moves around the Sun.", "A the cat is sleeping.", "The honesty is valuable."],
+      "correctAnswer": "The Earth moves around the Sun.",
+      "explanation": "The is used with Earth and Sun in this context because they are unique celestial bodies."
+    },
+    {
+      "id": "q019",
+      "question": "What does 'zero article' mean?",
+      "options": ["Using two articles together", "Using no article before a noun where appropriate", "Using only the article 'a'", "Removing a noun from a sentence"],
+      "correctAnswer": "Using no article before a noun where appropriate",
+      "explanation": "Zero article means that no article is used before a noun in a particular grammatical context."
+    },
+    {
+      "id": "q020",
+      "question": "Choose the correctly written sentence.",
+      "options": ["He is a honest man.", "She ate an banana.", "I visited the museum we discussed.", "Sun rises in east."],
+      "correctAnswer": "I visited the museum we discussed.",
+      "explanation": "The museum is specific because it was previously discussed. The other sentences have article errors."
+    }
+  ]
+}

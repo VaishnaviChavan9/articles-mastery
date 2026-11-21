@@ -7,6 +7,7 @@
     {
       "id": "module-01",
       "title": "Introduction to Articles",
+      "icon": "📖",
       "order": 1,
       "difficulty": "Beginner",
       "subtopics": [
@@ -43,6 +44,7 @@
     {
       "id": "module-02",
       "title": "Indefinite Articles – A and An",
+      "icon": "🔤",
       "order": 2,
       "difficulty": "Beginner",
       "subtopics": [
@@ -107,6 +109,7 @@
     {
       "id": "module-03",
       "title": "Definite Article – The",
+      "icon": "📚",
       "order": 3,
       "difficulty": "Intermediate",
       "subtopics": [
@@ -171,6 +174,7 @@
     {
       "id": "module-04",
       "title": "Zero Articles",
+      "icon": "✏️",
       "order": 4,
       "difficulty": "Intermediate",
       "subtopics": [
@@ -221,6 +225,7 @@
     {
       "id": "module-05",
       "title": "Advanced Article Rules",
+      "icon": "🎯",
       "order": 5,
       "difficulty": "Advanced",
       "subtopics": [
@@ -278,6 +283,7 @@
     {
       "id": "module-06",
       "title": "Practice and Assessment",
+      "icon": "🏆",
       "order": 6,
       "difficulty": "Advanced",
       "subtopics": [

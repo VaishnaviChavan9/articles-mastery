@@ -1,0 +1,170 @@
+{
+    "moduleId": "module-01",
+    "lessons": [
+        {
+            "id": "lesson-01-01",
+            "subtopicId": "subtopic-01-01",
+            "title": "What are Articles?",
+            "description": "Understand the meaning and purpose of articles in English.",
+            "sections": [
+                {
+                    "heading": "1. What is an Article?",
+                    "content": "An article is a word used before a noun to indicate whether we are referring to something specific or something non-specific.",
+                    "examples": [
+                        {
+                            "sentence": "I saw a dog.",
+                            "highlight": "a",
+                            "explanation": "A refers to a non-specific dog. The listener does not know which dog."
+                        },
+                        {
+                            "sentence": "The dog was barking.",
+                            "highlight": "The",
+                            "explanation": "The refers to the specific dog already mentioned."
+                        }
+                    ]
+                },
+                {
+                    "heading": "2. Types of Articles",
+                    "content": "English has three articles: A, An and The.",
+                    "rules": [
+                        {
+                            "name": "A",
+                            "description": "An indefinite article generally used before singular countable nouns beginning with a consonant sound.",
+                            "example": "A book, a university."
+                        },
+                        {
+                            "name": "An",
+                            "description": "An indefinite article generally used before singular countable nouns beginning with a vowel sound.",
+                            "example": "An apple, an hour."
+                        },
+                        {
+                            "name": "The",
+                            "description": "A definite article used when referring to a specific or identifiable noun.",
+                            "example": "The sun, the book on the table."
+                        }
+                    ]
+                },
+                {
+                    "heading": "3. Definite and Indefinite Articles",
+                    "content": "A and An are indefinite articles. The is a definite article.",
+                    "examples": [
+                        {
+                            "sentence": "She bought a dress.",
+                            "highlight": "a",
+                            "explanation": "The dress is not identified specifically."
+                        },
+                        {
+                            "sentence": "She wore the dress yesterday.",
+                            "highlight": "the",
+                            "explanation": "The dress is now identifiable from the context."
+                        }
+                    ]
+                },
+                {
+                    "heading": "4. Important Note",
+                    "content": "Articles are generally used with nouns. However, not every noun requires an article. The absence of an article in certain contexts is called the zero article.",
+                    "examples": [
+                        {
+                            "sentence": "Books are useful.",
+                            "highlight": "Books",
+                            "explanation": "Books refers to books generally, so no article is needed."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "lesson-01-02",
+            "subtopicId": "subtopic-01-02",
+            "title": "Types of Articles",
+            "description": "Learn about definite, indefinite and zero articles in English.",
+            "sections": [
+                {
+                    "heading": "1. The Three Articles",
+                    "content": "English has three articles: A, An and The. They are divided into two main categories: indefinite articles and the definite article.",
+                    "rules": [
+                        {
+                            "name": "Indefinite Articles",
+                            "description": "A and An are used when referring to a non-specific singular countable noun.",
+                            "example": "I saw a bird."
+                        },
+                        {
+                            "name": "Definite Article",
+                            "description": "The is used when referring to a specific or identifiable noun.",
+                            "example": "The bird was sitting on a tree."
+                        }
+                    ]
+                },
+                {
+                    "heading": "2. Indefinite Articles – A and An",
+                    "content": "A and An introduce a noun that is not specific or has not been identified yet.",
+                    "rules": [
+                        {
+                            "name": "A",
+                            "description": "Used before a word beginning with a consonant sound.",
+                            "example": "A book, a car, a university."
+                        },
+                        {
+                            "name": "An",
+                            "description": "Used before a word beginning with a vowel sound.",
+                            "example": "An apple, an umbrella, an hour."
+                        }
+                    ]
+                },
+                {
+                    "heading": "3. Definite Article – The",
+                    "content": "The identifies a particular person, place, animal or thing. It can be used with singular nouns, plural nouns and uncountable nouns when they are specific.",
+                    "examples": [
+                        {
+                            "sentence": "The teacher is absent today.",
+                            "highlight": "The",
+                            "explanation": "We are referring to a particular teacher."
+                        },
+                        {
+                            "sentence": "The books on the table are mine.",
+                            "highlight": "The",
+                            "explanation": "We are referring to specific books."
+                        }
+                    ]
+                },
+                {
+                    "heading": "4. Zero Article",
+                    "content": "Sometimes we do not use any article before a noun. This is called the zero article.",
+                    "examples": [
+                        {
+                            "sentence": "Dogs are loyal animals.",
+                            "highlight": "",
+                            "explanation": "Dogs refers to animals in general, so no article is required."
+                        },
+                        {
+                            "sentence": "Water is essential for life.",
+                            "highlight": "",
+                            "explanation": "Water is used in a general sense, so no article is required."
+                        }
+                    ]
+                },
+                {
+                    "heading": "5. Quick Comparison",
+                    "content": "Remember the difference between these three forms:",
+                    "examples": [
+                        {
+                            "sentence": "I bought a pen.",
+                            "highlight": "a",
+                            "explanation": "Any non-specific pen."
+                        },
+                        {
+                            "sentence": "I bought the pen.",
+                            "highlight": "the",
+                            "explanation": "A particular pen known to the listener."
+                        },
+                        {
+                            "sentence": "Pens are useful.",
+                            "highlight": "",
+                            "explanation": "Pens in general; no article is needed."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
