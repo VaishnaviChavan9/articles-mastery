@@ -1,0 +1,322 @@
+
+{
+  "id": "articles",
+  "title": "English Articles",
+  "description": "A complete guide to A, An and The.",
+  "modules": [
+    {
+      "id": "module-01",
+      "title": "Introduction to Articles",
+      "order": 1,
+      "difficulty": "Beginner",
+      "subtopics": [
+        {
+          "id": "subtopic-01-01",
+          "title": "What are Articles?",
+          "order": 1,
+          "lessonId": "lesson-01-01",
+          "questionSetId": "questions-01-01"
+        },
+        {
+          "id": "subtopic-01-02",
+          "title": "Types of Articles",
+          "order": 2,
+          "lessonId": "lesson-01-02",
+          "questionSetId": "questions-01-02"
+        },
+        {
+          "id": "subtopic-01-03",
+          "title": "Definite vs Indefinite Articles",
+          "order": 3,
+          "lessonId": "lesson-01-03",
+          "questionSetId": "questions-01-03"
+        },
+        {
+          "id": "subtopic-01-04",
+          "title": "Vowel and Consonant Sounds",
+          "order": 4,
+          "lessonId": "lesson-01-04",
+          "questionSetId": "questions-01-04"
+        }
+      ]
+    },
+    {
+      "id": "module-02",
+      "title": "Indefinite Articles – A and An",
+      "order": 2,
+      "difficulty": "Beginner",
+      "subtopics": [
+        {
+          "id": "subtopic-02-01",
+          "title": "Usage of A",
+          "order": 1,
+          "lessonId": "lesson-02-01",
+          "questionSetId": "questions-02-01"
+        },
+        {
+          "id": "subtopic-02-02",
+          "title": "Usage of An",
+          "order": 2,
+          "lessonId": "lesson-02-02",
+          "questionSetId": "questions-02-02"
+        },
+        {
+          "id": "subtopic-02-03",
+          "title": "A vs An",
+          "order": 3,
+          "lessonId": "lesson-02-03",
+          "questionSetId": "questions-02-03"
+        },
+        {
+          "id": "subtopic-02-04",
+          "title": "Articles with Silent H",
+          "order": 4,
+          "lessonId": "lesson-02-04",
+          "questionSetId": "questions-02-04"
+        },
+        {
+          "id": "subtopic-02-05",
+          "title": "Articles with U and EU Sounds",
+          "order": 5,
+          "lessonId": "lesson-02-05",
+          "questionSetId": "questions-02-05"
+        },
+        {
+          "id": "subtopic-02-06",
+          "title": "Articles with Abbreviations",
+          "order": 6,
+          "lessonId": "lesson-02-06",
+          "questionSetId": "questions-02-06"
+        },
+        {
+          "id": "subtopic-02-07",
+          "title": "First Mention of a Noun",
+          "order": 7,
+          "lessonId": "lesson-02-07",
+          "questionSetId": "questions-02-07"
+        },
+        {
+          "id": "subtopic-02-08",
+          "title": "Common Exceptions and Mistakes",
+          "order": 8,
+          "lessonId": "lesson-02-08",
+          "questionSetId": "questions-02-08"
+        }
+      ]
+    },
+    {
+      "id": "module-03",
+      "title": "Definite Article – The",
+      "order": 3,
+      "difficulty": "Intermediate",
+      "subtopics": [
+        {
+          "id": "subtopic-03-01",
+          "title": "Basic Usage of The",
+          "order": 1,
+          "lessonId": "lesson-03-01",
+          "questionSetId": "questions-03-01"
+        },
+        {
+          "id": "subtopic-03-02",
+          "title": "Specific and Previously Mentioned Nouns",
+          "order": 2,
+          "lessonId": "lesson-03-02",
+          "questionSetId": "questions-03-02"
+        },
+        {
+          "id": "subtopic-03-03",
+          "title": "Unique Things",
+          "order": 3,
+          "lessonId": "lesson-03-03",
+          "questionSetId": "questions-03-03"
+        },
+        {
+          "id": "subtopic-03-04",
+          "title": "Superlatives and Ordinal Numbers",
+          "order": 4,
+          "lessonId": "lesson-03-04",
+          "questionSetId": "questions-03-04"
+        },
+        {
+          "id": "subtopic-03-05",
+          "title": "Geographical Names",
+          "order": 5,
+          "lessonId": "lesson-03-05",
+          "questionSetId": "questions-03-05"
+        },
+        {
+          "id": "subtopic-03-06",
+          "title": "Countries, Rivers, Seas and Mountains",
+          "order": 6,
+          "lessonId": "lesson-03-06",
+          "questionSetId": "questions-03-06"
+        },
+        {
+          "id": "subtopic-03-07",
+          "title": "Newspapers, Buildings and Institutions",
+          "order": 7,
+          "lessonId": "lesson-03-07",
+          "questionSetId": "questions-03-07"
+        },
+        {
+          "id": "subtopic-03-08",
+          "title": "Musical Instruments and Other Uses",
+          "order": 8,
+          "lessonId": "lesson-03-08",
+          "questionSetId": "questions-03-08"
+        }
+      ]
+    },
+    {
+      "id": "module-04",
+      "title": "Zero Articles",
+      "order": 4,
+      "difficulty": "Intermediate",
+      "subtopics": [
+        {
+          "id": "subtopic-04-01",
+          "title": "Introduction to Zero Articles",
+          "order": 1,
+          "lessonId": "lesson-04-01",
+          "questionSetId": "questions-04-01"
+        },
+        {
+          "id": "subtopic-04-02",
+          "title": "Articles with Proper Nouns",
+          "order": 2,
+          "lessonId": "lesson-04-02",
+          "questionSetId": "questions-04-02"
+        },
+        {
+          "id": "subtopic-04-03",
+          "title": "Plural Nouns in General Statements",
+          "order": 3,
+          "lessonId": "lesson-04-03",
+          "questionSetId": "questions-04-03"
+        },
+        {
+          "id": "subtopic-04-04",
+          "title": "Uncountable Nouns",
+          "order": 4,
+          "lessonId": "lesson-04-04",
+          "questionSetId": "questions-04-04"
+        },
+        {
+          "id": "subtopic-04-05",
+          "title": "Meals, Languages and Subjects",
+          "order": 5,
+          "lessonId": "lesson-04-05",
+          "questionSetId": "questions-04-05"
+        },
+        {
+          "id": "subtopic-04-06",
+          "title": "Sports, Games and Institutions",
+          "order": 6,
+          "lessonId": "lesson-04-06",
+          "questionSetId": "questions-04-06"
+        }
+      ]
+    },
+    {
+      "id": "module-05",
+      "title": "Advanced Article Rules",
+      "order": 5,
+      "difficulty": "Advanced",
+      "subtopics": [
+        {
+          "id": "subtopic-05-01",
+          "title": "Countable and Uncountable Nouns",
+          "order": 1,
+          "lessonId": "lesson-05-01",
+          "questionSetId": "questions-05-01"
+        },
+        {
+          "id": "subtopic-05-02",
+          "title": "Abstract Nouns",
+          "order": 2,
+          "lessonId": "lesson-05-02",
+          "questionSetId": "questions-05-02"
+        },
+        {
+          "id": "subtopic-05-03",
+          "title": "Material Nouns",
+          "order": 3,
+          "lessonId": "lesson-05-03",
+          "questionSetId": "questions-05-03"
+        },
+        {
+          "id": "subtopic-05-04",
+          "title": "Collective Nouns",
+          "order": 4,
+          "lessonId": "lesson-05-04",
+          "questionSetId": "questions-05-04"
+        },
+        {
+          "id": "subtopic-05-05",
+          "title": "Adjectives Used as Nouns",
+          "order": 5,
+          "lessonId": "lesson-05-05",
+          "questionSetId": "questions-05-05"
+        },
+        {
+          "id": "subtopic-05-06",
+          "title": "Articles with Professions and Titles",
+          "order": 6,
+          "lessonId": "lesson-05-06",
+          "questionSetId": "questions-05-06"
+        },
+        {
+          "id": "subtopic-05-07",
+          "title": "Repetition and Omission of Articles",
+          "order": 7,
+          "lessonId": "lesson-05-07",
+          "questionSetId": "questions-05-07"
+        }
+      ]
+    },
+    {
+      "id": "module-06",
+      "title": "Practice and Assessment",
+      "order": 6,
+      "difficulty": "Advanced",
+      "subtopics": [
+        {
+          "id": "subtopic-06-01",
+          "title": "Fill in the Blanks",
+          "order": 1,
+          "lessonId": "lesson-06-01",
+          "questionSetId": "questions-06-01"
+        },
+        {
+          "id": "subtopic-06-02",
+          "title": "Error Detection",
+          "order": 2,
+          "lessonId": "lesson-06-02",
+          "questionSetId": "questions-06-02"
+        },
+        {
+          "id": "subtopic-06-03",
+          "title": "Sentence Correction",
+          "order": 3,
+          "lessonId": "lesson-06-03",
+          "questionSetId": "questions-06-03"
+        },
+        {
+          "id": "subtopic-06-04",
+          "title": "Passage-Based Practice",
+          "order": 4,
+          "lessonId": "lesson-06-04",
+          "questionSetId": "questions-06-04"
+        },
+        {
+          "id": "subtopic-06-05",
+          "title": "Mixed Articles Assessment",
+          "order": 5,
+          "lessonId": "lesson-06-05",
+          "questionSetId": "questions-06-05"
+        }
+      ]
+    }
+  ]
+}

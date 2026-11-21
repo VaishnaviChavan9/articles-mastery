@@ -1,0 +1,76 @@
+
+:root {
+  font-family: Arial, sans-serif;
+  color: #202938;
+  background: #f7f8fc;
+}
+
+body {
+  margin: 0;
+  background: #f7f8fc;
+}
+
+.app-container {
+  min-height: 100vh;
+}
+
+.brand-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  background: #3157d5;
+  color: white;
+  border-radius: 9px;
+  margin-right: 6px;
+}
+
+.welcome-section h1 {
+  font-size: clamp(1.8rem, 4vw, 2.5rem);
+  color: #202938;
+}
+
+.stat-card,
+.module-card {
+  border: 1px solid #e8eaf0;
+  border-radius: 14px;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.025);
+}
+
+.stat-card h2 {
+  color: #3157d5;
+}
+
+.today-card {
+  background: #eaf0ff;
+  border-radius: 18px;
+  color: #263b70;
+}
+
+.today-icon {
+  font-size: 5rem;
+}
+
+.module-card {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.module-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.06);
+}
+
+.module-icon {
+  font-size: 2rem;
+}
+
+@media (max-width: 576px) {
+  .today-icon {
+    display: none;
+  }
+
+  .welcome-section h1 {
+    font-size: 1.8rem;
+  }
+}
