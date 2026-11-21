@@ -1,0 +1,686 @@
+
+{
+  "moduleId": "module-02",
+  "lessons": [
+    {
+      "id": "lesson-02-01",
+      "subtopicId": "subtopic-02-01",
+      "title": "Usage of A",
+      "description": "Learn when to use A before singular countable nouns.",
+      "sections": [
+        {
+          "heading": "1. Basic Rule",
+          "content": "Use A before a singular countable noun that begins with a consonant sound.",
+          "examples": [
+            {
+              "sentence": "I bought a book.",
+              "highlight": "a book",
+              "explanation": "Book begins with the consonant sound /b/."
+            },
+            {
+              "sentence": "She is a teacher.",
+              "highlight": "a teacher",
+              "explanation": "Teacher begins with the consonant sound /t/."
+            }
+          ]
+        },
+        {
+          "heading": "2. Introducing Something",
+          "content": "Use A when mentioning one non-specific person or thing for the first time.",
+          "examples": [
+            {
+              "sentence": "I saw a man outside.",
+              "highlight": "a man",
+              "explanation": "The man is being introduced for the first time."
+            },
+            {
+              "sentence": "There is a problem.",
+              "highlight": "a problem",
+              "explanation": "A problem is mentioned without identifying a particular problem."
+            }
+          ]
+        },
+        {
+          "heading": "3. Professions",
+          "content": "Use A before a singular profession or occupation when describing what someone is.",
+          "examples": [
+            {
+              "sentence": "My brother is a doctor.",
+              "highlight": "a doctor",
+              "explanation": "Doctor is a singular profession beginning with a consonant sound."
+            },
+            {
+              "sentence": "She works as a software engineer.",
+              "highlight": "a software engineer",
+              "explanation": "The phrase begins with the consonant sound /s/."
+            }
+          ]
+        },
+        {
+          "heading": "4. Rate and Frequency",
+          "content": "A can mean 'per' or 'each' in expressions of rate, speed and frequency.",
+          "examples": [
+            {
+              "sentence": "The car travels at 60 kilometres a hour.",
+              "highlight": "a hour",
+              "explanation": "This sentence is incorrect. The correct expression is '60 kilometres an hour' because hour begins with a vowel sound."
+            },
+            {
+              "sentence": "I exercise twice a week.",
+              "highlight": "a week",
+              "explanation": "A means each or per in this expression."
+            }
+          ]
+        },
+        {
+          "heading": "5. Important Conditions",
+          "content": "A is generally used with singular countable nouns. It is not normally used directly before plural nouns or uncountable nouns.",
+          "examples": [
+            {
+              "sentence": "I need a chair.",
+              "highlight": "a chair",
+              "explanation": "Chair is a singular countable noun."
+            },
+            {
+              "sentence": "I need chairs.",
+              "highlight": "chairs",
+              "explanation": "The plural noun chairs does not take A."
+            },
+            {
+              "sentence": "I need water.",
+              "highlight": "water",
+              "explanation": "Water is uncountable in this general meaning."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-02-02",
+      "subtopicId": "subtopic-02-02",
+      "title": "Usage of An",
+      "description": "Understand how An is used before words beginning with vowel sounds.",
+      "sections": [
+        {
+          "heading": "1. Basic Rule",
+          "content": "Use An before a singular countable noun that begins with a vowel sound.",
+          "examples": [
+            {
+              "sentence": "She ate an apple.",
+              "highlight": "an apple",
+              "explanation": "Apple begins with a vowel sound."
+            },
+            {
+              "sentence": "He bought an orange.",
+              "highlight": "an orange",
+              "explanation": "Orange begins with a vowel sound."
+            }
+          ]
+        },
+        {
+          "heading": "2. Vowel Sounds",
+          "content": "The important factor is pronunciation. Words beginning with A, E, I, O or U often take An when their first sound is a vowel sound.",
+          "examples": [
+            {
+              "sentence": "an egg",
+              "highlight": "an",
+              "explanation": "Egg begins with a vowel sound."
+            },
+            {
+              "sentence": "an insect",
+              "highlight": "an",
+              "explanation": "Insect begins with a vowel sound."
+            },
+            {
+              "sentence": "an octopus",
+              "highlight": "an",
+              "explanation": "Octopus begins with a vowel sound."
+            }
+          ]
+        },
+        {
+          "heading": "3. Silent Initial Letters",
+          "content": "Some words begin with a written consonant that is not pronounced. Use An if the first pronounced sound is a vowel.",
+          "examples": [
+            {
+              "sentence": "an hour",
+              "highlight": "an",
+              "explanation": "The H is silent."
+            },
+            {
+              "sentence": "an honest person",
+              "highlight": "an",
+              "explanation": "The H is silent."
+            },
+            {
+              "sentence": "an heir",
+              "highlight": "an",
+              "explanation": "The H is silent."
+            }
+          ]
+        },
+        {
+          "heading": "4. Abbreviations",
+          "content": "Use An before an abbreviation when its spoken first letter begins with a vowel sound.",
+          "examples": [
+            {
+              "sentence": "an MBA graduate",
+              "highlight": "an",
+              "explanation": "M is pronounced 'em'."
+            },
+            {
+              "sentence": "an FIR",
+              "highlight": "an",
+              "explanation": "F is pronounced 'ef'."
+            },
+            {
+              "sentence": "an X-ray",
+              "highlight": "an",
+              "explanation": "X is pronounced 'ex'."
+            }
+          ]
+        },
+        {
+          "heading": "5. Avoiding Common Errors",
+          "content": "Do not choose An just because a word starts with a vowel letter. Check its first sound.",
+          "examples": [
+            {
+              "sentence": "a university",
+              "highlight": "a",
+              "explanation": "University begins with the consonant /y/ sound."
+            },
+            {
+              "sentence": "a European country",
+              "highlight": "a",
+              "explanation": "European begins with the consonant /y/ sound."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-02-03",
+      "subtopicId": "subtopic-02-03",
+      "title": "A vs An",
+      "description": "Practise choosing between A and An based on the first pronounced sound.",
+      "sections": [
+        {
+          "heading": "1. The Main Difference",
+          "content": "A is used before consonant sounds. An is used before vowel sounds. Both are indefinite articles used with singular countable nouns.",
+          "examples": [
+            {
+              "sentence": "a car",
+              "highlight": "a",
+              "explanation": "Car begins with /k/, a consonant sound."
+            },
+            {
+              "sentence": "an umbrella",
+              "highlight": "an",
+              "explanation": "Umbrella begins with a vowel sound."
+            }
+          ]
+        },
+        {
+          "heading": "2. Same Letter, Different Sound",
+          "content": "A word's spelling does not always tell you which article to use. Pronunciation is what matters.",
+          "examples": [
+            {
+              "sentence": "a university",
+              "highlight": "a",
+              "explanation": "The initial U is pronounced with a /y/ sound."
+            },
+            {
+              "sentence": "an umbrella",
+              "highlight": "an",
+              "explanation": "The initial U has a vowel sound."
+            }
+          ]
+        },
+        {
+          "heading": "3. Numbers and Letters",
+          "content": "Choose the article according to how the number or letter is pronounced.",
+          "examples": [
+            {
+              "sentence": "an eight-year-old child",
+              "highlight": "an",
+              "explanation": "Eight begins with a vowel sound."
+            },
+            {
+              "sentence": "a one-time opportunity",
+              "highlight": "a",
+              "explanation": "One begins with the consonant /w/ sound."
+            }
+          ]
+        },
+        {
+          "heading": "4. Abbreviations",
+          "content": "For letter-by-letter abbreviations, listen to the first letter's spoken name.",
+          "examples": [
+            {
+              "sentence": "an MBA",
+              "highlight": "an",
+              "explanation": "M is pronounced 'em'."
+            },
+            {
+              "sentence": "a USB device",
+              "highlight": "a",
+              "explanation": "U is pronounced 'you'."
+            }
+          ]
+        },
+        {
+          "heading": "5. Quick Revision",
+          "content": "Remember: A for consonant sounds and An for vowel sounds. Never decide only by looking at the first letter.",
+          "examples": [
+            {
+              "sentence": "a house, an hour",
+              "highlight": "a house, an hour",
+              "explanation": "House has a pronounced H; hour has a silent H."
+            },
+            {
+              "sentence": "a European, an engineer",
+              "highlight": "a European, an engineer",
+              "explanation": "European begins with /y/; engineer begins with a vowel sound."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-02-04",
+      "subtopicId": "subtopic-02-04",
+      "title": "Articles with Silent H",
+      "description": "Learn how silent H changes the choice between A and An.",
+      "sections": [
+        {
+          "heading": "1. What Is Silent H?",
+          "content": "In some English words, the letter H is written but not pronounced. When the first pronounced sound is a vowel, use An.",
+          "examples": [
+            {
+              "sentence": "an hour",
+              "highlight": "an",
+              "explanation": "The H in hour is silent."
+            },
+            {
+              "sentence": "an honest answer",
+              "highlight": "an",
+              "explanation": "The H in honest is silent."
+            }
+          ]
+        },
+        {
+          "heading": "2. Common Silent H Words",
+          "content": "Some commonly used words with silent initial H include hour, honest, honour and heir.",
+          "examples": [
+            {
+              "sentence": "an honour",
+              "highlight": "an",
+              "explanation": "The H is silent in honour."
+            },
+            {
+              "sentence": "an heir",
+              "highlight": "an",
+              "explanation": "The H is silent in heir."
+            }
+          ]
+        },
+        {
+          "heading": "3. Pronounced H",
+          "content": "When H is pronounced as a consonant sound, use A.",
+          "examples": [
+            {
+              "sentence": "a house",
+              "highlight": "a",
+              "explanation": "The H is pronounced."
+            },
+            {
+              "sentence": "a hotel",
+              "highlight": "a",
+              "explanation": "The H is pronounced in standard modern usage."
+            },
+            {
+              "sentence": "a history book",
+              "highlight": "a",
+              "explanation": "History begins with a pronounced H."
+            }
+          ]
+        },
+        {
+          "heading": "4. Context and Pronunciation",
+          "content": "Article choice follows the pronunciation used by the speaker. Some H words have had variation in pronunciation across accents and historical usage.",
+          "examples": [
+            {
+              "sentence": "a historic event",
+              "highlight": "a",
+              "explanation": "In standard modern pronunciation, the H in historic is pronounced."
+            },
+            {
+              "sentence": "an hour-long meeting",
+              "highlight": "an",
+              "explanation": "Hour begins with a vowel sound."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-02-05",
+      "subtopicId": "subtopic-02-05",
+      "title": "Articles with U and EU Sounds",
+      "description": "Understand why some words beginning with U or EU take A instead of An.",
+      "sections": [
+        {
+          "heading": "1. The /y/ Sound",
+          "content": "Words beginning with a U or EU spelling may start with the consonant /y/ sound, as in 'yes'. Use A before these words.",
+          "examples": [
+            {
+              "sentence": "a university",
+              "highlight": "a",
+              "explanation": "University begins with /y/."
+            },
+            {
+              "sentence": "a European",
+              "highlight": "a",
+              "explanation": "European begins with /y/."
+            }
+          ]
+        },
+        {
+          "heading": "2. More Examples",
+          "content": "Several common words beginning with U or EU have this initial consonant sound.",
+          "examples": [
+            {
+              "sentence": "a uniform",
+              "highlight": "a",
+              "explanation": "Uniform begins with /y/."
+            },
+            {
+              "sentence": "a unique idea",
+              "highlight": "a",
+              "explanation": "Unique begins with /y/."
+            },
+            {
+              "sentence": "a usual day",
+              "highlight": "a",
+              "explanation": "Usual begins with /y/."
+            }
+          ]
+        },
+        {
+          "heading": "3. U Words with Vowel Sounds",
+          "content": "Some words beginning with U start with a vowel sound instead. Use An before them.",
+          "examples": [
+            {
+              "sentence": "an umbrella",
+              "highlight": "an",
+              "explanation": "Umbrella begins with a vowel sound."
+            },
+            {
+              "sentence": "an uncle",
+              "highlight": "an",
+              "explanation": "Uncle begins with a vowel sound."
+            },
+            {
+              "sentence": "an unusual event",
+              "highlight": "an",
+              "explanation": "Unusual begins with a vowel sound."
+            }
+          ]
+        },
+        {
+          "heading": "4. Compare the Sounds",
+          "content": "The same written letter can represent different initial sounds. Always listen to the word.",
+          "examples": [
+            {
+              "sentence": "a university, an umbrella",
+              "highlight": "a university, an umbrella",
+              "explanation": "University begins with /y/; umbrella begins with a vowel sound."
+            },
+            {
+              "sentence": "a European, an urgent request",
+              "highlight": "a European, an urgent request",
+              "explanation": "European begins with /y/; urgent begins with a vowel sound."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-02-06",
+      "subtopicId": "subtopic-02-06",
+      "title": "Articles with Abbreviations",
+      "description": "Learn to select A or An before abbreviations and initialisms.",
+      "sections": [
+        {
+          "heading": "1. Letter-by-Letter Pronunciation",
+          "content": "When an abbreviation is spoken as separate letter names, choose A or An according to the first spoken letter's sound.",
+          "examples": [
+            {
+              "sentence": "an MBA",
+              "highlight": "an",
+              "explanation": "M is pronounced 'em', beginning with a vowel sound."
+            },
+            {
+              "sentence": "an FIR",
+              "highlight": "an",
+              "explanation": "F is pronounced 'ef', beginning with a vowel sound."
+            }
+          ]
+        },
+        {
+          "heading": "2. More Examples",
+          "content": "Some letter names begin with vowel sounds, while others begin with consonant sounds.",
+          "examples": [
+            {
+              "sentence": "an NGO",
+              "highlight": "an",
+              "explanation": "N is pronounced 'en'."
+            },
+            {
+              "sentence": "an LCD screen",
+              "highlight": "an",
+              "explanation": "L is pronounced 'el'."
+            },
+            {
+              "sentence": "a BTech degree",
+              "highlight": "a",
+              "explanation": "B is pronounced 'bee', beginning with a consonant sound."
+            }
+          ]
+        },
+        {
+          "heading": "3. Abbreviations Pronounced as Words",
+          "content": "When an abbreviation is pronounced as a word, choose the article based on the first sound of that spoken word.",
+          "examples": [
+            {
+              "sentence": "a NASA scientist",
+              "highlight": "a",
+              "explanation": "NASA is pronounced as a word beginning with /n/."
+            },
+            {
+              "sentence": "a UNESCO programme",
+              "highlight": "a",
+              "explanation": "UNESCO is pronounced as a word beginning with /y/."
+            }
+          ]
+        },
+        {
+          "heading": "4. Common Mistakes",
+          "content": "Do not select an article by the first written letter alone. Say the abbreviation aloud and identify its first sound.",
+          "examples": [
+            {
+              "sentence": "a USB drive",
+              "highlight": "a",
+              "explanation": "U is spoken as 'you', which begins with /y/."
+            },
+            {
+              "sentence": "an X-ray",
+              "highlight": "an",
+              "explanation": "X is spoken as 'ex', which begins with a vowel sound."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-02-07",
+      "subtopicId": "subtopic-02-07",
+      "title": "First Mention of a Noun",
+      "description": "Learn how A and An introduce a person or thing for the first time.",
+      "sections": [
+        {
+          "heading": "1. Introducing a New Noun",
+          "content": "Use A or An when introducing a singular countable noun that is not yet known to the listener.",
+          "examples": [
+            {
+              "sentence": "I met a woman yesterday.",
+              "highlight": "a woman",
+              "explanation": "The woman is introduced for the first time."
+            },
+            {
+              "sentence": "He found an old coin.",
+              "highlight": "an old coin",
+              "explanation": "The coin is introduced for the first time, and old begins with a vowel sound."
+            }
+          ]
+        },
+        {
+          "heading": "2. Referring to It Again",
+          "content": "After introducing a noun with A or An, use The when referring to that same identifiable noun again.",
+          "examples": [
+            {
+              "sentence": "I saw a bird. The bird was colourful.",
+              "highlight": "The bird",
+              "explanation": "The bird is now identifiable because it was introduced earlier."
+            },
+            {
+              "sentence": "She bought an umbrella. The umbrella is blue.",
+              "highlight": "The umbrella",
+              "explanation": "The second sentence refers to the same umbrella."
+            }
+          ]
+        },
+        {
+          "heading": "3. First Mention Does Not Always Mean A or An",
+          "content": "A noun may take The on its first mention when the context already makes it identifiable to the listener.",
+          "examples": [
+            {
+              "sentence": "Please open the door.",
+              "highlight": "the door",
+              "explanation": "The door is identifiable from the shared physical situation."
+            },
+            {
+              "sentence": "The principal addressed the students.",
+              "highlight": "The principal",
+              "explanation": "The context may identify which principal is meant."
+            }
+          ]
+        },
+        {
+          "heading": "4. A and An Are Not Used with Every Noun",
+          "content": "A and An are used with singular countable nouns, not directly with plural or uncountable nouns in their general meanings.",
+          "examples": [
+            {
+              "sentence": "I saw birds in the garden.",
+              "highlight": "birds",
+              "explanation": "Birds is plural, so A or An cannot be used."
+            },
+            {
+              "sentence": "She needs information.",
+              "highlight": "information",
+              "explanation": "Information is uncountable, so it does not take A or An directly."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-02-08",
+      "subtopicId": "subtopic-02-08",
+      "title": "Common Exceptions and Mistakes",
+      "description": "Review tricky pronunciation patterns and frequent errors involving A and An.",
+      "sections": [
+        {
+          "heading": "1. Spelling vs Sound",
+          "content": "The first sound, not the first letter, determines whether A or An is used.",
+          "examples": [
+            {
+              "sentence": "a university",
+              "highlight": "a",
+              "explanation": "University starts with /y/, a consonant sound."
+            },
+            {
+              "sentence": "an umbrella",
+              "highlight": "an",
+              "explanation": "Umbrella starts with a vowel sound."
+            }
+          ]
+        },
+        {
+          "heading": "2. Silent Letters",
+          "content": "Some written letters are not pronounced. Select the article according to the first sound you actually hear.",
+          "examples": [
+            {
+              "sentence": "an hour",
+              "highlight": "an",
+              "explanation": "The H is silent."
+            },
+            {
+              "sentence": "an honest person",
+              "highlight": "an",
+              "explanation": "The H is silent."
+            }
+          ]
+        },
+        {
+          "heading": "3. Words Beginning with One",
+          "content": "Words beginning with one often start with a /w/ consonant sound, so they take A.",
+          "examples": [
+            {
+              "sentence": "a one-rupee coin",
+              "highlight": "a",
+              "explanation": "One begins with /w/."
+            },
+            {
+              "sentence": "a one-way street",
+              "highlight": "a",
+              "explanation": "One begins with /w/."
+            }
+          ]
+        },
+        {
+          "heading": "4. Avoid Articles with Plural and Uncountable Nouns",
+          "content": "Do not use A or An directly before plural nouns or uncountable nouns when they are used generally.",
+          "examples": [
+            {
+              "sentence": "She gave me advice.",
+              "highlight": "advice",
+              "explanation": "Advice is uncountable. Say 'a piece of advice' when referring to one item."
+            },
+            {
+              "sentence": "Children need care.",
+              "highlight": "Children",
+              "explanation": "Children is plural and does not take A or An."
+            }
+          ]
+        },
+        {
+          "heading": "5. Correcting Common Errors",
+          "content": "Check the noun type and its first pronounced sound before choosing an article.",
+          "examples": [
+            {
+              "sentence": "Incorrect: an useful book. Correct: a useful book.",
+              "highlight": "a useful book",
+              "explanation": "Useful begins with the consonant /y/ sound."
+            },
+            {
+              "sentence": "Incorrect: a hour. Correct: an hour.",
+              "highlight": "an hour",
+              "explanation": "Hour begins with a vowel sound because H is silent."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

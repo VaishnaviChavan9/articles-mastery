@@ -1,0 +1,165 @@
+
+{
+  "subtopicId": "subtopic-04-01",
+  "questions": [
+    {
+      "id": "q40101",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She likes music.",
+        "She likes a music.",
+        "She likes an music.",
+        "She likes the music in general."
+      ],
+      "correctAnswer": "She likes music.",
+      "explanation": "Music used in a general sense is an uncountable noun and does not need an article."
+    },
+    {
+      "id": "q40102",
+      "question": "___ children need proper care and attention.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Children refers to children in general. Plural nouns used generally do not take an article."
+    },
+    {
+      "id": "q40103",
+      "question": "Which sentence uses zero article correctly?",
+      "options": [
+        "The honesty is important.",
+        "Honesty is important.",
+        "An honesty is important.",
+        "A honesty is important."
+      ],
+      "correctAnswer": "Honesty is important.",
+      "explanation": "Abstract nouns used in a general sense, such as honesty, usually take no article."
+    },
+    {
+      "id": "q40104",
+      "question": "My brother goes to ___ school every day.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "School without an article refers to the institution or activity of being educated."
+    },
+    {
+      "id": "q40105",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Water is essential for life.",
+        "A water is essential for life.",
+        "An water is essential for life.",
+        "The water is essential for life in general."
+      ],
+      "correctAnswer": "Water is essential for life.",
+      "explanation": "Water used in a general sense is uncountable and normally takes no article."
+    },
+    {
+      "id": "q40106",
+      "question": "She wants to become ___ engineer.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "an",
+      "explanation": "Engineer is a singular countable profession noun. It needs an article, and the word begins with a vowel sound."
+    },
+    {
+      "id": "q40107",
+      "question": "Which sentence does NOT require an article?",
+      "options": [
+        "He bought ___ umbrella.",
+        "She is ___ doctor.",
+        "They play ___ cricket.",
+        "I saw ___ elephant."
+      ],
+      "correctAnswer": "They play ___ cricket.",
+      "explanation": "Names of sports generally take no article when used in this way."
+    },
+    {
+      "id": "q40108",
+      "question": "___ gold is a valuable metal.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Material nouns used in a general sense normally do not take an article."
+    },
+    {
+      "id": "q40109",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "Birds can fly.",
+        "A birds can fly.",
+        "An birds can fly.",
+        "The birds can fly in general."
+      ],
+      "correctAnswer": "Birds can fly.",
+      "explanation": "Plural countable nouns used to refer to an entire class generally take no article."
+    },
+    {
+      "id": "q40110",
+      "question": "She travelled to ___ India last year.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Most country names, including India, are used without an article."
+    },
+    {
+      "id": "q40111",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The patience helps us handle difficulties.",
+        "Patience helps us handle difficulties.",
+        "A patience helps us handle difficulties.",
+        "An patience helps us handle difficulties."
+      ],
+      "correctAnswer": "Patience helps us handle difficulties.",
+      "explanation": "Patience is an abstract noun used generally, so no article is needed."
+    },
+    {
+      "id": "q40112",
+      "question": "He usually has ___ breakfast at 8 a.m.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Names of meals generally take no article when referring to meals in the ordinary routine."
+    },
+    {
+      "id": "q40113",
+      "question": "___ computers have changed modern communication.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Computers refers to the whole class of computers, so the plural noun takes no article."
+    },
+    {
+      "id": "q40114",
+      "question": "Choose the correct completion: We need ___ information before making a decision.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Information is uncountable and is not used with a or an. Here it is general, so no article is required."
+    },
+    {
+      "id": "q40115",
+      "question": "Which sentence uses an article unnecessarily?",
+      "options": [
+        "She speaks English fluently.",
+        "He plays football.",
+        "The life is full of challenges.",
+        "They study mathematics."
+      ],
+      "correctAnswer": "The life is full of challenges.",
+      "explanation": "Life used in a general sense is an abstract noun and normally takes no article. The correct sentence is 'Life is full of challenges.'"
+    },
+    {
+      "id": "q40116",
+      "question": "My uncle works as ___ accountant.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "an",
+      "explanation": "A singular countable profession noun needs an article. Accountant begins with a vowel sound, so 'an' is used."
+    },
+    {
+      "id": "q40117",
+      "question": "Choose the sentence with correct zero article usage.",
+      "options": [
+        "She enjoys reading books.",
+        "She enjoys reading a books.",
+        "She enjoys reading an books.",
+        "She enjoys reading the books in general."
+      ],
+      "correctAnswer": "She enjoys reading books.",
+      "explanation": "Books refers to books generally, not a particular set of books."
+    }
+  ]
+}

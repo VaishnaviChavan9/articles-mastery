@@ -1,0 +1,146 @@
+
+{
+  "subtopicId": "subtopic-06-02",
+  "questions": [
+    {
+      "id": "q60201",
+      "question": "___ honesty is an important quality.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Abstract nouns used in a general sense take no article."
+    },
+    {
+      "id": "q60202",
+      "question": "My sister speaks ___ French fluently.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "no article",
+      "explanation": "Names of languages generally take no article."
+    },
+    {
+      "id": "q60203",
+      "question": "___ students should respect their teachers.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Plural nouns used to make general statements take no article."
+    },
+    {
+      "id": "q60204",
+      "question": "We usually have ___ breakfast at 8 a.m.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "no article",
+      "explanation": "Names of meals generally take no article."
+    },
+    {
+      "id": "q60205",
+      "question": "She enjoys playing ___ badminton.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "no article",
+      "explanation": "Names of sports and games generally take no article."
+    },
+    {
+      "id": "q60206",
+      "question": "___ water is essential for life.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Uncountable nouns used generally take no article."
+    },
+    {
+      "id": "q60207",
+      "question": "Ravi travelled to ___ Japan last year.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "no article",
+      "explanation": "Most country names take no article."
+    },
+    {
+      "id": "q60208",
+      "question": "My uncle works in ___ Bengaluru.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "no article",
+      "explanation": "Names of cities generally take no article."
+    },
+    {
+      "id": "q60209",
+      "question": "___ gold is used in jewellery.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Material nouns used in a general sense take no article."
+    },
+    {
+      "id": "q60210",
+      "question": "They go to ___ school every weekday.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "no article",
+      "explanation": "The expression 'go to school' uses zero article when referring to the normal purpose of the institution."
+    },
+    {
+      "id": "q60211",
+      "question": "___ elderly deserve care and respect.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "Use 'the' before adjectives such as 'elderly' when referring to a group of people."
+    },
+    {
+      "id": "q60212",
+      "question": "She prefers ___ coffee without sugar.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "no article",
+      "explanation": "Coffee used as an uncountable noun in a general sense takes no article."
+    },
+    {
+      "id": "q60213",
+      "question": "We watched ___ television after dinner.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "no article",
+      "explanation": "The expression 'watch television' generally takes no article."
+    },
+    {
+      "id": "q60214",
+      "question": "___ Mount Fuji is a famous landmark in Japan.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Individual mountain peaks generally take no article."
+    },
+    {
+      "id": "q60215",
+      "question": "He has great ___ patience with children.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "no article",
+      "explanation": "The abstract noun 'patience' is uncountable and used generally here."
+    },
+    {
+      "id": "q60216",
+      "question": "My cousins play ___ chess every evening.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "no article",
+      "explanation": "Names of games generally take no article."
+    },
+    {
+      "id": "q60217",
+      "question": "She is studying ___ mathematics at college.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "no article",
+      "explanation": "Names of academic subjects generally take no article."
+    },
+    {
+      "id": "q60218",
+      "question": "___ milk in this bottle has turned sour.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "Use 'the' because the phrase 'in this bottle' identifies specific milk."
+    },
+    {
+      "id": "q60219",
+      "question": "They travelled by ___ train.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "no article",
+      "explanation": "Means of transport after 'by' generally take no article."
+    },
+    {
+      "id": "q60220",
+      "question": "___ people need clean air to stay healthy.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "The plural noun 'people' is used generally, so no article is needed."
+    }
+  ]
+}

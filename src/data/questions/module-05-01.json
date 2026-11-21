@@ -1,0 +1,103 @@
+{
+  "subtopicId": "subtopic-05-01",
+  "questions": [
+    {
+      "id": "q50301",
+      "question": "Choose the correct sentence.",
+      "options": ["Gold is used in jewellery.", "A gold is used in jewellery.", "The gold is used in jewellery.", "An gold is used in jewellery."],
+      "correctAnswer": "Gold is used in jewellery.",
+      "explanation": "Material nouns used in a general sense usually take no article."
+    },
+    {
+      "id": "q50302",
+      "question": "Complete the sentence: ___ silver in this necklace is genuine.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The article 'the' is used because the sentence refers to specific silver in a particular necklace."
+    },
+    {
+      "id": "q50303",
+      "question": "Choose the correct sentence.",
+      "options": ["The wood is used to make furniture.", "Wood is used to make furniture.", "A wood is used to make furniture.", "An wood is used to make furniture."],
+      "correctAnswer": "Wood is used to make furniture.",
+      "explanation": "Wood as a general material is uncountable and normally takes no article."
+    },
+    {
+      "id": "q50304",
+      "question": "Complete the sentence: The workers used ___ iron supplied by the factory.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "The sentence identifies a particular supply of iron."
+    },
+    {
+      "id": "q50305",
+      "question": "Which sentence uses 'glass' as a material noun?",
+      "options": ["She bought a glass.", "The glass broke.", "Glass is used in windows.", "He filled the glass."],
+      "correctAnswer": "Glass is used in windows.",
+      "explanation": "Here, 'glass' refers to the material, not a drinking container."
+    },
+    {
+      "id": "q50306",
+      "question": "Complete the sentence: My father bought ___ gold medal for the competition.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "The phrase 'a gold medal' refers to one countable object. 'Gold' describes its material."
+    },
+    {
+      "id": "q50307",
+      "question": "Choose the correct sentence.",
+      "options": ["Cotton is grown in many parts of India.", "A cotton is grown in many parts of India.", "An cotton is grown in many parts of India.", "The cotton is grown in many parts of India."],
+      "correctAnswer": "Cotton is grown in many parts of India.",
+      "explanation": "Cotton used as a general material or crop takes no article."
+    },
+    {
+      "id": "q50308",
+      "question": "Complete the sentence: ___ plastic used in these bottles is recyclable.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The sentence refers to the particular plastic used in these bottles."
+    },
+    {
+      "id": "q50309",
+      "question": "Which sentence uses 'paper' as a countable noun?",
+      "options": ["Paper is made from wood.", "The paper used for printing is expensive.", "She submitted a paper at the conference.", "Paper is recyclable."],
+      "correctAnswer": "She submitted a paper at the conference.",
+      "explanation": "Here, 'a paper' means an academic article or written research document."
+    },
+    {
+      "id": "q50310",
+      "question": "Complete the sentence: The sculpture was made of ___ stone.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "no article",
+      "explanation": "Stone is used as a material noun in this general description."
+    },
+    {
+      "id": "q50311",
+      "question": "Choose the correct sentence.",
+      "options": ["The copper is a good conductor of electricity.", "Copper is a good conductor of electricity.", "A copper is a good conductor of electricity.", "An copper is a good conductor of electricity."],
+      "correctAnswer": "Copper is a good conductor of electricity.",
+      "explanation": "Copper as a general material takes no article."
+    },
+    {
+      "id": "q50312",
+      "question": "Complete the sentence: We examined ___ oil extracted from this plant.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "The phrase identifies a specific quantity or type of oil extracted from this plant."
+    },
+    {
+      "id": "q50313",
+      "question": "Which sentence is grammatically correct?",
+      "options": ["A furniture is made of wood.", "Furniture is made of wood.", "The furniture is made of a wood.", "An furniture is made of wood."],
+      "correctAnswer": "Furniture is made of wood.",
+      "explanation": "Furniture and wood are both used as general uncountable nouns here."
+    },
+    {
+      "id": "q50314",
+      "question": "Complete the sentence: This ring is made of ___ pure gold.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "no article",
+      "explanation": "Pure gold refers to the material in general. The adjective 'pure' does not make it countable."
+    }
+  ]
+}

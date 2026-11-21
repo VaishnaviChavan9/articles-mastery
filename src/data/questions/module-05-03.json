@@ -1,0 +1,103 @@
+{
+  "subtopicId": "subtopic-05-05",
+  "questions": [
+    {
+      "id": "q50501",
+      "question": "Complete the sentence: ___ rich should help those in need.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "'The rich' refers to rich people as a group. Adjectives used this way take 'the'."
+    },
+    {
+      "id": "q50502",
+      "question": "Choose the correct sentence.",
+      "options": ["Poor need access to education.", "The poor need access to education.", "A poor need access to education.", "An poor need access to education."],
+      "correctAnswer": "The poor need access to education.",
+      "explanation": "'The poor' refers to poor people collectively and takes a plural verb."
+    },
+    {
+      "id": "q50503",
+      "question": "Complete the sentence: The government introduced a scheme to support ___ unemployed.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "'The unemployed' refers to people who do not have jobs as a group."
+    },
+    {
+      "id": "q50504",
+      "question": "Which phrase refers to elderly people as a group?",
+      "options": ["An elderly", "A elderly", "The elderly", "Elderly a"],
+      "correctAnswer": "The elderly",
+      "explanation": "The structure 'the + adjective' can refer to a whole group of people."
+    },
+    {
+      "id": "q50505",
+      "question": "Complete the sentence: ___ injured were taken to hospital.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "'The injured' means the people who were injured."
+    },
+    {
+      "id": "q50506",
+      "question": "Choose the grammatically correct sentence.",
+      "options": ["The blind needs special support.", "The blind need special support.", "A blind need special support.", "An blind need special support."],
+      "correctAnswer": "The blind need special support.",
+      "explanation": "'The blind' refers to blind people collectively and normally takes a plural verb."
+    },
+    {
+      "id": "q50507",
+      "question": "Complete the sentence: The charity provides food for ___ homeless.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "'The homeless' refers to people without homes as a group."
+    },
+    {
+      "id": "q50508",
+      "question": "Which sentence uses an adjective as a noun?",
+      "options": ["The tall building is new.", "The young deserve opportunities.", "A young student arrived.", "She is a talented artist."],
+      "correctAnswer": "The young deserve opportunities.",
+      "explanation": "'The young' refers to young people as a group, rather than describing a following noun."
+    },
+    {
+      "id": "q50509",
+      "question": "Complete the sentence: We should respect ___ elderly.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "'The elderly' is a group expression referring to older people."
+    },
+    {
+      "id": "q50510",
+      "question": "Choose the correct sentence.",
+      "options": ["The unemployed is looking for work.", "The unemployed are looking for work.", "An unemployed are looking for work.", "A unemployed are looking for work."],
+      "correctAnswer": "The unemployed are looking for work.",
+      "explanation": "'The unemployed' refers to multiple people, so it takes a plural verb."
+    },
+    {
+      "id": "q50511",
+      "question": "Complete the sentence: The organisation works to protect ___ vulnerable.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "'The vulnerable' refers to people who are at risk or need protection."
+    },
+    {
+      "id": "q50512",
+      "question": "Which sentence is correct?",
+      "options": ["The disabled deserves equal opportunities.", "The disabled deserve equal opportunities.", "A disabled deserve equal opportunities.", "An disabled deserve equal opportunities."],
+      "correctAnswer": "The disabled deserve equal opportunities.",
+      "explanation": "'The disabled' is a collective expression referring to disabled people and takes a plural verb."
+    },
+    {
+      "id": "q50513",
+      "question": "Complete the sentence: The programme aims to provide education for ___ disadvantaged.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "'The disadvantaged' refers to people who face social or economic difficulties."
+    },
+    {
+      "id": "q50514",
+      "question": "Choose the correct sentence.",
+      "options": ["The French are known for their diverse regional cuisines.", "A French are known for their diverse regional cuisines.", "An French are known for their diverse regional cuisines.", "French is known for their diverse regional cuisines."],
+      "correctAnswer": "The French are known for their diverse regional cuisines.",
+      "explanation": "'The + nationality adjective' can refer to an entire people. It takes a plural verb."
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "moduleId": "module-06",
+  "lessons": [
+    {
+      "id": "lesson-06-01",
+      "subtopicId": "subtopic-06-01",
+      "title": "Mixed Practice: A, An and The",
+      "sections": [
+        {
+          "heading": "Choosing Between A and An",
+          "content": "Use A before consonant sounds and An before vowel sounds. Always consider pronunciation rather than just the first letter.",
+          "examples": [
+            {
+              "sentence": "She is an excellent speaker.",
+              "highlight": "an excellent speaker",
+              "explanation": "Excellent begins with a vowel sound, so An is used."
+            },
+            {
+              "sentence": "He bought a European car.",
+              "highlight": "a European car",
+              "explanation": "European begins with the consonant sound /j/."
+            }
+          ]
+        },
+        {
+          "heading": "Choosing Between A, An and The",
+          "content": "A and An introduce a singular countable noun that is not specifically identified. The identifies a particular noun that is known or identifiable.",
+          "examples": [
+            {
+              "sentence": "I saw a bird on the roof.",
+              "highlight": "a bird",
+              "explanation": "The bird is introduced for the first time."
+            },
+            {
+              "sentence": "The bird was singing.",
+              "highlight": "The bird",
+              "explanation": "The refers to the bird already mentioned."
+            }
+          ]
+        },
+        {
+          "heading": "Using The for Identifiable Nouns",
+          "content": "Use The when the listener or reader can identify which person or thing is being discussed. This may be because it was mentioned earlier, is unique in the context, or is described by additional information.",
+          "examples": [
+            {
+              "sentence": "Please close the door.",
+              "highlight": "the door",
+              "explanation": "The speaker and listener can identify the relevant door from the situation."
+            },
+            {
+              "sentence": "The book on the top shelf belongs to me.",
+              "highlight": "The book",
+              "explanation": "The phrase 'on the top shelf' identifies a particular book."
+            }
+          ]
+        },
+        {
+          "heading": "Applying Multiple Rules",
+          "content": "A sentence may contain several nouns that require different article choices. Identify each noun, check whether it is countable, and decide whether it is general or specific.",
+          "examples": [
+            {
+              "sentence": "An engineer visited the factory to inspect a machine.",
+              "highlight": "An engineer / the factory / a machine",
+              "explanation": "An introduces the engineer, The identifies the factory, and A introduces one unspecified machine."
+            },
+            {
+              "sentence": "The old man bought an umbrella from a shop.",
+              "highlight": "The old man / an umbrella / a shop",
+              "explanation": "The identifies a particular man, An introduces an umbrella, and A introduces an unspecified shop."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-06-02",
+      "subtopicId": "subtopic-06-02",
+      "title": "Zero Article Practice",
+      "sections": [
+        {
+          "heading": "General Nouns",
+          "content": "Do not use an article with plural countable nouns or uncountable nouns when speaking about them generally.",
+          "examples": [
+            {
+              "sentence": "Trees provide oxygen.",
+              "highlight": "Trees",
+              "explanation": "Trees refers to trees in general."
+            },
+            {
+              "sentence": "Education improves opportunities.",
+              "highlight": "Education",
+              "explanation": "Education is used as a general uncountable concept."
+            }
+          ]
+        },
+        {
+          "heading": "Names and Proper Nouns",
+          "content": "Most personal names, city names, language names and country names are used without articles. Remember that some geographical and organisational names are exceptions.",
+          "examples": [
+            {
+              "sentence": "Riya speaks Hindi.",
+              "highlight": "Riya / Hindi",
+              "explanation": "The personal name and language name do not need articles."
+            },
+            {
+              "sentence": "India has many different languages.",
+              "highlight": "India",
+              "explanation": "Most country names are used without an article."
+            }
+          ]
+        },
+        {
+          "heading": "Meals, Sports and Subjects",
+          "content": "Regular meal names, sports, games and academic subjects generally take no article when used in their ordinary general sense.",
+          "examples": [
+            {
+              "sentence": "We play volleyball after college.",
+              "highlight": "volleyball",
+              "explanation": "The name of the sport takes no article."
+            },
+            {
+              "sentence": "She studies economics.",
+              "highlight": "economics",
+              "explanation": "The academic subject is used without an article."
+            }
+          ]
+        },
+        {
+          "heading": "Institutional Expressions",
+          "content": "Some expressions use no article when referring to the normal purpose of an institution or activity. Examples include go to school, go to bed, go to work and be in prison.",
+          "examples": [
+            {
+              "sentence": "The children go to school every morning.",
+              "highlight": "school",
+              "explanation": "School refers to the usual educational activity."
+            },
+            {
+              "sentence": "My mother is at work.",
+              "highlight": "work",
+              "explanation": "Work is used in a conventional expression without an article."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-06-03",
+      "subtopicId": "subtopic-06-03",
+      "title": "Error Detection and Correction",
+      "sections": [
+        {
+          "heading": "Common Article Errors",
+          "content": "A common mistake is using A or An with plural or uncountable nouns. Remember that a singular countable noun normally needs a determiner.",
+          "examples": [
+            {
+              "sentence": "Incorrect: She gave me an advice.",
+              "highlight": "an advice",
+              "explanation": "Advice is uncountable. Correct form: She gave me advice."
+            },
+            {
+              "sentence": "Incorrect: He bought a books.",
+              "highlight": "a books",
+              "explanation": "A cannot be used before a plural noun. Correct form: He bought books."
+            }
+          ]
+        },
+        {
+          "heading": "Sound-Based Errors",
+          "content": "Do not select A or An only by looking at the first letter. Listen to the first sound of the word.",
+          "examples": [
+            {
+              "sentence": "Incorrect: She is a honest woman.",
+              "highlight": "a honest",
+              "explanation": "Honest begins with a vowel sound. Correct form: an honest woman."
+            },
+            {
+              "sentence": "Incorrect: He is an university student.",
+              "highlight": "an university",
+              "explanation": "University begins with the consonant sound /j/. Correct form: a university student."
+            }
+          ]
+        },
+        {
+          "heading": "General vs Specific Meaning",
+          "content": "Using The unnecessarily with a general noun can make a sentence incorrect or change its meaning. Use The when the noun is identifiable or specific.",
+          "examples": [
+            {
+              "sentence": "Incorrect: The water is essential for life.",
+              "highlight": "The water",
+              "explanation": "For a general statement, use: Water is essential for life."
+            },
+            {
+              "sentence": "The water in this bottle is cold.",
+              "highlight": "The water",
+              "explanation": "This is correct because the sentence refers to specific water."
+            }
+          ]
+        },
+        {
+          "heading": "Missing Articles",
+          "content": "A singular countable noun should not normally be used alone when it needs a determiner. Add an appropriate article or another determiner.",
+          "examples": [
+            {
+              "sentence": "Incorrect: She is teacher.",
+              "highlight": "is teacher",
+              "explanation": "Teacher is a singular countable noun. Correct form: She is a teacher."
+            },
+            {
+              "sentence": "Incorrect: Sun rises in east.",
+              "highlight": "Sun / east",
+              "explanation": "Correct form: The sun rises in the east."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-06-04",
+      "subtopicId": "subtopic-06-04",
+      "title": "Advanced Mixed Exercises",
+      "sections": [
+        {
+          "heading": "Context-Based Article Selection",
+          "content": "Sometimes the correct article depends on the meaning of the entire sentence. Read the context carefully before choosing an article.",
+          "examples": [
+            {
+              "sentence": "She went to the bank to deposit money.",
+              "highlight": "the bank",
+              "explanation": "The refers to a particular bank that is identifiable from the context."
+            },
+            {
+              "sentence": "She wants to work in banking.",
+              "highlight": "banking",
+              "explanation": "Banking is used as a general field of work without an article."
+            }
+          ]
+        },
+        {
+          "heading": "Meaning Changes with Articles",
+          "content": "Adding or removing an article can change the meaning of a noun. Some nouns can be countable in one context and uncountable in another.",
+          "examples": [
+            {
+              "sentence": "I need some paper.",
+              "highlight": "paper",
+              "explanation": "Paper means the material and is uncountable."
+            },
+            {
+              "sentence": "I read a paper about artificial intelligence.",
+              "highlight": "a paper",
+              "explanation": "Paper means one written document or research article."
+            }
+          ]
+        },
+        {
+          "heading": "Articles with Special Expressions",
+          "content": "Certain expressions have conventional article patterns. These include geographical names, musical instruments, ordinal numbers, superlatives and institutional expressions.",
+          "examples": [
+            {
+              "sentence": "She is learning to play the violin.",
+              "highlight": "the violin",
+              "explanation": "The is commonly used with musical instruments when discussing the ability to play them."
+            },
+            {
+              "sentence": "This is the most difficult question.",
+              "highlight": "the most difficult",
+              "explanation": "The is used before a superlative adjective."
+            }
+          ]
+        },
+        {
+          "heading": "Combining Multiple Rules",
+          "content": "Advanced article questions may combine professions, geographical names, abstract nouns, specific references and zero-article rules in one sentence.",
+          "examples": [
+            {
+              "sentence": "An Indian scientist presented the research at the conference.",
+              "highlight": "An Indian scientist / the research / the conference",
+              "explanation": "An is used before Indian because it begins with a vowel sound. The identifies specific research and a particular conference."
+            },
+            {
+              "sentence": "Children need education, but the children in this class need additional support.",
+              "highlight": "Children / education / the children",
+              "explanation": "Children and education are used generally in the first part. The identifies a particular group in the second part."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-06-05",
+      "subtopicId": "subtopic-06-05",
+      "title": "Final Assessment",
+      "sections": [
+        {
+          "heading": "Assessment Instructions",
+          "content": "The final assessment checks your understanding of all article rules covered in this course. Read each question carefully and choose the most appropriate answer. Pay attention to pronunciation, noun type, context and meaning.",
+          "examples": [
+            {
+              "sentence": "An hour is enough for this task.",
+              "highlight": "An hour",
+              "explanation": "Hour begins with a vowel sound because the H is silent."
+            },
+            {
+              "sentence": "The Nile is one of the longest rivers in the world.",
+              "highlight": "The Nile",
+              "explanation": "The is used before the names of many rivers."
+            }
+          ]
+        },
+        {
+          "heading": "Topics Covered",
+          "content": "The assessment includes indefinite articles, definite articles, zero articles, countable and uncountable nouns, abstract and material nouns, collective nouns, professions, titles, geographical names and advanced article patterns.",
+          "examples": [
+            {
+              "sentence": "A committee discussed the proposal.",
+              "highlight": "A committee / the proposal",
+              "explanation": "A introduces an unspecified committee, while The identifies a particular proposal."
+            },
+            {
+              "sentence": "Knowledge and experience are valuable.",
+              "highlight": "Knowledge and experience",
+              "explanation": "These nouns are used generally without articles."
+            }
+          ]
+        },
+        {
+          "heading": "How to Review Your Mistakes",
+          "content": "After completing the assessment, review every incorrect answer. Identify whether the mistake involved sound, noun countability, general or specific meaning, a fixed expression or an exception. Revisit the relevant lesson and practise again.",
+          "examples": [
+            {
+              "sentence": "Incorrect: She is an European citizen.",
+              "highlight": "an European",
+              "explanation": "European begins with a consonant sound. Correct form: She is a European citizen."
+            },
+            {
+              "sentence": "Incorrect: The honesty is important.",
+              "highlight": "The honesty",
+              "explanation": "Honesty is used generally here. Correct form: Honesty is important."
+            }
+          ]
+        },
+        {
+          "heading": "Completion Goal",
+          "content": "Aim to understand why an article is correct, not just memorise the answer. A strong understanding of the rules will help you use articles accurately in speaking, writing and competitive examinations.",
+          "examples": [
+            {
+              "sentence": "She gave an excellent answer to the difficult question.",
+              "highlight": "an excellent answer / the difficult question",
+              "explanation": "An introduces an answer beginning with a vowel sound, while The identifies a particular question."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

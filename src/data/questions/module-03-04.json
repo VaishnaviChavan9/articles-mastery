@@ -1,0 +1,122 @@
+
+{
+  "subtopicId": "subtopic-03-04",
+  "questions": [
+    {
+      "id": "q30401",
+      "question": "This is ___ most interesting chapter in the book.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The superlative 'most interesting' identifies one chapter as the highest in degree."
+    },
+    {
+      "id": "q30402",
+      "question": "She was ___ first person to reach the finish line.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "Ordinal numbers such as first, second and third normally take 'the' when identifying a position in a sequence."
+    },
+    {
+      "id": "q30403",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "He is tallest player in the team.",
+        "He is the tallest player in the team.",
+        "He is a tallest player in the team.",
+        "He is an tallest player in the team."
+      ],
+      "correctAnswer": "He is the tallest player in the team.",
+      "explanation": "The superlative 'tallest' identifies the player with the greatest height in the group."
+    },
+    {
+      "id": "q30404",
+      "question": "This is ___ second time I have visited this museum.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "Ordinal numbers used to indicate an order or occurrence normally take 'the'."
+    },
+    {
+      "id": "q30405",
+      "question": "Which option correctly completes the sentence? Mount Everest is one of ___ highest mountains in the world.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The superlative phrase 'highest mountains' takes 'the', even after 'one of'."
+    },
+    {
+      "id": "q30406",
+      "question": "Choose the correct form: This is ___ least expensive option available.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The superlative expression 'least expensive' normally takes 'the'."
+    },
+    {
+      "id": "q30407",
+      "question": "Which sentence is correct?",
+      "options": [
+        "Today is the Monday.",
+        "Today is a Monday.",
+        "Today is Monday.",
+        "Today is an Monday."
+      ],
+      "correctAnswer": "Today is Monday.",
+      "explanation": "Names of days used in their ordinary calendar sense do not take an article."
+    },
+    {
+      "id": "q30408",
+      "question": "He finished in ___ third position.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The ordinal number 'third' takes 'the' when indicating a specific position."
+    },
+    {
+      "id": "q30409",
+      "question": "Which sentence correctly compares two candidates without using a superlative?",
+      "options": [
+        "She is the better of the two candidates.",
+        "She is a better of the two candidates.",
+        "She is best of the two candidates.",
+        "She is the best of the two candidates."
+      ],
+      "correctAnswer": "She is the better of the two candidates.",
+      "explanation": "When comparing exactly two people or things, the comparative 'better' can take 'the' to identify the one with the advantage."
+    },
+    {
+      "id": "q30410",
+      "question": "This is ___ most useful tool for the task.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The superlative 'most useful' identifies the tool considered highest in usefulness in the given context."
+    },
+    {
+      "id": "q30411",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She is the happiest when she is painting.",
+        "She is happiest when she is painting.",
+        "She is a happiest when she is painting.",
+        "She is an happiest when she is painting."
+      ],
+      "correctAnswer": "She is happiest when she is painting.",
+      "explanation": "A superlative adjective used predicatively to describe a state or feeling can appear without 'the'."
+    },
+    {
+      "id": "q30412",
+      "question": "The library is on ___ fourth floor of the building.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "Ordinal numbers identifying a particular floor take 'the'."
+    },
+    {
+      "id": "q30413",
+      "question": "Complete the expression: ___ sooner we start, ___ better it will be.",
+      "options": [
+        "A, a",
+        "The, the",
+        "An, the",
+        "No article, the"
+      ],
+      "correctAnswer": "The, the",
+      "explanation": "The paired comparative structure 'the sooner..., the better...' uses 'the' before both comparative forms."
+    }
+  ]
+}

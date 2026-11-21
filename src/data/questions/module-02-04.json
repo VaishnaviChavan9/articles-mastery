@@ -1,0 +1,26 @@
+
+{
+  "subtopicId": "subtopic-02-04",
+  "questions": [
+    {"id":"q001","question":"Choose the correct phrase.","options":["a hour","an hour","the hour (first mention)","no article hour"],"correctAnswer":"an hour","explanation":"The H in hour is silent."},
+    {"id":"q002","question":"Choose the correct phrase.","options":["a honest person","an honest person","a honesty person","no article honest person"],"correctAnswer":"an honest person","explanation":"The H in honest is silent."},
+    {"id":"q003","question":"Choose the correct phrase.","options":["a heir","an heir","a heirloom (first mention)","no article heir"],"correctAnswer":"an heir","explanation":"The H in heir is silent."},
+    {"id":"q004","question":"Choose the correct phrase.","options":["a honour","an honour","a honourable","no article honour"],"correctAnswer":"an honour","explanation":"The H in honour is silent."},
+    {"id":"q005","question":"Choose the correct phrase.","options":["an house","a house","an house","no article house"],"correctAnswer":"a house","explanation":"The H in house is pronounced."},
+    {"id":"q006","question":"Choose the correct phrase.","options":["an hotel","a hotel","an hotel room (first mention)","no article hotel"],"correctAnswer":"a hotel","explanation":"The H in hotel is pronounced in standard modern usage."},
+    {"id":"q007","question":"Choose the correct phrase.","options":["an history book","a history book","an historical book (always)","no article history book"],"correctAnswer":"a history book","explanation":"History begins with a pronounced H."},
+    {"id":"q008","question":"Choose the correct phrase.","options":["a honest answer","an honest answer","a hour-long meeting","no article honest answer"],"correctAnswer":"an honest answer","explanation":"Honest begins with a vowel sound."},
+    {"id":"q009","question":"Which word has a silent initial H in standard pronunciation?","options":["house","happy","hour","hand"],"correctAnswer":"hour","explanation":"The H in hour is not pronounced."},
+    {"id":"q010","question":"Which word has a pronounced initial H?","options":["honest","heir","honour","history"],"correctAnswer":"history","explanation":"The H in history is pronounced."},
+    {"id":"q011","question":"Choose the correct phrase.","options":["an honourable act","a honourable act","a honest act","an hotel"],"correctAnswer":"an honourable act","explanation":"The H in honourable is silent."},
+    {"id":"q012","question":"Choose the correct phrase.","options":["a heir to the throne","an heir to the throne","a honest heir","no article heir"],"correctAnswer":"an heir to the throne","explanation":"Heir begins with a vowel sound."},
+    {"id":"q013","question":"Why do we say 'an hour'?","options":["Because hour starts with a vowel letter","Because H is silent","Because hour is plural","Because hour is uncountable"],"correctAnswer":"Because H is silent","explanation":"The first pronounced sound in hour is a vowel sound."},
+    {"id":"q014","question":"Choose the correct phrase.","options":["an happy child","a happy child","an house","no article happy child"],"correctAnswer":"a happy child","explanation":"Happy begins with a pronounced consonant H."},
+    {"id":"q015","question":"Choose the correct phrase.","options":["a historic event","an historic event (in standard modern pronunciation)","an history event","no article historic event"],"correctAnswer":"a historic event","explanation":"In standard modern pronunciation, the H in historic is pronounced."},
+    {"id":"q016","question":"Which pair is correct?","options":["a hour, an hotel","an honest man, a house","an history book, a heir","a honour, an happy child"],"correctAnswer":"an honest man, a house","explanation":"Honest has a silent H; house has a pronounced H."},
+    {"id":"q017","question":"Choose the correct phrase.","options":["an H-shaped object","a H-shaped object","a hour","no article H-shaped object"],"correctAnswer":"an H-shaped object","explanation":"The letter H is pronounced 'aitch', beginning with a vowel sound."},
+    {"id":"q018","question":"Choose the correct phrase.","options":["a honour","an honour","a heir","an history"],"correctAnswer":"an honour","explanation":"Honour begins with a vowel sound."},
+    {"id":"q019","question":"What should determine the article before an H-word?","options":["Whether H is capitalised","Whether H is written","Whether H is pronounced","The word's length"],"correctAnswer":"Whether H is pronounced","explanation":"Use An if the first pronounced sound is a vowel; use A if it is a consonant."},
+    {"id":"q020","question":"Choose the correct sentence.","options":["It took a hour to finish.","He is an honest man.","She stayed in an hotel.","He wrote an history book."],"correctAnswer":"He is an honest man.","explanation":"Honest has a silent H and therefore takes An."}
+  ]
+}

@@ -1,0 +1,115 @@
+
+{
+  "subtopicId": "subtopic-03-03",
+  "questions": [
+    {
+      "id": "q30301",
+      "question": "The compass needle points towards ___ north.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "The four cardinal directions used as directions generally do not take an article."
+    },
+    {
+      "id": "q30302",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The sky is clear today.",
+        "A sky is clear today.",
+        "An sky is clear today.",
+        "Sky is clear today."
+      ],
+      "correctAnswer": "The sky is clear today.",
+      "explanation": "The sky is treated as a unique entity in the ordinary context."
+    },
+    {
+      "id": "q30303",
+      "question": "The spacecraft travelled beyond ___ atmosphere of Earth.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The atmosphere refers to the particular atmospheric layer surrounding Earth."
+    },
+    {
+      "id": "q30304",
+      "question": "Choose the correct completion: ___ universe contains billions of galaxies.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The universe is understood as a unique entity."
+    },
+    {
+      "id": "q30305",
+      "question": "Which sentence uses the article incorrectly?",
+      "options": [
+        "The Earth revolves around the Sun.",
+        "The sky became dark.",
+        "The universe is expanding.",
+        "The space between the buildings is narrow."
+      ],
+      "correctAnswer": "The Earth revolves around the Sun.",
+      "explanation": "In standard article exercises, 'Earth revolves around the Sun' is commonly used without 'the' before Earth when referring to the planet by name. However, 'the Earth' is also accepted in many contexts, so this is not a strict error."
+    },
+    {
+      "id": "q30306",
+      "question": "The satellite was launched into ___ space.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Space meaning the region beyond Earth's atmosphere is normally used without an article."
+    },
+    {
+      "id": "q30307",
+      "question": "Which expression is correct?",
+      "options": [
+        "at a same time",
+        "at an same time",
+        "at the same time",
+        "at same time"
+      ],
+      "correctAnswer": "at the same time",
+      "explanation": "The expression 'the same' uses 'the' because it identifies something as identical or already specified."
+    },
+    {
+      "id": "q30308",
+      "question": "The explorers studied ___ horizon as the sun disappeared.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The horizon refers to the visible line separating the earth or sea from the sky in that context."
+    },
+    {
+      "id": "q30309",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The nature is beautiful.",
+        "Nature is beautiful.",
+        "A nature is beautiful.",
+        "An nature is beautiful."
+      ],
+      "correctAnswer": "Nature is beautiful.",
+      "explanation": "Nature used in the general sense of the natural world normally takes no article."
+    },
+    {
+      "id": "q30310",
+      "question": "The pilot could see ___ land below the aircraft.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Land meaning the solid surface of the Earth is generally uncountable and does not take an article in this broad sense."
+    },
+    {
+      "id": "q30311",
+      "question": "Which phrase is grammatically correct?",
+      "options": [
+        "the ground beneath our feet",
+        "a ground beneath our feet",
+        "an ground beneath our feet",
+        "ground beneath our feet in every context"
+      ],
+      "correctAnswer": "the ground beneath our feet",
+      "explanation": "The phrase refers to the particular ground beneath the people being discussed."
+    },
+    {
+      "id": "q30312",
+      "question": "The astronomer observed ___ Milky Way through a telescope.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The Milky Way is the established name of our galaxy and takes 'the'."
+    }
+  ]
+}

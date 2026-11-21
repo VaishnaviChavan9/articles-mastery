@@ -1,0 +1,120 @@
+
+{
+  "subtopicId": "subtopic-03-05",
+  "questions": [
+    {
+      "id": "q30501",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The Mount Fuji is in Japan.",
+        "Mount Fuji is in Japan.",
+        "A Mount Fuji is in Japan.",
+        "An Mount Fuji is in Japan."
+      ],
+      "correctAnswer": "Mount Fuji is in Japan.",
+      "explanation": "The names of individual mountains generally do not take 'the'."
+    },
+    {
+      "id": "q30502",
+      "question": "The Sahara is one of ___ largest deserts in the world.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The Sahara is the established name of a desert and takes 'the'."
+    },
+    {
+      "id": "q30503",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The Asia is the largest continent.",
+        "Asia is the largest continent.",
+        "An Asia is the largest continent.",
+        "A Asia is the largest continent."
+      ],
+      "correctAnswer": "Asia is the largest continent.",
+      "explanation": "Names of continents generally do not take an article."
+    },
+    {
+      "id": "q30504",
+      "question": "They went trekking in ___ Alps during their holiday.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "Mountain ranges generally take 'the'."
+    },
+    {
+      "id": "q30505",
+      "question": "Which geographical name normally takes 'the'?",
+      "options": [
+        "Lake Victoria",
+        "Mount Kilimanjaro",
+        "The Amazon rainforest",
+        "Africa"
+      ],
+      "correctAnswer": "The Amazon rainforest",
+      "explanation": "Names of certain geographical regions and features containing descriptive common nouns often take 'the'."
+    },
+    {
+      "id": "q30506",
+      "question": "We spent our holiday in ___ Maldives.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The Maldives is the conventional name of an island country and takes 'the'."
+    },
+    {
+      "id": "q30507",
+      "question": "Which sentence is grammatically correct?",
+      "options": [
+        "The Lake Superior is very large.",
+        "Lake Superior is very large.",
+        "A Lake Superior is very large.",
+        "An Lake Superior is very large."
+      ],
+      "correctAnswer": "Lake Superior is very large.",
+      "explanation": "The names of individual lakes generally do not take 'the'."
+    },
+    {
+      "id": "q30508",
+      "question": "The expedition crossed ___ Gobi Desert.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "Desert names commonly take 'the'."
+    },
+    {
+      "id": "q30509",
+      "question": "Choose the correct completion: ___ Europe has many historic cities.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Names of continents, such as Europe, generally take no article."
+    },
+    {
+      "id": "q30510",
+      "question": "Which option is correctly written?",
+      "options": [
+        "the Mount Everest",
+        "Mount Everest",
+        "a Mount Everest",
+        "an Mount Everest"
+      ],
+      "correctAnswer": "Mount Everest",
+      "explanation": "An individual mountain with a proper name normally does not take 'the'."
+    },
+    {
+      "id": "q30511",
+      "question": "The hikers explored ___ Rocky Mountains.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "Names of mountain ranges generally take 'the'."
+    },
+    {
+      "id": "q30512",
+      "question": "Which sentence uses the article correctly?",
+      "options": [
+        "Sri Lanka is an island nation in the Indian Ocean.",
+        "The Sri Lanka is an island nation in the Indian Ocean.",
+        "A Sri Lanka is an island nation in the Indian Ocean.",
+        "An Sri Lanka is an island nation in the Indian Ocean."
+      ],
+      "correctAnswer": "Sri Lanka is an island nation in the Indian Ocean.",
+      "explanation": "Most singular country names do not take 'the'."
+    }
+  ]
+}

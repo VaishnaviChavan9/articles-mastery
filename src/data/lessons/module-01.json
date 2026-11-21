@@ -165,6 +165,223 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "lesson-01-03",
+            "subtopicId": "subtopic-01-03",
+            "title": "Definite vs Indefinite Articles",
+            "description": "Understand when to use A, An and The based on whether a noun is general or specific.",
+            "sections": [
+                {
+                    "heading": "1. Indefinite Articles – A and An",
+                    "content": "A and An are used when we talk about a singular countable noun that is not specific or is being mentioned for the first time.",
+                    "examples": [
+                        {
+                            "sentence": "I saw a dog in the park.",
+                            "highlight": "a dog",
+                            "explanation": "We are mentioning a dog for the first time. The listener does not know which dog."
+                        },
+                        {
+                            "sentence": "She bought an umbrella.",
+                            "highlight": "an umbrella",
+                            "explanation": "An is used because umbrella begins with a vowel sound."
+                        }
+                    ]
+                },
+                {
+                    "heading": "2. Definite Article – The",
+                    "content": "The is used when the noun is specific, already known, or identifiable to the speaker and listener.",
+                    "examples": [
+                        {
+                            "sentence": "I saw a dog. The dog was barking.",
+                            "highlight": "The dog",
+                            "explanation": "The dog has already been introduced, so we now know which dog is being discussed."
+                        },
+                        {
+                            "sentence": "Please close the door.",
+                            "highlight": "the door",
+                            "explanation": "The speaker and listener can identify which door is meant from the situation."
+                        }
+                    ]
+                },
+                {
+                    "heading": "3. General vs Specific Meaning",
+                    "content": "A or An introduces one non-specific item. The points to a particular item that can be identified.",
+                    "examples": [
+                        {
+                            "sentence": "I need a pen.",
+                            "highlight": "a pen",
+                            "explanation": "Any suitable pen will do. No particular pen is identified."
+                        },
+                        {
+                            "sentence": "I need the pen on your desk.",
+                            "highlight": "the pen",
+                            "explanation": "A particular pen is identified by its location."
+                        }
+                    ]
+                },
+                {
+                    "heading": "4. When No Article Is Used",
+                    "content": "Sometimes we use no article before plural or uncountable nouns when speaking generally.",
+                    "examples": [
+                        {
+                            "sentence": "Books are useful.",
+                            "highlight": "Books",
+                            "explanation": "Books refers to books in general, not particular books."
+                        },
+                        {
+                            "sentence": "Water is essential for life.",
+                            "highlight": "Water",
+                            "explanation": "Water is used in a general sense, so no article is needed."
+                        }
+                    ]
+                },
+                {
+                    "heading": "5. Quick Comparison",
+                    "content": "Compare these sentences to understand how the article changes the meaning.",
+                    "examples": [
+                        {
+                            "sentence": "She wants a laptop.",
+                            "highlight": "a laptop",
+                            "explanation": "She wants any suitable laptop, not a particular one."
+                        },
+                        {
+                            "sentence": "She wants the laptop we saw yesterday.",
+                            "highlight": "the laptop",
+                            "explanation": "She wants a particular laptop that both people can identify."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "lesson-01-04",
+            "subtopicId": "subtopic-01-04",
+            "title": "Vowel and Consonant Sounds",
+            "description": "Learn why the sound at the beginning of a word determines whether we use A or An.",
+            "sections": [
+                {
+                    "heading": "1. The Basic Rule",
+                    "content": "Use A before a consonant sound and An before a vowel sound. The choice depends on pronunciation, not simply on the first written letter.",
+                    "examples": [
+                        {
+                            "sentence": "a book",
+                            "highlight": "a",
+                            "explanation": "Book begins with the consonant sound /b/."
+                        },
+                        {
+                            "sentence": "an apple",
+                            "highlight": "an",
+                            "explanation": "Apple begins with the vowel sound /æ/."
+                        }
+                    ]
+                },
+                {
+                    "heading": "2. Vowel Sounds",
+                    "content": "Vowel sounds include sounds commonly represented by A, E, I, O and U. Use An when the next word begins with a vowel sound.",
+                    "examples": [
+                        {
+                            "sentence": "an egg",
+                            "highlight": "an",
+                            "explanation": "Egg begins with a vowel sound."
+                        },
+                        {
+                            "sentence": "an orange",
+                            "highlight": "an",
+                            "explanation": "Orange begins with a vowel sound."
+                        },
+                        {
+                            "sentence": "an idea",
+                            "highlight": "an",
+                            "explanation": "Idea begins with a vowel sound."
+                        }
+                    ]
+                },
+                {
+                    "heading": "3. Consonant Sounds",
+                    "content": "Use A when the next word begins with a consonant sound.",
+                    "examples": [
+                        {
+                            "sentence": "a car",
+                            "highlight": "a",
+                            "explanation": "Car begins with the consonant sound /k/."
+                        },
+                        {
+                            "sentence": "a teacher",
+                            "highlight": "a",
+                            "explanation": "Teacher begins with the consonant sound /t/."
+                        },
+                        {
+                            "sentence": "a house",
+                            "highlight": "a",
+                            "explanation": "House begins with the consonant sound /h/."
+                        }
+                    ]
+                },
+                {
+                    "heading": "4. Words That Begin with U",
+                    "content": "Some words begin with the letter U but have a /y/ sound, like the beginning of the word 'yes'. These take A, not An.",
+                    "examples": [
+                        {
+                            "sentence": "a university",
+                            "highlight": "a",
+                            "explanation": "University begins with the consonant sound /y/."
+                        },
+                        {
+                            "sentence": "a useful tool",
+                            "highlight": "a",
+                            "explanation": "Useful begins with the consonant sound /y/."
+                        },
+                        {
+                            "sentence": "an umbrella",
+                            "highlight": "an",
+                            "explanation": "Umbrella begins with a vowel sound."
+                        }
+                    ]
+                },
+                {
+                    "heading": "5. Silent H Words",
+                    "content": "Some words begin with H, but the H is silent. Use An when the pronounced word begins with a vowel sound.",
+                    "examples": [
+                        {
+                            "sentence": "an hour",
+                            "highlight": "an",
+                            "explanation": "The H in hour is silent. The word begins with a vowel sound."
+                        },
+                        {
+                            "sentence": "an honest person",
+                            "highlight": "an",
+                            "explanation": "The H in honest is silent."
+                        },
+                        {
+                            "sentence": "a hotel",
+                            "highlight": "a",
+                            "explanation": "The H in hotel is pronounced, so it begins with a consonant sound."
+                        }
+                    ]
+                },
+                {
+                    "heading": "6. Abbreviations and Initialisms",
+                    "content": "For abbreviations read letter by letter, choose A or An based on the sound of the first spoken letter.",
+                    "examples": [
+                        {
+                            "sentence": "an MBA graduate",
+                            "highlight": "an",
+                            "explanation": "The letter M is pronounced 'em', which begins with a vowel sound."
+                        },
+                        {
+                            "sentence": "an FIR",
+                            "highlight": "an",
+                            "explanation": "The letter F is pronounced 'ef', which begins with a vowel sound."
+                        },
+                        {
+                            "sentence": "a USB drive",
+                            "highlight": "a",
+                            "explanation": "The letter U is pronounced 'you', which begins with a consonant sound."
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }

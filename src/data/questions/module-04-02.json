@@ -1,0 +1,155 @@
+
+{
+  "subtopicId": "subtopic-04-02",
+  "questions": [
+    {
+      "id": "q40201",
+      "question": "___ Rohan is my childhood friend.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Personal names normally do not take an article when used in their ordinary sense."
+    },
+    {
+      "id": "q40202",
+      "question": "She lives in ___ Bengaluru.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Names of most cities do not take an article."
+    },
+    {
+      "id": "q40203",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The Rahul is studying engineering.",
+        "Rahul is studying engineering.",
+        "A Rahul is studying engineering.",
+        "An Rahul is studying engineering."
+      ],
+      "correctAnswer": "Rahul is studying engineering.",
+      "explanation": "A person's name generally does not take an article."
+    },
+    {
+      "id": "q40204",
+      "question": "We visited ___ Karnataka during our holidays.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Names of most Indian states are used without an article."
+    },
+    {
+      "id": "q40205",
+      "question": "___ Mount Abu is a popular tourist destination.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Individual mountain names generally do not take an article."
+    },
+    {
+      "id": "q40206",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The Priya lives in Mumbai.",
+        "Priya lives in Mumbai.",
+        "A Priya lives in Mumbai.",
+        "An Priya lives in Mumbai."
+      ],
+      "correctAnswer": "Priya lives in Mumbai.",
+      "explanation": "Personal names and most city names are used without articles."
+    },
+    {
+      "id": "q40207",
+      "question": "He travelled to ___ France for higher studies.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Most singular country names, such as France, do not take an article."
+    },
+    {
+      "id": "q40208",
+      "question": "___ Asia has several different climates.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Names of continents generally do not take articles."
+    },
+    {
+      "id": "q40209",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The Lake Baikal is very deep.",
+        "Lake Baikal is very deep.",
+        "A Lake Baikal is very deep.",
+        "An Lake Baikal is very deep."
+      ],
+      "correctAnswer": "Lake Baikal is very deep.",
+      "explanation": "Names of individual lakes generally do not take 'the'."
+    },
+    {
+      "id": "q40210",
+      "question": "She was born in ___ Nepal.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Most country names, including Nepal, do not take an article."
+    },
+    {
+      "id": "q40211",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The Monday is my busiest day.",
+        "Monday is my busiest day.",
+        "A Monday is my busiest day.",
+        "An Monday is my busiest day."
+      ],
+      "correctAnswer": "Monday is my busiest day.",
+      "explanation": "Names of days generally do not take articles in ordinary calendar references."
+    },
+    {
+      "id": "q40212",
+      "question": "They climbed ___ Mount Kanchenjunga.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Individual mountain peaks generally take no article."
+    },
+    {
+      "id": "q40213",
+      "question": "___ Christmas is celebrated in December.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Names of festivals generally do not take an article."
+    },
+    {
+      "id": "q40214",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The London is a historic city.",
+        "London is a historic city.",
+        "A London is a historic city.",
+        "An London is a historic city."
+      ],
+      "correctAnswer": "London is a historic city.",
+      "explanation": "Most city names are used without articles."
+    },
+    {
+      "id": "q40215",
+      "question": "We are planning a trip to ___ Australia.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Most country names, including Australia, do not take an article."
+    },
+    {
+      "id": "q40216",
+      "question": "___ Diwali is an important festival in India.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Names of festivals such as Diwali generally take no article."
+    },
+    {
+      "id": "q40217",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The Dr Sharma is our family doctor.",
+        "Dr Sharma is our family doctor.",
+        "A Dr Sharma is our family doctor.",
+        "An Dr Sharma is our family doctor."
+      ],
+      "correctAnswer": "Dr Sharma is our family doctor.",
+      "explanation": "A title followed by a person's name, such as Dr Sharma, normally takes no article."
+    }
+  ]
+}

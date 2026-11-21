@@ -1,0 +1,161 @@
+
+{
+  "subtopicId": "subtopic-01-04",
+  "questions": [
+    {
+      "id": "q001",
+      "question": "Choose the correct article: ___ apple.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "Apple begins with a vowel sound."
+    },
+    {
+      "id": "q002",
+      "question": "Choose the correct article: ___ university.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "University begins with the consonant /y/ sound."
+    },
+    {
+      "id": "q003",
+      "question": "Choose the correct article: ___ hour.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "The H in hour is silent, so the word begins with a vowel sound."
+    },
+    {
+      "id": "q004",
+      "question": "Choose the correct article: ___ European country.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "European begins with the consonant /y/ sound."
+    },
+    {
+      "id": "q005",
+      "question": "Choose the correct article: ___ honest man.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "The H in honest is silent, so it begins with a vowel sound."
+    },
+    {
+      "id": "q006",
+      "question": "Choose the correct article: ___ useful book.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "Useful begins with the consonant /y/ sound."
+    },
+    {
+      "id": "q007",
+      "question": "Choose the correct article: ___ umbrella.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "Umbrella begins with a vowel sound."
+    },
+    {
+      "id": "q008",
+      "question": "Choose the correct article: ___ one-eyed man.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "One begins with the consonant /w/ sound."
+    },
+    {
+      "id": "q009",
+      "question": "Choose the correct article: ___ MBA student.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "M is pronounced 'em', which begins with a vowel sound."
+    },
+    {
+      "id": "q010",
+      "question": "Choose the correct article: ___ USB cable.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "U is pronounced 'you' in USB, beginning with a consonant sound."
+    },
+    {
+      "id": "q011",
+      "question": "Choose the correct article: ___ orange.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "Orange begins with a vowel sound."
+    },
+    {
+      "id": "q012",
+      "question": "Choose the correct article: ___ house.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "The H in house is pronounced, producing a consonant sound."
+    },
+    {
+      "id": "q013",
+      "question": "Choose the correct article: ___ FIR report.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "F is pronounced 'ef', which begins with a vowel sound."
+    },
+    {
+      "id": "q014",
+      "question": "Choose the correct article: ___ uniform.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "Uniform begins with the consonant /y/ sound."
+    },
+    {
+      "id": "q015",
+      "question": "Choose the correct article: ___ heir to the property.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "The H in heir is silent, so it begins with a vowel sound."
+    },
+    {
+      "id": "q016",
+      "question": "Which phrase is correct?",
+      "options": [
+        "an university",
+        "a university",
+        "an uniform",
+        "an useful idea"
+      ],
+      "correctAnswer": "a university",
+      "explanation": "University begins with a /y/ consonant sound."
+    },
+    {
+      "id": "q017",
+      "question": "Which phrase is correct?",
+      "options": [
+        "a hour",
+        "a honest person",
+        "an honest person",
+        "a heir"
+      ],
+      "correctAnswer": "an honest person",
+      "explanation": "Honest begins with a vowel sound because its H is silent."
+    },
+    {
+      "id": "q018",
+      "question": "Choose the correct article: ___ X-ray.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "The letter X is pronounced 'ex', beginning with a vowel sound."
+    },
+    {
+      "id": "q019",
+      "question": "Choose the correct article: ___ NASA scientist.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "NASA is pronounced as a word beginning with the consonant /n/ sound."
+    },
+    {
+      "id": "q020",
+      "question": "What determines whether we use A or An?",
+      "options": [
+        "The first written letter",
+        "The number of letters",
+        "The first pronounced sound",
+        "The meaning of the word"
+      ],
+      "correctAnswer": "The first pronounced sound",
+      "explanation": "A or An is selected according to the first sound of the following word, not simply its spelling."
+    }
+  ]
+}

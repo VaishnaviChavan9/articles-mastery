@@ -1,0 +1,221 @@
+
+{
+  "subtopicId": "subtopic-06-04",
+  "questions": [
+    {
+      "id": "q60401",
+      "question": "Choose the correct pair: She adopted ___ puppy and ___ kitten.",
+      "options": [
+        "a, a",
+        "an, an",
+        "the, the",
+        "a, an"
+      ],
+      "correctAnswer": "a, a",
+      "explanation": "Both 'puppy' and 'kitten' begin with consonant sounds and are introduced for the first time."
+    },
+    {
+      "id": "q60402",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The teacher entered the classroom and opened a window.",
+        "A teacher entered a classroom and opened the window.",
+        "Both sentences are grammatically possible.",
+        "Neither sentence is grammatically correct."
+      ],
+      "correctAnswer": "Both sentences are grammatically possible.",
+      "explanation": "Article choice depends on whether the nouns are already identifiable or are being introduced as nonspecific."
+    },
+    {
+      "id": "q60403",
+      "question": "Complete the sentence: This is ___ same book that I borrowed last week.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "The word 'same' is generally preceded by 'the'."
+    },
+    {
+      "id": "q60404",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She is the doctor who treated my mother.",
+        "She is a doctor who treated my mother.",
+        "Both can be correct depending on context.",
+        "Neither is correct."
+      ],
+      "correctAnswer": "Both can be correct depending on context.",
+      "explanation": "'The doctor' identifies a particular doctor. 'A doctor' introduces one doctor who treated the speaker's mother."
+    },
+    {
+      "id": "q60405",
+      "question": "Complete the sentence: He gave me ___ piece of advice.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "'Advice' is uncountable, but 'a piece of advice' is a countable expression."
+    },
+    {
+      "id": "q60406",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The gold is a valuable metal.",
+        "Gold is a valuable metal.",
+        "A gold is a valuable metal.",
+        "An gold is a valuable metal."
+      ],
+      "correctAnswer": "Gold is a valuable metal.",
+      "explanation": "Material nouns used in a general sense take no article."
+    },
+    {
+      "id": "q60407",
+      "question": "Complete the sentence: ___ more you practise, ___ better you become.",
+      "options": [
+        "A, a",
+        "The, the",
+        "An, an",
+        "No article, the"
+      ],
+      "correctAnswer": "The, the",
+      "explanation": "The comparative correlative pattern uses 'the ... the ...'."
+    },
+    {
+      "id": "q60408",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She is a honest and hardworking employee.",
+        "She is an honest and hardworking employee.",
+        "She is the honest and hardworking employee.",
+        "She is honest and a hardworking employee."
+      ],
+      "correctAnswer": "She is an honest and hardworking employee.",
+      "explanation": "The article is determined by the first adjective, 'honest', which begins with a vowel sound."
+    },
+    {
+      "id": "q60409",
+      "question": "Complete the sentence: I met ___ Mr Sharma at the station.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "no article",
+      "explanation": "Titles and names used together generally take no article. 'A Mr Sharma' can be used when the person is unfamiliar or one of several people with that name."
+    },
+    {
+      "id": "q60410",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The police have arrested the suspect.",
+        "Police has arrested a suspect.",
+        "A police have arrested the suspect.",
+        "The police has arrested suspect."
+      ],
+      "correctAnswer": "The police have arrested the suspect.",
+      "explanation": "'Police' generally takes 'the' when referring to the police force and is treated as plural."
+    },
+    {
+      "id": "q60411",
+      "question": "Complete the sentence: She wants to become ___ IAS officer.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "IAS is pronounced beginning with the vowel sound 'eye', so use 'an'."
+    },
+    {
+      "id": "q60412",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The life is full of surprises.",
+        "Life is full of surprises.",
+        "A life is full of surprises.",
+        "An life is full of surprises."
+      ],
+      "correctAnswer": "Life is full of surprises.",
+      "explanation": "The abstract noun 'life' is used in a general sense, so no article is needed."
+    },
+    {
+      "id": "q60413",
+      "question": "Complete the sentence: We stayed at ___ hotel near the airport. ___ hotel was comfortable.",
+      "options": [
+        "a, The",
+        "the, A",
+        "an, An",
+        "no article, The"
+      ],
+      "correctAnswer": "a, The",
+      "explanation": "Use 'a' when introducing the hotel for the first time and 'the' when referring to it again."
+    },
+    {
+      "id": "q60414",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The rich are not always happy.",
+        "Rich are not always happy.",
+        "A rich are not always happy.",
+        "The rich is not always happy."
+      ],
+      "correctAnswer": "The rich are not always happy.",
+      "explanation": "'The rich' refers to rich people as a group and normally takes a plural verb."
+    },
+    {
+      "id": "q60415",
+      "question": "Complete the sentence: He is ___ European but his wife is ___ Indian.",
+      "options": [
+        "a, an",
+        "an, a",
+        "the, the",
+        "a, a"
+      ],
+      "correctAnswer": "a, an",
+      "explanation": "'European' begins with a 'yoo' consonant sound; 'Indian' begins with a vowel sound."
+    },
+    {
+      "id": "q60416",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The principal and the secretary attended the meeting.",
+        "The principal and secretary attended the meeting.",
+        "Both can be correct, but their meanings may differ.",
+        "Neither is correct."
+      ],
+      "correctAnswer": "Both can be correct, but their meanings may differ.",
+      "explanation": "Repeating 'the' can indicate two different people. Using one 'the' can suggest one person holding both roles, depending on context."
+    },
+    {
+      "id": "q60417",
+      "question": "Complete the sentence: She bought ___ blue dress and ___ red one.",
+      "options": [
+        "a, a",
+        "a, the",
+        "the, the",
+        "an, a"
+      ],
+      "correctAnswer": "a, a",
+      "explanation": "Both dresses are introduced as nonspecific singular countable nouns."
+    },
+    {
+      "id": "q60418",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "He was elected captain of the team.",
+        "He was elected a captain of the team.",
+        "He was elected the captain of team.",
+        "He was elected an captain of the team."
+      ],
+      "correctAnswer": "He was elected captain of the team.",
+      "explanation": "Certain roles after verbs such as 'elect' can take zero article when used as a title or position."
+    },
+    {
+      "id": "q60419",
+      "question": "Complete the sentence: ___ United States is a large country.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "Country names containing terms such as 'States', 'Kingdom' or 'Republic' generally take 'the'."
+    },
+    {
+      "id": "q60420",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She has a good knowledge of Indian history.",
+        "She has good knowledge of the Indian history.",
+        "She has an good knowledge of Indian history.",
+        "She has the good knowledge of Indian history."
+      ],
+      "correctAnswer": "She has a good knowledge of Indian history.",
+      "explanation": "Use 'a' in the expression 'a good knowledge of'. The subject name 'Indian history' is used generally without an article."
+    }
+  ]
+}

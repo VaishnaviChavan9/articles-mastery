@@ -1,0 +1,165 @@
+
+{
+  "subtopicId": "subtopic-04-04",
+  "questions": [
+    {
+      "id": "q40401",
+      "question": "___ Advice from experienced people can be valuable.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Advice is uncountable and is used generally here, so no article is needed."
+    },
+    {
+      "id": "q40402",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She gave me an useful information.",
+        "She gave me useful information.",
+        "She gave me a useful information.",
+        "She gave me the useful information in general."
+      ],
+      "correctAnswer": "She gave me useful information.",
+      "explanation": "Information is uncountable and cannot be used with 'a' or 'an'."
+    },
+    {
+      "id": "q40403",
+      "question": "___ Furniture is expensive these days.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Furniture is an uncountable noun used generally, so it takes no article."
+    },
+    {
+      "id": "q40404",
+      "question": "We need ___ equipment for the experiment.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Equipment is uncountable. It cannot take 'a' or 'an' when used generally."
+    },
+    {
+      "id": "q40405",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The knowledge is power.",
+        "Knowledge is power.",
+        "A knowledge is power.",
+        "An knowledge is power."
+      ],
+      "correctAnswer": "Knowledge is power.",
+      "explanation": "Knowledge is an abstract uncountable noun used in a general sense."
+    },
+    {
+      "id": "q40406",
+      "question": "___ Luggage should be kept safely during travel.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Luggage is an uncountable noun and does not take 'a' or 'an'."
+    },
+    {
+      "id": "q40407",
+      "question": "Choose the grammatically correct sentence.",
+      "options": [
+        "She bought a bread.",
+        "She bought an bread.",
+        "She bought bread.",
+        "She bought the bread in general."
+      ],
+      "correctAnswer": "She bought bread.",
+      "explanation": "Bread is generally uncountable. When referring to a particular loaf or quantity, we can say 'a loaf of bread'."
+    },
+    {
+      "id": "q40408",
+      "question": "___ Research requires patience and careful observation.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Research is generally uncountable when referring to the activity or process."
+    },
+    {
+      "id": "q40409",
+      "question": "Which sentence uses an uncountable noun correctly?",
+      "options": [
+        "He gave me an advice.",
+        "He gave me a piece of advice.",
+        "He gave me many advices.",
+        "He gave me an useful advice."
+      ],
+      "correctAnswer": "He gave me a piece of advice.",
+      "explanation": "Advice is uncountable. Use a counting expression such as 'a piece of advice'."
+    },
+    {
+      "id": "q40410",
+      "question": "___ Traffic causes delays during peak hours.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Traffic is an uncountable noun used generally, so it takes no article."
+    },
+    {
+      "id": "q40411",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She has a great patience.",
+        "She has an great patience.",
+        "She has great patience.",
+        "She has the great patience in general."
+      ],
+      "correctAnswer": "She has great patience.",
+      "explanation": "Patience is an abstract uncountable noun used generally and does not need an article."
+    },
+    {
+      "id": "q40412",
+      "question": "___ Homework takes time and concentration.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Homework is uncountable and is used without an article in a general statement."
+    },
+    {
+      "id": "q40413",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The poetry can express deep emotions.",
+        "Poetry can express deep emotions.",
+        "A poetry can express deep emotions.",
+        "An poetry can express deep emotions."
+      ],
+      "correctAnswer": "Poetry can express deep emotions.",
+      "explanation": "Poetry used as a general concept is uncountable and normally takes no article."
+    },
+    {
+      "id": "q40414",
+      "question": "___ Accommodation is difficult to find during the festival season.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Accommodation is generally uncountable in this meaning and takes no article."
+    },
+    {
+      "id": "q40415",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "He needs a new research.",
+        "He needs an new research.",
+        "He needs new research.",
+        "He needs the new research in general."
+      ],
+      "correctAnswer": "He needs new research.",
+      "explanation": "Research is normally uncountable when referring to investigative work. A specific study can be called 'a study'."
+    },
+    {
+      "id": "q40416",
+      "question": "___ Baggage was checked before boarding.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Baggage is an uncountable noun. The sentence refers to baggage generally, not a previously identified set."
+    },
+    {
+      "id": "q40417",
+      "question": "Which option correctly expresses a quantity of furniture?",
+      "options": [
+        "Three furnitures",
+        "Three pieces of furniture",
+        "Three furniture",
+        "A three furniture"
+      ],
+      "correctAnswer": "Three pieces of furniture",
+      "explanation": "Furniture is uncountable. Use 'pieces of furniture' to count individual items."
+    }
+  ]
+}

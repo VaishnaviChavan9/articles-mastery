@@ -1,0 +1,165 @@
+
+{
+  "subtopicId": "subtopic-04-03",
+  "questions": [
+    {
+      "id": "q40301",
+      "question": "___ Elephants are intelligent animals.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Elephants refers to the entire class of animals, so the plural noun takes no article."
+    },
+    {
+      "id": "q40302",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The teachers play an important role in society.",
+        "Teachers play an important role in society.",
+        "A teachers play an important role in society.",
+        "An teachers play an important role in society."
+      ],
+      "correctAnswer": "Teachers play an important role in society.",
+      "explanation": "Teachers is used in a general sense to refer to teachers as a group."
+    },
+    {
+      "id": "q40303",
+      "question": "___ Smartphones have changed how people communicate.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Smartphones refers to the category in general, so no article is needed."
+    },
+    {
+      "id": "q40304",
+      "question": "Which sentence refers to animals in general?",
+      "options": [
+        "The lions in this zoo are sleeping.",
+        "Lions are carnivorous animals.",
+        "The lions near the river are hungry.",
+        "The lions we saw yesterday were young."
+      ],
+      "correctAnswer": "Lions are carnivorous animals.",
+      "explanation": "The plural noun 'lions' refers to the species in general. The other sentences identify particular lions."
+    },
+    {
+      "id": "q40305",
+      "question": "___ Students should develop good study habits.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Students is a plural countable noun used generally."
+    },
+    {
+      "id": "q40306",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The trees produce oxygen.",
+        "Trees produce oxygen.",
+        "A trees produce oxygen.",
+        "An trees produce oxygen."
+      ],
+      "correctAnswer": "Trees produce oxygen.",
+      "explanation": "Trees is used to make a general statement about the class of trees."
+    },
+    {
+      "id": "q40307",
+      "question": "___ Computers are useful tools for education.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Computers refers to computers as a general category."
+    },
+    {
+      "id": "q40308",
+      "question": "Which sentence refers to a particular group rather than a general class?",
+      "options": [
+        "Dogs need regular exercise.",
+        "Teachers guide students.",
+        "The players wearing blue jerseys won the match.",
+        "Cars require maintenance."
+      ],
+      "correctAnswer": "The players wearing blue jerseys won the match.",
+      "explanation": "The phrase 'wearing blue jerseys' identifies a particular group of players."
+    },
+    {
+      "id": "q40309",
+      "question": "___ Bees play an important role in pollination.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Bees is used in a general statement about the species."
+    },
+    {
+      "id": "q40310",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The rivers provide water to many communities.",
+        "Rivers provide water to many communities.",
+        "A rivers provide water to many communities.",
+        "An rivers provide water to many communities."
+      ],
+      "correctAnswer": "Rivers provide water to many communities.",
+      "explanation": "Rivers is a plural noun used generally, so it takes no article."
+    },
+    {
+      "id": "q40311",
+      "question": "___ Doctors often work long hours.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Doctors refers to the profession as a general group."
+    },
+    {
+      "id": "q40312",
+      "question": "Which sentence uses 'the' correctly?",
+      "options": [
+        "The birds migrate during winter.",
+        "Birds migrate during winter.",
+        "The birds sitting on our balcony are noisy.",
+        "Birds sitting on our balcony are noisy in every context."
+      ],
+      "correctAnswer": "The birds sitting on our balcony are noisy.",
+      "explanation": "The phrase 'sitting on our balcony' identifies particular birds."
+    },
+    {
+      "id": "q40313",
+      "question": "___ Libraries provide access to books and information.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Libraries refers to libraries as a general category."
+    },
+    {
+      "id": "q40314",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The farmers depend on weather conditions.",
+        "Farmers depend on weather conditions.",
+        "A farmers depend on weather conditions.",
+        "An farmers depend on weather conditions."
+      ],
+      "correctAnswer": "Farmers depend on weather conditions.",
+      "explanation": "Farmers is a plural noun used generally, so no article is required."
+    },
+    {
+      "id": "q40315",
+      "question": "___ Mountains influence the climate of nearby regions.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Mountains is used generally to refer to mountains as a class."
+    },
+    {
+      "id": "q40316",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The mobile phones are becoming more advanced every year.",
+        "Mobile phones are becoming more advanced every year.",
+        "A mobile phones are becoming more advanced every year.",
+        "An mobile phones are becoming more advanced every year."
+      ],
+      "correctAnswer": "Mobile phones are becoming more advanced every year.",
+      "explanation": "Mobile phones refers to the general category, not a particular set."
+    },
+    {
+      "id": "q40317",
+      "question": "___ People need clean drinking water to survive.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "People is used in a general sense, so it does not need an article."
+    }
+  ]
+}
