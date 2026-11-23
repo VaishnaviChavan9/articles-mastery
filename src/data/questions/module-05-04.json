@@ -1,0 +1,103 @@
+{
+  "subtopicId": "subtopic-05-06",
+  "questions": [
+    {
+      "id": "q50601",
+      "question": "Complete the sentence: My sister is ___ architect.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "'Architect' begins with a vowel sound, so it takes 'an'."
+    },
+    {
+      "id": "q50602",
+      "question": "Choose the correct sentence.",
+      "options": ["He is a honest officer.", "He is an honest officer.", "He is the honest officer.", "He is honest officer."],
+      "correctAnswer": "He is an honest officer.",
+      "explanation": "The 'h' in 'honest' is silent, so the word begins with a vowel sound."
+    },
+    {
+      "id": "q50603",
+      "question": "Complete the sentence: She works as ___ university lecturer.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "'University' begins with the consonant sound /juː/, so it takes 'a'."
+    },
+    {
+      "id": "q50604",
+      "question": "Choose the correct sentence.",
+      "options": ["Dr Rao is a professor.", "The Dr Rao is a professor.", "A Dr Rao is a professor.", "An Dr Rao is a professor."],
+      "correctAnswer": "Dr Rao is a professor.",
+      "explanation": "Titles such as Dr are used without an article before a person's name."
+    },
+    {
+      "id": "q50605",
+      "question": "Complete the sentence: She wants to become ___ IAS officer.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "The initialism 'IAS' is pronounced beginning with the vowel sound /aɪ/, so it takes 'an'."
+    },
+    {
+      "id": "q50606",
+      "question": "Choose the correct sentence.",
+      "options": ["My uncle is engineer.", "My uncle is an engineer.", "My uncle is the engineer.", "My uncle is a engineer."],
+      "correctAnswer": "My uncle is an engineer.",
+      "explanation": "A singular countable profession normally takes an article. 'Engineer' begins with a vowel sound."
+    },
+    {
+      "id": "q50607",
+      "question": "Complete the sentence: ___ President of India addressed the gathering.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The article 'the' is used with a unique official title followed by an identifying phrase."
+    },
+    {
+      "id": "q50608",
+      "question": "Which sentence is correct?",
+      "options": ["The Professor Mehta delivered the lecture.", "Professor Mehta delivered the lecture.", "A Professor Mehta delivered the lecture.", "An Professor Mehta delivered the lecture."],
+      "correctAnswer": "Professor Mehta delivered the lecture.",
+      "explanation": "A title placed directly before a person's name normally takes no article."
+    },
+    {
+      "id": "q50609",
+      "question": "Complete the sentence: He is ___ MBA graduate.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "'MBA' is pronounced beginning with the vowel sound /em/, so it takes 'an'."
+    },
+    {
+      "id": "q50610",
+      "question": "Choose the correct sentence.",
+      "options": ["She consulted an doctor who specialises in children.", "She consulted a doctor who specialises in children.", "She consulted the doctor who specialises in children, without any previous context.", "She consulted doctor who specialises in children."],
+      "correctAnswer": "She consulted a doctor who specialises in children.",
+      "explanation": "The sentence introduces one unspecified doctor. 'Doctor' begins with a consonant sound."
+    },
+    {
+      "id": "q50611",
+      "question": "Complete the sentence: My brother is ___ European diplomat.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "'European' begins with the consonant sound /j/, so it takes 'a'."
+    },
+    {
+      "id": "q50612",
+      "question": "Which sentence correctly uses a title before a name?",
+      "options": ["The Captain Sharma is in charge.", "Captain Sharma is in charge.", "A Captain Sharma is in charge.", "An Captain Sharma is in charge."],
+      "correctAnswer": "Captain Sharma is in charge.",
+      "explanation": "A title directly before a person's name generally takes no article."
+    },
+    {
+      "id": "q50613",
+      "question": "Complete the sentence: She met ___ one-eyed scientist at the conference.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "'One' begins with the consonant sound /w/, so 'a' is used."
+    },
+    {
+      "id": "q50614",
+      "question": "Choose the correct sentence.",
+      "options": ["The doctor who treated me was very patient.", "A doctor who treated me was very patient, referring to the specific doctor already known.", "Doctor who treated me was very patient.", "An doctor who treated me was very patient."],
+      "correctAnswer": "The doctor who treated me was very patient.",
+      "explanation": "The identifying clause 'who treated me' points to a specific doctor, so 'the' is appropriate."
+    }
+  ]
+}

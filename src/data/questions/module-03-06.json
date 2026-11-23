@@ -1,0 +1,115 @@
+
+{
+  "subtopicId": "subtopic-03-06",
+  "questions": [
+    {
+      "id": "q30601",
+      "question": "___ United States is located in North America.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The United States takes 'the' because its name contains a plural descriptive expression."
+    },
+    {
+      "id": "q30602",
+      "question": "The Nile is one of ___ longest rivers in the world.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "River names conventionally take 'the'."
+    },
+    {
+      "id": "q30603",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The Japan is famous for technology.",
+        "Japan is famous for technology.",
+        "A Japan is famous for technology.",
+        "An Japan is famous for technology."
+      ],
+      "correctAnswer": "Japan is famous for technology.",
+      "explanation": "Most singular country names, including Japan, do not take an article."
+    },
+    {
+      "id": "q30604",
+      "question": "The ship sailed across ___ Mediterranean Sea.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "Names of seas generally take 'the'."
+    },
+    {
+      "id": "q30605",
+      "question": "Which country name requires 'the'?",
+      "options": [
+        "India",
+        "Brazil",
+        "Netherlands",
+        "Thailand"
+      ],
+      "correctAnswer": "Netherlands",
+      "explanation": "The conventional country name is 'the Netherlands'."
+    },
+    {
+      "id": "q30606",
+      "question": "The Amazon flows through ___ South America.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Names of continents generally do not take an article."
+    },
+    {
+      "id": "q30607",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The Mount Elbrus is in Russia.",
+        "Mount Elbrus is in Russia.",
+        "A Mount Elbrus is in Russia.",
+        "An Mount Elbrus is in Russia."
+      ],
+      "correctAnswer": "Mount Elbrus is in Russia.",
+      "explanation": "Individual mountain peaks generally do not take 'the'."
+    },
+    {
+      "id": "q30608",
+      "question": "The fishermen work near ___ Arabian Sea.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "Names of seas take 'the'."
+    },
+    {
+      "id": "q30609",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The United Kingdom consists of four countries.",
+        "United Kingdom consists of four countries.",
+        "A United Kingdom consists of four countries.",
+        "An United Kingdom consists of four countries."
+      ],
+      "correctAnswer": "The United Kingdom consists of four countries.",
+      "explanation": "The United Kingdom conventionally takes 'the'."
+    },
+    {
+      "id": "q30610",
+      "question": "The boat travelled along ___ Danube.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The names of rivers generally take 'the'."
+    },
+    {
+      "id": "q30611",
+      "question": "Which sentence uses the article correctly?",
+      "options": [
+        "The Philippines is an island country.",
+        "Philippines is an island country.",
+        "A Philippines is an island country.",
+        "An Philippines is an island country."
+      ],
+      "correctAnswer": "The Philippines is an island country.",
+      "explanation": "The Philippines is a country name that conventionally takes 'the'."
+    },
+    {
+      "id": "q30612",
+      "question": "The research vessel entered ___ Pacific Ocean.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "Names of oceans take 'the'."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+
+{
+  "subtopicId": "subtopic-02-08",
+  "questions": [
+    {"id":"q001","question":"Choose the correct phrase.","options":["an useful book","a useful book","an university book","no article useful book"],"correctAnswer":"a useful book","explanation":"Useful begins with the consonant /y/ sound."},
+    {"id":"q002","question":"Choose the correct phrase.","options":["a hour","an hour","a honest hour","no article hour"],"correctAnswer":"an hour","explanation":"The H in hour is silent."},
+    {"id":"q003","question":"Choose the correct phrase.","options":["an one-rupee coin","a one-rupee coin","an one coin","no article one-rupee coin"],"correctAnswer":"a one-rupee coin","explanation":"One begins with the consonant /w/ sound."},
+    {"id":"q004","question":"Choose the correct phrase.","options":["an honest mistake","a honest mistake","an house","no article honest mistake"],"correctAnswer":"an honest mistake","explanation":"Honest begins with a vowel sound because H is silent."},
+    {"id":"q005","question":"Choose the correct phrase.","options":["an European","a European","an unique person","no article European"],"correctAnswer":"a European","explanation":"European begins with the consonant /y/ sound."},
+    {"id":"q006","question":"Choose the correct phrase.","options":["a information","an information","some information","a informations"],"correctAnswer":"some information","explanation":"Information is uncountable and does not take A or An directly."},
+    {"id":"q007","question":"Choose the correct phrase.","options":["an advice","a advice","a piece of advice","an advices"],"correctAnswer":"a piece of advice","explanation":"Advice is uncountable; use a piece of advice for one item."},
+    {"id":"q008","question":"Choose the correct phrase.","options":["a children","an children","children","a child (when plural is meant)"],"correctAnswer":"children","explanation":"Children is plural, so it cannot take A or An."},
+    {"id":"q009","question":"Choose the correct phrase.","options":["an uniform","a uniform","an usual day","no article uniform"],"correctAnswer":"a uniform","explanation":"Uniform begins with the consonant /y/ sound."},
+    {"id":"q010","question":"Choose the correct phrase.","options":["a MBA graduate","an MBA graduate","a M.B.A. graduate","no article MBA graduate"],"correctAnswer":"an MBA graduate","explanation":"M is pronounced 'em', beginning with a vowel sound."},
+    {"id":"q011","question":"Which sentence is correct?","options":["She has an unique talent.","She has a unique talent.","She has an useful talent.","She has a umbrella."],"correctAnswer":"She has a unique talent.","explanation":"Unique begins with the consonant /y/ sound."},
+    {"id":"q012","question":"Which sentence is correct?","options":["He waited a hour.","He waited an hour.","He waited an hotel.","He waited a honest hour."],"correctAnswer":"He waited an hour.","explanation":"Hour begins with a vowel sound."},
+    {"id":"q013","question":"Choose the correct phrase.","options":["a eight-year-old child","an eight-year-old child","a eight child","no article eight-year-old child"],"correctAnswer":"an eight-year-old child","explanation":"Eight begins with a vowel sound."},
+    {"id":"q014","question":"Choose the correct phrase.","options":["an one-time offer","a one-time offer","an one offer","no article one-time offer"],"correctAnswer":"a one-time offer","explanation":"One begins with the consonant /w/ sound."},
+    {"id":"q015","question":"Which sentence is grammatically correct?","options":["He is an European citizen.","He is a European citizen.","He is an university student.","He is a honest citizen."],"correctAnswer":"He is a European citizen.","explanation":"European begins with a consonant /y/ sound."},
+    {"id":"q016","question":"Which phrase uses the article correctly?","options":["an X-ray","a X-ray","an USB cable","a hour"],"correctAnswer":"an X-ray","explanation":"X is pronounced 'ex', beginning with a vowel sound."},
+    {"id":"q017","question":"Choose the correct sentence.","options":["She gave me an advice.","She gave me a useful advice.","She gave me some advice.","She gave me a advices."],"correctAnswer":"She gave me some advice.","explanation":"Advice is uncountable and normally takes no A or An."},
+    {"id":"q018","question":"Which statement about A and An is correct?","options":["They are used before all nouns.","They are used before singular countable nouns.","They are used only before plural nouns.","They are interchangeable."],"correctAnswer":"They are used before singular countable nouns.","explanation":"A and An are indefinite articles used with singular countable nouns."},
+    {"id":"q019","question":"Choose the correct phrase.","options":["an hotel","a hotel","an history book","a heir"],"correctAnswer":"a hotel","explanation":"The H in hotel is pronounced in standard modern usage."},
+    {"id":"q020","question":"Identify the incorrect phrase.","options":["an hour","a university","an umbrella","an useful tool"],"correctAnswer":"an useful tool","explanation":"Useful begins with /y/, so the correct phrase is 'a useful tool'."}
+  ]
+}

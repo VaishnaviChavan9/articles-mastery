@@ -1,0 +1,171 @@
+
+{
+  "subtopicId": "subtopic-01-03",
+  "questions": [
+    {
+      "id": "q001",
+      "question": "I saw ___ elephant at the zoo.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "Use An before a vowel sound. Elephant begins with a vowel sound."
+    },
+    {
+      "id": "q002",
+      "question": "She bought a book. ___ book is interesting.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The book has already been introduced, so it is now specific."
+    },
+    {
+      "id": "q003",
+      "question": "I need ___ pen to write this note.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "A is used for a singular countable noun that is not specific."
+    },
+    {
+      "id": "q004",
+      "question": "Please give me ___ pen lying on the table.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "The pen is identified by its location, so it is specific."
+    },
+    {
+      "id": "q005",
+      "question": "___ Sun rises in the east.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The is used with unique things such as the Sun."
+    },
+    {
+      "id": "q006",
+      "question": "She is ___ engineer.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "Engineer begins with a vowel sound."
+    },
+    {
+      "id": "q007",
+      "question": "I want to buy ___ new phone.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "The speaker is referring to any suitable new phone, not a specific one."
+    },
+    {
+      "id": "q008",
+      "question": "Where is ___ phone I gave you yesterday?",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "The phone is identifiable because it was mentioned previously."
+    },
+    {
+      "id": "q009",
+      "question": "___ dogs are loyal animals.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Plural countable nouns used in general statements usually take no article."
+    },
+    {
+      "id": "q010",
+      "question": "___ water is essential for life.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Water is an uncountable noun used in a general sense."
+    },
+    {
+      "id": "q011",
+      "question": "We visited ___ museum yesterday.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "A introduces a singular countable noun that is not yet identified."
+    },
+    {
+      "id": "q012",
+      "question": "___ museum we visited yesterday was beautiful.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The museum is now specific because it was mentioned earlier."
+    },
+    {
+      "id": "q013",
+      "question": "He adopted ___ cat from a shelter.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "A introduces a non-specific singular countable noun."
+    },
+    {
+      "id": "q014",
+      "question": "___ cat he adopted is very friendly.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The cat is already known from the previous sentence."
+    },
+    {
+      "id": "q015",
+      "question": "She wants to become ___ artist.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "Artist begins with a vowel sound."
+    },
+    {
+      "id": "q016",
+      "question": "Which sentence uses the correct article?",
+      "options": [
+        "I saw an bird.",
+        "I saw a bird.",
+        "I saw the bird for the first time, without context.",
+        "I saw a sun."
+      ],
+      "correctAnswer": "I saw a bird.",
+      "explanation": "Bird begins with a consonant sound, so A is correct."
+    },
+    {
+      "id": "q017",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The honesty is important.",
+        "Honesty is important.",
+        "A honesty is important.",
+        "An honesty is important."
+      ],
+      "correctAnswer": "Honesty is important.",
+      "explanation": "Abstract nouns used in a general sense usually take no article."
+    },
+    {
+      "id": "q018",
+      "question": "I watched ___ movie last night. ___ movie was exciting.",
+      "options": [
+        "a, the",
+        "the, a",
+        "an, the",
+        "no article, the"
+      ],
+      "correctAnswer": "a, the",
+      "explanation": "A introduces the movie. The refers to the same movie in the second mention."
+    },
+    {
+      "id": "q019",
+      "question": "Which sentence refers to a specific laptop?",
+      "options": [
+        "I want a laptop.",
+        "She needs a laptop.",
+        "I want the laptop on the shelf.",
+        "He bought a laptop."
+      ],
+      "correctAnswer": "I want the laptop on the shelf.",
+      "explanation": "The location identifies a particular laptop."
+    },
+    {
+      "id": "q020",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The books are useful in general.",
+        "Books are useful in general.",
+        "A books are useful.",
+        "An books are useful."
+      ],
+      "correctAnswer": "Books are useful in general.",
+      "explanation": "Plural countable nouns used generally do not need an article."
+    }
+  ]
+}

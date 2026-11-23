@@ -1,0 +1,26 @@
+
+{
+  "subtopicId": "subtopic-02-02",
+  "questions": [
+    {"id":"q001","question":"She ate ___ apple.","options":["a","an","the","no article"],"correctAnswer":"an","explanation":"Apple begins with a vowel sound."},
+    {"id":"q002","question":"He is ___ actor.","options":["a","an","the","no article"],"correctAnswer":"an","explanation":"Actor begins with a vowel sound."},
+    {"id":"q003","question":"I waited for ___ hour.","options":["a","an","the","no article"],"correctAnswer":"an","explanation":"The H in hour is silent."},
+    {"id":"q004","question":"She gave me ___ interesting book.","options":["a","an","the","no article"],"correctAnswer":"an","explanation":"Interesting begins with a vowel sound."},
+    {"id":"q005","question":"He is ___ intelligent student.","options":["a","an","the","no article"],"correctAnswer":"an","explanation":"Intelligent begins with a vowel sound."},
+    {"id":"q006","question":"We saw ___ elephant.","options":["a","an","the","no article"],"correctAnswer":"an","explanation":"Elephant begins with a vowel sound."},
+    {"id":"q007","question":"She is ___ artist.","options":["a","an","the","no article"],"correctAnswer":"an","explanation":"Artist begins with a vowel sound."},
+    {"id":"q008","question":"He made ___ unusual decision.","options":["a","an","the","no article"],"correctAnswer":"an","explanation":"Unusual begins with a vowel sound."},
+    {"id":"q009","question":"I saw ___ owl in the tree.","options":["a","an","the","no article"],"correctAnswer":"an","explanation":"Owl begins with a vowel sound."},
+    {"id":"q010","question":"She received ___ invitation.","options":["a","an","the","no article"],"correctAnswer":"an","explanation":"Invitation begins with a vowel sound."},
+    {"id":"q011","question":"Choose the correct phrase.","options":["an university","an umbrella","an useful idea","an European city"],"correctAnswer":"an umbrella","explanation":"Umbrella begins with a vowel sound."},
+    {"id":"q012","question":"Which word correctly takes An?","options":["house","teacher","engineer","uniform"],"correctAnswer":"engineer","explanation":"Engineer begins with a vowel sound."},
+    {"id":"q013","question":"He is ___ honest person.","options":["a","an","the","no article"],"correctAnswer":"an","explanation":"The H in honest is silent."},
+    {"id":"q014","question":"She found ___ old photograph.","options":["a","an","the","no article"],"correctAnswer":"an","explanation":"Old begins with a vowel sound."},
+    {"id":"q015","question":"I need ___ answer immediately.","options":["a","an","the","no article"],"correctAnswer":"an","explanation":"Answer begins with a vowel sound."},
+    {"id":"q016","question":"Choose the correct sentence.","options":["He is an teacher.","She bought an orange.","I saw an dog.","He needs an chair."],"correctAnswer":"She bought an orange.","explanation":"Orange begins with a vowel sound."},
+    {"id":"q017","question":"She is ___ heir to the estate.","options":["a","an","the","no article"],"correctAnswer":"an","explanation":"The H in heir is silent."},
+    {"id":"q018","question":"He completed ___ eight-hour journey.","options":["a","an","the","no article"],"correctAnswer":"an","explanation":"Eight begins with a vowel sound."},
+    {"id":"q019","question":"Which phrase is correct?","options":["an hotel","an history book","an honour","an house"],"correctAnswer":"an honour","explanation":"The H in honour is silent."},
+    {"id":"q020","question":"When do we generally use An?","options":["Before consonant sounds","Before vowel sounds","Before all words starting with U","Before plural nouns"],"correctAnswer":"Before vowel sounds","explanation":"An is used before singular countable nouns beginning with vowel sounds."}
+  ]
+}

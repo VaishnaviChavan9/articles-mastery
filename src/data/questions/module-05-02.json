@@ -1,0 +1,103 @@
+{
+  "subtopicId": "subtopic-05-04",
+  "questions": [
+    {
+      "id": "q50401",
+      "question": "Complete the sentence: She joined ___ committee responsible for the event.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "The sentence refers to a particular committee responsible for the event."
+    },
+    {
+      "id": "q50402",
+      "question": "Choose the correct sentence.",
+      "options": ["A flock of birds flew over the lake.", "Flock of birds flew over the lake.", "An flock of birds flew over the lake.", "The flock of birds flew over a lake yesterday."],
+      "correctAnswer": "A flock of birds flew over the lake.",
+      "explanation": "A singular countable collective noun needs a determiner. 'A flock' introduces one unspecified group."
+    },
+    {
+      "id": "q50403",
+      "question": "Complete the sentence: ___ audience applauded loudly after the performance.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The sentence refers to the particular audience watching the performance."
+    },
+    {
+      "id": "q50404",
+      "question": "Choose the correct sentence.",
+      "options": ["Team won the championship.", "A team won the championship.", "An team won the championship.", "Teams won a championship."],
+      "correctAnswer": "A team won the championship.",
+      "explanation": "A singular countable collective noun requires an article or another determiner."
+    },
+    {
+      "id": "q50405",
+      "question": "Complete the sentence: ___ police have arrested the suspect.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "'The police' is the usual expression for the police force. 'Police' does not normally take 'a' or 'an'."
+    },
+    {
+      "id": "q50406",
+      "question": "Choose the correct sentence.",
+      "options": ["A family was waiting outside.", "Family was waiting outside.", "An family was waiting outside.", "The family was waiting outside every day."],
+      "correctAnswer": "A family was waiting outside.",
+      "explanation": "A singular countable collective noun needs a determiner when introduced for the first time."
+    },
+    {
+      "id": "q50407",
+      "question": "Complete the sentence: ___ herd of elephants crossed the road.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "A",
+      "explanation": "The sentence introduces one unspecified herd. 'Herd' is a singular countable collective noun."
+    },
+    {
+      "id": "q50408",
+      "question": "Which sentence refers to a particular group already known to the speaker and listener?",
+      "options": ["A crowd gathered outside.", "Crowds gathered outside.", "The crowd gathered outside.", "Crowd gathered outside."],
+      "correctAnswer": "The crowd gathered outside.",
+      "explanation": "'The crowd' refers to a specific group known from the context."
+    },
+    {
+      "id": "q50409",
+      "question": "Complete the sentence: ___ bunch of keys was lying on the table.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "A",
+      "explanation": "'Bunch' is a singular countable collective noun and needs an article when introduced."
+    },
+    {
+      "id": "q50410",
+      "question": "Choose the correct general statement.",
+      "options": ["The families need support.", "Families need support.", "A families need support.", "An families need support."],
+      "correctAnswer": "Families need support.",
+      "explanation": "Plural countable nouns used in a general sense usually take no article."
+    },
+    {
+      "id": "q50411",
+      "question": "Complete the sentence: We watched ___ swarm of bees near the tree.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "'Swarm' is a singular countable collective noun introduced for the first time."
+    },
+    {
+      "id": "q50412",
+      "question": "Choose the correct sentence.",
+      "options": ["The committee has submitted its report.", "Committee has submitted its report.", "A committee has submitted the its report.", "An committee has submitted its report."],
+      "correctAnswer": "The committee has submitted its report.",
+      "explanation": "The article 'the' identifies a particular committee. A singular verb is used here with the committee treated as one unit."
+    },
+    {
+      "id": "q50413",
+      "question": "Complete the sentence: ___ cattle were grazing in the field.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "'Cattle' is a plural noun used for animals collectively and takes no article when used generally."
+    },
+    {
+      "id": "q50414",
+      "question": "Which sentence correctly introduces an unspecified group?",
+      "options": ["Audience entered the hall.", "An audience entered the hall.", "A audience entered the hall.", "The audience entered a hall."],
+      "correctAnswer": "An audience entered the hall.",
+      "explanation": "'Audience' begins with a vowel sound and is a singular countable collective noun, so it takes 'an'."
+    }
+  ]
+}

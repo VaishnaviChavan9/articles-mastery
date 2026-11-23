@@ -1,0 +1,148 @@
+
+{
+  "subtopicId": "subtopic-04-05",
+  "questions": [
+    {
+      "id": "q40501",
+      "question": "We usually have ___ lunch at noon.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Names of meals generally take no article when referring to routine meals."
+    },
+    {
+      "id": "q40502",
+      "question": "Which sentence is correct?",
+      "options": [
+        "She speaks the English fluently.",
+        "She speaks English fluently.",
+        "She speaks an English fluently.",
+        "She speaks a English fluently."
+      ],
+      "correctAnswer": "She speaks English fluently.",
+      "explanation": "Names of languages generally do not take an article."
+    },
+    {
+      "id": "q40503",
+      "question": "My favourite subject is ___ mathematics.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Names of academic subjects generally take no article."
+    },
+    {
+      "id": "q40504",
+      "question": "They invited us to ___ dinner yesterday.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "The name of a meal normally takes no article when used in its ordinary sense."
+    },
+    {
+      "id": "q40505",
+      "question": "Which sentence uses an article incorrectly?",
+      "options": [
+        "I am learning Spanish.",
+        "She studies physics.",
+        "He understands the Hindi.",
+        "We had breakfast early."
+      ],
+      "correctAnswer": "He understands the Hindi.",
+      "explanation": "Language names generally take no article. The correct sentence is 'He understands Hindi.'"
+    },
+    {
+      "id": "q40506",
+      "question": "___ Chemistry is an interesting subject.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Academic subject names such as chemistry generally take no article."
+    },
+    {
+      "id": "q40507",
+      "question": "We had ___ wonderful dinner at a restaurant.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "a",
+      "explanation": "When a meal is described with an adjective, it can take an indefinite article: 'a wonderful dinner'."
+    },
+    {
+      "id": "q40508",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The French is spoken in France.",
+        "French is spoken in France.",
+        "A French is spoken in France.",
+        "An French is spoken in France."
+      ],
+      "correctAnswer": "French is spoken in France.",
+      "explanation": "The name of a language used in its ordinary sense takes no article."
+    },
+    {
+      "id": "q40509",
+      "question": "He is studying ___ history at college.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Academic subjects generally take no article when used as fields of study."
+    },
+    {
+      "id": "q40510",
+      "question": "Which sentence is correct?",
+      "options": [
+        "We had a breakfast at 7 a.m.",
+        "We had an breakfast at 7 a.m.",
+        "We had breakfast at 7 a.m.",
+        "We had the breakfast in general at 7 a.m."
+      ],
+      "correctAnswer": "We had breakfast at 7 a.m.",
+      "explanation": "Breakfast in its ordinary sense generally takes no article."
+    },
+    {
+      "id": "q40511",
+      "question": "___ Japanese is difficult for some learners.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Language names generally do not take articles."
+    },
+    {
+      "id": "q40512",
+      "question": "She gave me ___ early breakfast before the journey.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "an",
+      "explanation": "An adjective describing a meal can make it a particular countable occasion. 'Early' begins with a vowel sound, so 'an' is used."
+    },
+    {
+      "id": "q40513",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The biology is my favourite subject.",
+        "Biology is my favourite subject.",
+        "A biology is my favourite subject.",
+        "An biology is my favourite subject."
+      ],
+      "correctAnswer": "Biology is my favourite subject.",
+      "explanation": "Names of academic subjects generally take no article."
+    },
+    {
+      "id": "q40514",
+      "question": "They usually have ___ tea at 5 p.m.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Tea as a meal or routine refreshment generally takes no article."
+    },
+    {
+      "id": "q40515",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "He is learning the German.",
+        "He is learning German.",
+        "He is learning a German.",
+        "He is learning an German."
+      ],
+      "correctAnswer": "He is learning German.",
+      "explanation": "Names of languages generally do not take an article."
+    },
+    {
+      "id": "q40516",
+      "question": "___ Economics helps us understand how resources are allocated.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Economics is the name of an academic subject and normally takes no article."
+    }
+  ]
+}

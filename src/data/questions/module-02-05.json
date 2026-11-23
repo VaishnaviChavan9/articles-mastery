@@ -1,0 +1,26 @@
+
+{
+  "subtopicId": "subtopic-02-05",
+  "questions": [
+    {"id":"q001","question":"Choose the correct phrase.","options":["an university","a university","an university student","no article university"],"correctAnswer":"a university","explanation":"University begins with the consonant /y/ sound."},
+    {"id":"q002","question":"Choose the correct phrase.","options":["a umbrella","an umbrella","a umbrella stand","no article umbrella"],"correctAnswer":"an umbrella","explanation":"Umbrella begins with a vowel sound."},
+    {"id":"q003","question":"Choose the correct phrase.","options":["an European country","a European country","an European","no article European country"],"correctAnswer":"a European country","explanation":"European begins with the consonant /y/ sound."},
+    {"id":"q004","question":"Choose the correct phrase.","options":["a unusual event","an unusual event","a unusual","no article unusual event"],"correctAnswer":"an unusual event","explanation":"Unusual begins with a vowel sound."},
+    {"id":"q005","question":"Choose the correct phrase.","options":["an uniform","a uniform","an uniformed officer","no article uniform"],"correctAnswer":"a uniform","explanation":"Uniform begins with the consonant /y/ sound."},
+    {"id":"q006","question":"Choose the correct phrase.","options":["a uncle","an uncle","a uncle's house","no article uncle"],"correctAnswer":"an uncle","explanation":"Uncle begins with a vowel sound."},
+    {"id":"q007","question":"Choose the correct phrase.","options":["an useful idea","a useful idea","an useful","no article useful idea"],"correctAnswer":"a useful idea","explanation":"Useful begins with the consonant /y/ sound."},
+    {"id":"q008","question":"Choose the correct phrase.","options":["a urgent message","an urgent message","a urgent","no article urgent message"],"correctAnswer":"an urgent message","explanation":"Urgent begins with a vowel sound."},
+    {"id":"q009","question":"Choose the correct phrase.","options":["an unique opportunity","a unique opportunity","an unique","no article unique opportunity"],"correctAnswer":"a unique opportunity","explanation":"Unique begins with the consonant /y/ sound."},
+    {"id":"q010","question":"Choose the correct phrase.","options":["a understanding","an understanding","a understanding person","no article understanding"],"correctAnswer":"an understanding","explanation":"Understanding begins with a vowel sound."},
+    {"id":"q011","question":"Which word begins with the /y/ consonant sound?","options":["umbrella","uncle","university","under"],"correctAnswer":"university","explanation":"University is pronounced with an initial /y/ sound."},
+    {"id":"q012","question":"Which word begins with a vowel sound?","options":["uniform","usual","European","umbrella"],"correctAnswer":"umbrella","explanation":"Umbrella begins with a vowel sound."},
+    {"id":"q013","question":"Choose the correct phrase.","options":["a EU citizen","an EU citizen","a EU","no article EU citizen"],"correctAnswer":"an EU citizen","explanation":"The letters EU are pronounced 'ee-you'; the first sound is a vowel sound."},
+    {"id":"q014","question":"Choose the correct phrase.","options":["an eulogy","a eulogy","an European","no article eulogy"],"correctAnswer":"a eulogy","explanation":"Eulogy begins with the consonant /y/ sound."},
+    {"id":"q015","question":"Choose the correct phrase.","options":["a usual practice","an usual practice","a unusual practice","no article usual practice"],"correctAnswer":"a usual practice","explanation":"Usual begins with the consonant /y/ sound."},
+    {"id":"q016","question":"Choose the correct phrase.","options":["an urgent call","a urgent call","an uniform","no article urgent call"],"correctAnswer":"an urgent call","explanation":"Urgent begins with a vowel sound."},
+    {"id":"q017","question":"Which pair is correct?","options":["an university, a umbrella","a uniform, an uncle","an unique idea, a urgent request","a unusual event, an useful tool"],"correctAnswer":"a uniform, an uncle","explanation":"Uniform begins with /y/; uncle begins with a vowel sound."},
+    {"id":"q018","question":"Choose the correct phrase.","options":["a European Union citizen","an European Union citizen","a umbrella","an university"],"correctAnswer":"a European Union citizen","explanation":"European begins with the consonant /y/ sound."},
+    {"id":"q019","question":"Why do we say 'a unique idea'?","options":["Unique is plural","Unique begins with /y/","Unique is uncountable","The letter U is always a consonant"],"correctAnswer":"Unique begins with /y/","explanation":"The initial sound, not the letter, determines the article."},
+    {"id":"q020","question":"Which rule is correct?","options":["Every U-word takes An","Every EU-word takes An","Choose by the first pronounced sound","Choose by the first written letter"],"correctAnswer":"Choose by the first pronounced sound","explanation":"Some U and EU words begin with /y/, while others begin with vowel sounds."}
+  ]
+}

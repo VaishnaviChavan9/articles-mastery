@@ -1,0 +1,231 @@
+
+{
+  "subtopicId": "subtopic-06-05",
+  "questions": [
+    {
+      "id": "q60501",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "An apple a day keeps the doctor away.",
+        "A apple a day keeps a doctor away.",
+        "The apple a day keeps doctor away.",
+        "Apple a day keeps the doctor away."
+      ],
+      "correctAnswer": "An apple a day keeps the doctor away.",
+      "explanation": "Use 'an' before the vowel sound in 'apple' and 'the' in the familiar expression 'the doctor'."
+    },
+    {
+      "id": "q60502",
+      "question": "Complete the sentence: She is ___ youngest member of ___ committee.",
+      "options": [
+        "a, a",
+        "the, the",
+        "an, the",
+        "the, a"
+      ],
+      "correctAnswer": "the, the",
+      "explanation": "Use 'the' before superlatives and before a particular committee identified in context."
+    },
+    {
+      "id": "q60503",
+      "question": "Which sentence uses articles correctly?",
+      "options": [
+        "The knowledge is power.",
+        "Knowledge is power.",
+        "A knowledge is power.",
+        "An knowledge is power."
+      ],
+      "correctAnswer": "Knowledge is power.",
+      "explanation": "The abstract noun 'knowledge' is used in a general sense and takes no article."
+    },
+    {
+      "id": "q60504",
+      "question": "Complete the sentence: I saw ___ owl sitting on ___ branch.",
+      "options": [
+        "a, a",
+        "an, a",
+        "an, the",
+        "the, the"
+      ],
+      "correctAnswer": "an, a",
+      "explanation": "Use 'an' before the vowel sound in 'owl' and 'a' before the consonant sound in 'branch' when both are introduced for the first time."
+    },
+    {
+      "id": "q60505",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The Himalayas are covered with snow in many places.",
+        "Himalayas are covered with snow in many places.",
+        "A Himalayas are covered with snow in many places.",
+        "An Himalayas are covered with snow in many places."
+      ],
+      "correctAnswer": "The Himalayas are covered with snow in many places.",
+      "explanation": "Names of mountain ranges generally take 'the'."
+    },
+    {
+      "id": "q60506",
+      "question": "Complete the sentence: My mother bought ___ rice and ___ bottle of oil.",
+      "options": [
+        "a, an",
+        "the, the",
+        "no article, a",
+        "an, no article"
+      ],
+      "correctAnswer": "no article, a",
+      "explanation": "'Rice' is uncountable and used generally here. 'Bottle' is a singular countable noun, so it needs 'a'."
+    },
+    {
+      "id": "q60507",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The Netherlands is known for its canals.",
+        "Netherlands is known for its canals.",
+        "A Netherlands is known for its canals.",
+        "An Netherlands is known for its canals."
+      ],
+      "correctAnswer": "The Netherlands is known for its canals.",
+      "explanation": "Some country names, including the Netherlands, take 'the'."
+    },
+    {
+      "id": "q60508",
+      "question": "Complete the sentence: He works as ___ architect in ___ United Arab Emirates.",
+      "options": [
+        "a, a",
+        "an, the",
+        "the, an",
+        "an, no article"
+      ],
+      "correctAnswer": "an, the",
+      "explanation": "'Architect' begins with a vowel sound, and the country name 'United Arab Emirates' takes 'the'."
+    },
+    {
+      "id": "q60509",
+      "question": "Which sentence correctly refers to two different people?",
+      "options": [
+        "The manager and accountant attended the meeting.",
+        "The manager and the accountant attended the meeting.",
+        "A manager and accountant attended the meeting.",
+        "The manager and accountant attended a meeting."
+      ],
+      "correctAnswer": "The manager and the accountant attended the meeting.",
+      "explanation": "Repeating 'the' before both roles makes it clear that two different people are meant."
+    },
+    {
+      "id": "q60510",
+      "question": "Complete the sentence: ___ rich should support ___ needy.",
+      "options": [
+        "A, a",
+        "The, the",
+        "An, the",
+        "No article, no article"
+      ],
+      "correctAnswer": "The, the",
+      "explanation": "Use 'the' before adjectives used as nouns to refer to groups of people."
+    },
+    {
+      "id": "q60511",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She went to the bed early.",
+        "She went to bed early.",
+        "She went to a bed early.",
+        "She went to an bed early."
+      ],
+      "correctAnswer": "She went to bed early.",
+      "explanation": "'Go to bed' takes no article when referring to the normal activity of sleeping."
+    },
+    {
+      "id": "q60512",
+      "question": "Complete the sentence: This is ___ one-time opportunity.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "'One' begins with a 'w' consonant sound, so use 'a'."
+    },
+    {
+      "id": "q60513",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The information provided by the guide was useful.",
+        "An information provided by the guide was useful.",
+        "A information provided by the guide was useful.",
+        "Information provided by guide was useful."
+      ],
+      "correctAnswer": "The information provided by the guide was useful.",
+      "explanation": "'The information' refers to specific information. 'Information' is uncountable and cannot take 'a' or 'an' directly."
+    },
+    {
+      "id": "q60514",
+      "question": "Complete the sentence: She can play ___ violin, but she cannot play ___ cricket.",
+      "options": [
+        "the, the",
+        "a, a",
+        "the, no article",
+        "no article, the"
+      ],
+      "correctAnswer": "the, no article",
+      "explanation": "Musical instruments commonly take 'the' after 'play'; sports generally take no article."
+    },
+    {
+      "id": "q60515",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The first two chapters are easy.",
+        "First two chapters are easy.",
+        "A first two chapters are easy.",
+        "The first the two chapters are easy."
+      ],
+      "correctAnswer": "The first two chapters are easy.",
+      "explanation": "Use 'the' before an ordinal expression such as 'the first two chapters'."
+    },
+    {
+      "id": "q60516",
+      "question": "Complete the sentence: We crossed ___ Pacific Ocean during our journey.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "Names of oceans generally take 'the'."
+    },
+    {
+      "id": "q60517",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "She has been working here since a 2022.",
+        "She has been working here since the 2022.",
+        "She has been working here since 2022.",
+        "She has been working here since an 2022."
+      ],
+      "correctAnswer": "She has been working here since 2022.",
+      "explanation": "Years used as dates generally take no article."
+    },
+    {
+      "id": "q60518",
+      "question": "Complete the sentence: He gave me ___ useful piece of information.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "'Useful' begins with a 'yoo' consonant sound. The countable expression is 'a useful piece'."
+    },
+    {
+      "id": "q60519",
+      "question": "Which sentence is correct when speaking about books in general?",
+      "options": [
+        "The books are useful sources of knowledge.",
+        "Books are useful sources of knowledge.",
+        "A books are useful sources of knowledge.",
+        "An books are useful sources of knowledge."
+      ],
+      "correctAnswer": "Books are useful sources of knowledge.",
+      "explanation": "Plural countable nouns used in general statements take no article."
+    },
+    {
+      "id": "q60520",
+      "question": "Choose the correctly completed sentence: ___ Earth moves around ___ Sun.",
+      "options": [
+        "A, a",
+        "The, the",
+        "No article, the",
+        "The, no article"
+      ],
+      "correctAnswer": "The, the",
+      "explanation": "In standard educational usage, both 'the Earth' and 'the Sun' take 'the'."
+    }
+  ]
+}

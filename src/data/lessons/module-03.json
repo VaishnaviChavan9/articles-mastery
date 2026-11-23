@@ -1,0 +1,715 @@
+
+{
+  "moduleId": "module-03",
+  "lessons": [
+    {
+      "id": "lesson-03-01",
+      "subtopicId": "subtopic-03-01",
+      "title": "Basic Usage of The",
+      "description": "Understand when and why we use the definite article The.",
+      "sections": [
+        {
+          "heading": "1. What Does The Mean?",
+          "content": "The is a definite article. It points to a particular person, place, animal or thing that can be identified by the speaker and listener.",
+          "examples": [
+            {
+              "sentence": "Please open the window.",
+              "highlight": "the window",
+              "explanation": "The speaker is referring to a particular window that can be identified."
+            },
+            {
+              "sentence": "Where is the manager?",
+              "highlight": "the manager",
+              "explanation": "The refers to a particular manager known in the situation."
+            }
+          ]
+        },
+        {
+          "heading": "2. The with Singular Nouns",
+          "content": "Use The before a singular countable noun when it refers to a specific or identifiable person or thing.",
+          "examples": [
+            {
+              "sentence": "The boy wearing a blue shirt is my brother.",
+              "highlight": "The boy",
+              "explanation": "The description identifies which boy is meant."
+            },
+            {
+              "sentence": "The key on the shelf is mine.",
+              "highlight": "The key",
+              "explanation": "The location identifies a particular key."
+            }
+          ]
+        },
+        {
+          "heading": "3. The with Plural Nouns",
+          "content": "The can also be used with plural nouns when referring to a particular group rather than the whole category.",
+          "examples": [
+            {
+              "sentence": "The students in this classroom are attentive.",
+              "highlight": "The students",
+              "explanation": "The phrase identifies a particular group of students."
+            },
+            {
+              "sentence": "The books on my desk belong to the library.",
+              "highlight": "The books",
+              "explanation": "The location identifies which books are being discussed."
+            }
+          ]
+        },
+        {
+          "heading": "4. The with Uncountable Nouns",
+          "content": "The is used with uncountable nouns when their meaning is specific. Uncountable nouns do not take A or An directly.",
+          "examples": [
+            {
+              "sentence": "The milk in the refrigerator is fresh.",
+              "highlight": "The milk",
+              "explanation": "The phrase identifies a particular quantity of milk."
+            },
+            {
+              "sentence": "The information you shared was useful.",
+              "highlight": "The information",
+              "explanation": "The information is identified by the relative clause."
+            }
+          ]
+        },
+        {
+          "heading": "5. The Is Not Always Necessary",
+          "content": "Do not use The before every noun. General statements about plural countable nouns and uncountable nouns normally use no article.",
+          "examples": [
+            {
+              "sentence": "Children need education.",
+              "highlight": "Children",
+              "explanation": "Children refers to children generally."
+            },
+            {
+              "sentence": "Knowledge is valuable.",
+              "highlight": "Knowledge",
+              "explanation": "Knowledge is used in a general sense."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-03-02",
+      "subtopicId": "subtopic-03-02",
+      "title": "Specific and Previously Mentioned Nouns",
+      "description": "Learn how context and previous mentions make nouns identifiable.",
+      "sections": [
+        {
+          "heading": "1. Second Mention of a Noun",
+          "content": "When a singular countable noun is introduced with A or An and mentioned again, The is commonly used for that same identifiable noun.",
+          "examples": [
+            {
+              "sentence": "A woman entered the room. The woman was carrying a bag.",
+              "highlight": "The woman",
+              "explanation": "The woman has already been introduced."
+            },
+            {
+              "sentence": "I bought a camera. The camera is very expensive.",
+              "highlight": "The camera",
+              "explanation": "The second sentence refers to the same camera."
+            }
+          ]
+        },
+        {
+          "heading": "2. Identification Through Description",
+          "content": "A noun can be specific because a description identifies it, even if it has not been mentioned earlier.",
+          "examples": [
+            {
+              "sentence": "The woman standing near the entrance is my aunt.",
+              "highlight": "The woman",
+              "explanation": "The description identifies which woman is meant."
+            },
+            {
+              "sentence": "The house with the red roof belongs to us.",
+              "highlight": "The house",
+              "explanation": "The identifying description points to a particular house."
+            }
+          ]
+        },
+        {
+          "heading": "3. Identification Through Shared Knowledge",
+          "content": "The can be used when both the speaker and listener already know which person or thing is being discussed.",
+          "examples": [
+            {
+              "sentence": "Please pass me the salt.",
+              "highlight": "the salt",
+              "explanation": "The situation makes the salt identifiable."
+            },
+            {
+              "sentence": "I spoke to the principal this morning.",
+              "highlight": "the principal",
+              "explanation": "The context identifies the principal of the relevant institution."
+            }
+          ]
+        },
+        {
+          "heading": "4. Specific Uncountable Nouns",
+          "content": "Use The when an uncountable noun is made specific by additional information.",
+          "examples": [
+            {
+              "sentence": "The rice cooked by my mother tastes delicious.",
+              "highlight": "The rice",
+              "explanation": "The phrase identifies a particular rice preparation."
+            },
+            {
+              "sentence": "The advice given by the doctor was helpful.",
+              "highlight": "The advice",
+              "explanation": "The advice is identified by its source."
+            }
+          ]
+        },
+        {
+          "heading": "5. General and Specific Comparison",
+          "content": "The presence or absence of The can change whether a noun refers to a general category or a particular group.",
+          "examples": [
+            {
+              "sentence": "Teachers influence society.",
+              "highlight": "Teachers",
+              "explanation": "Teachers refers to the profession or group generally."
+            },
+            {
+              "sentence": "The teachers at my school are experienced.",
+              "highlight": "The teachers",
+              "explanation": "This refers to a specific group at one school."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-03-03",
+      "subtopicId": "subtopic-03-03",
+      "title": "Unique Things",
+      "description": "Learn how The is used with things considered unique or one of a kind in a given context.",
+      "sections": [
+        {
+          "heading": "1. Unique Natural Objects",
+          "content": "The is commonly used with names of unique natural objects in our world.",
+          "examples": [
+            {
+              "sentence": "The Earth moves around the Sun.",
+              "highlight": "The Earth",
+              "explanation": "Earth is treated as the unique planet on which we live."
+            },
+            {
+              "sentence": "The Moon looks bright tonight.",
+              "highlight": "The Moon",
+              "explanation": "The refers to Earth's natural satellite."
+            }
+          ]
+        },
+        {
+          "heading": "2. Directions",
+          "content": "Use The with direction names when referring to geographical directions or regions.",
+          "examples": [
+            {
+              "sentence": "The Sun rises in the east.",
+              "highlight": "the east",
+              "explanation": "East refers to a geographical direction."
+            },
+            {
+              "sentence": "Many people migrated to the west.",
+              "highlight": "the west",
+              "explanation": "West is used as a geographical region or direction."
+            }
+          ]
+        },
+        {
+          "heading": "3. Unique Positions and Roles",
+          "content": "The is often used when a role or position is unique within a particular organisation or situation.",
+          "examples": [
+            {
+              "sentence": "The president addressed the nation.",
+              "highlight": "The president",
+              "explanation": "The context identifies the particular president."
+            },
+            {
+              "sentence": "The principal welcomed the guests.",
+              "highlight": "The principal",
+              "explanation": "The institution's principal is identifiable in the situation."
+            }
+          ]
+        },
+        {
+          "heading": "4. Unique Does Not Mean Every Noun Takes The",
+          "content": "Article choice depends on how a name is conventionally used. Not every important or famous name takes The.",
+          "examples": [
+            {
+              "sentence": "India is a diverse country.",
+              "highlight": "India",
+              "explanation": "Most individual country names are used without The."
+            },
+            {
+              "sentence": "The Taj Mahal attracts many visitors.",
+              "highlight": "The Taj Mahal",
+              "explanation": "This monument's established name includes The."
+            }
+          ]
+        },
+        {
+          "heading": "5. General vs Unique Reference",
+          "content": "Use The when referring to a particular unique object, but do not automatically use it with every noun that is important or familiar.",
+          "examples": [
+            {
+              "sentence": "The atmosphere surrounds the Earth.",
+              "highlight": "The atmosphere",
+              "explanation": "The refers to the particular atmosphere surrounding Earth."
+            },
+            {
+              "sentence": "Air is necessary for breathing.",
+              "highlight": "Air",
+              "explanation": "Air is used generally as an uncountable noun."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-03-04",
+      "subtopicId": "subtopic-03-04",
+      "title": "Superlatives and Ordinal Numbers",
+      "description": "Understand the use of The with superlative adjectives and ordinal numbers.",
+      "sections": [
+        {
+          "heading": "1. Superlative Adjectives",
+          "content": "The is normally used before a superlative adjective when it identifies the highest or lowest degree within a group.",
+          "examples": [
+            {
+              "sentence": "Mount Everest is the highest mountain above sea level.",
+              "highlight": "the highest",
+              "explanation": "Highest identifies the extreme degree in a comparison."
+            },
+            {
+              "sentence": "She is the most talented singer in the group.",
+              "highlight": "the most talented",
+              "explanation": "The identifies the person with the highest degree of talent in that group."
+            }
+          ]
+        },
+        {
+          "heading": "2. Ordinal Numbers",
+          "content": "Use The before ordinal numbers when they identify the position or order of something.",
+          "examples": [
+            {
+              "sentence": "He finished in the first position.",
+              "highlight": "the first",
+              "explanation": "First identifies a specific position."
+            },
+            {
+              "sentence": "This is the third chapter of the book.",
+              "highlight": "the third",
+              "explanation": "Third identifies the chapter's order."
+            }
+          ]
+        },
+        {
+          "heading": "3. Superlatives in Sentences",
+          "content": "The is also used with superlative forms such as best, worst, largest and smallest.",
+          "examples": [
+            {
+              "sentence": "This is the best solution to the problem.",
+              "highlight": "the best",
+              "explanation": "Best identifies the most suitable solution among the options."
+            },
+            {
+              "sentence": "That was the worst experience of my life.",
+              "highlight": "the worst",
+              "explanation": "Worst indicates the lowest degree in the comparison."
+            }
+          ]
+        },
+        {
+          "heading": "4. The Only and The Same",
+          "content": "The is commonly used before only and same when they identify a particular person or thing.",
+          "examples": [
+            {
+              "sentence": "She is the only person who knows the answer.",
+              "highlight": "the only",
+              "explanation": "Only identifies one particular person."
+            },
+            {
+              "sentence": "We reached the same conclusion.",
+              "highlight": "the same",
+              "explanation": "Same identifies an identical conclusion."
+            }
+          ]
+        },
+        {
+          "heading": "5. Important Exceptions",
+          "content": "Do not automatically add The before every comparative or superlative-looking expression. Some fixed expressions have different structures.",
+          "examples": [
+            {
+              "sentence": "She is taller than her sister.",
+              "highlight": "taller",
+              "explanation": "A comparative adjective does not normally require The in this structure."
+            },
+            {
+              "sentence": "He works hardest when deadlines are near.",
+              "highlight": "hardest",
+              "explanation": "Hardest is an adverb describing how he works, so The is not required here."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-03-05",
+      "subtopicId": "subtopic-03-05",
+      "title": "Geographical Names",
+      "description": "Learn the common article patterns used with geographical features and regions.",
+      "sections": [
+        {
+          "heading": "1. Continents and Most Countries",
+          "content": "Most continent names and individual country names are used without The.",
+          "examples": [
+            {
+              "sentence": "Asia is the largest continent.",
+              "highlight": "Asia",
+              "explanation": "Continent names generally do not take The."
+            },
+            {
+              "sentence": "Japan is an island country.",
+              "highlight": "Japan",
+              "explanation": "Most individual country names are used without The."
+            }
+          ]
+        },
+        {
+          "heading": "2. Mountain Peaks and Individual Lakes",
+          "content": "Individual mountain peaks and most individual lake names are used without The.",
+          "examples": [
+            {
+              "sentence": "Mount Kilimanjaro is in Tanzania.",
+              "highlight": "Mount Kilimanjaro",
+              "explanation": "Individual mountain names beginning with Mount generally do not take The."
+            },
+            {
+              "sentence": "Lake Victoria is in Africa.",
+              "highlight": "Lake Victoria",
+              "explanation": "Individual lake names beginning with Lake generally do not take The."
+            }
+          ]
+        },
+        {
+          "heading": "3. Mountain Ranges and Groups of Islands",
+          "content": "Use The with the names of mountain ranges and groups of islands.",
+          "examples": [
+            {
+              "sentence": "The Himalayas stretch across several countries.",
+              "highlight": "The Himalayas",
+              "explanation": "Mountain range names generally take The."
+            },
+            {
+              "sentence": "The Andaman and Nicobar Islands are in the Bay of Bengal.",
+              "highlight": "The Andaman and Nicobar Islands",
+              "explanation": "Names of island groups generally take The."
+            }
+          ]
+        },
+        {
+          "heading": "4. Deserts and Regions",
+          "content": "Many desert names and geographical regions use The.",
+          "examples": [
+            {
+              "sentence": "The Sahara is a vast desert.",
+              "highlight": "The Sahara",
+              "explanation": "The is used with this desert name."
+            },
+            {
+              "sentence": "The Middle East has great historical significance.",
+              "highlight": "The Middle East",
+              "explanation": "The is conventionally used with this geographical region."
+            }
+          ]
+        },
+        {
+          "heading": "5. Oceans and Seas",
+          "content": "Names of oceans and seas generally take The.",
+          "examples": [
+            {
+              "sentence": "The Pacific Ocean is the largest ocean.",
+              "highlight": "The Pacific Ocean",
+              "explanation": "Ocean names generally take The."
+            },
+            {
+              "sentence": "The Arabian Sea lies to the west of India.",
+              "highlight": "The Arabian Sea",
+              "explanation": "Sea names generally take The."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-03-06",
+      "subtopicId": "subtopic-03-06",
+      "title": "Countries, Rivers, Seas and Mountains",
+      "description": "Study article rules for country names, rivers, seas, mountain ranges and individual peaks.",
+      "sections": [
+        {
+          "heading": "1. Countries That Use The",
+          "content": "Most country names do not take The. However, some official or conventional names contain words such as Kingdom, States, Republic or Emirates and take The.",
+          "examples": [
+            {
+              "sentence": "The United States is a large country.",
+              "highlight": "The United States",
+              "explanation": "The is part of the conventional country name."
+            },
+            {
+              "sentence": "The United Kingdom is in Europe.",
+              "highlight": "The United Kingdom",
+              "explanation": "The is used with this country name."
+            },
+            {
+              "sentence": "India has many languages.",
+              "highlight": "India",
+              "explanation": "India is an individual country name used without The."
+            }
+          ]
+        },
+        {
+          "heading": "2. Rivers",
+          "content": "The is generally used before the names of rivers.",
+          "examples": [
+            {
+              "sentence": "The Ganga is a major river in India.",
+              "highlight": "The Ganga",
+              "explanation": "River names generally take The."
+            },
+            {
+              "sentence": "The Nile flows through northeastern Africa.",
+              "highlight": "The Nile",
+              "explanation": "The is used before the name of the river."
+            }
+          ]
+        },
+        {
+          "heading": "3. Seas and Oceans",
+          "content": "Use The before the names of seas and oceans.",
+          "examples": [
+            {
+              "sentence": "The Indian Ocean is named after India.",
+              "highlight": "The Indian Ocean",
+              "explanation": "Ocean names take The."
+            },
+            {
+              "sentence": "The Mediterranean Sea connects several regions.",
+              "highlight": "The Mediterranean Sea",
+              "explanation": "Sea names take The."
+            }
+          ]
+        },
+        {
+          "heading": "4. Individual Mountains and Mountain Ranges",
+          "content": "Individual mountain peaks usually do not take The, while mountain ranges generally do.",
+          "examples": [
+            {
+              "sentence": "Mount Everest is in the Himalayas.",
+              "highlight": "Mount Everest",
+              "explanation": "The individual peak is named without The."
+            },
+            {
+              "sentence": "The Himalayas are home to many high peaks.",
+              "highlight": "The Himalayas",
+              "explanation": "The name of the mountain range takes The."
+            }
+          ]
+        },
+        {
+          "heading": "5. Common Geographical Patterns",
+          "content": "Learn the usual patterns, but remember that established geographical names can have exceptions.",
+          "examples": [
+            {
+              "sentence": "The Philippines is an island country.",
+              "highlight": "The Philippines",
+              "explanation": "This country name conventionally takes The."
+            },
+            {
+              "sentence": "Sri Lanka is an island nation.",
+              "highlight": "Sri Lanka",
+              "explanation": "This country name is used without The."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-03-07",
+      "subtopicId": "subtopic-03-07",
+      "title": "Newspapers, Buildings and Institutions",
+      "description": "Understand article usage with newspapers, famous buildings and institutional names.",
+      "sections": [
+        {
+          "heading": "1. Newspaper Names",
+          "content": "Many newspaper names conventionally include The as part of their name. Follow the publication's official styling.",
+          "examples": [
+            {
+              "sentence": "I read The Hindu every morning.",
+              "highlight": "The Hindu",
+              "explanation": "The is part of the newspaper's established name."
+            },
+            {
+              "sentence": "She reads The Guardian online.",
+              "highlight": "The Guardian",
+              "explanation": "The is included in the publication's name."
+            }
+          ]
+        },
+        {
+          "heading": "2. Famous Buildings and Monuments",
+          "content": "Some famous buildings and monuments have established names that include The, while others do not.",
+          "examples": [
+            {
+              "sentence": "The Taj Mahal attracts visitors from around the world.",
+              "highlight": "The Taj Mahal",
+              "explanation": "The is conventionally used with this monument's name."
+            },
+            {
+              "sentence": "The Red Fort is located in Delhi.",
+              "highlight": "The Red Fort",
+              "explanation": "The is conventionally used with this monument's name."
+            }
+          ]
+        },
+        {
+          "heading": "3. Institutions",
+          "content": "Use The when referring to a particular institution by a name or description that conventionally includes it.",
+          "examples": [
+            {
+              "sentence": "The United Nations works on international cooperation.",
+              "highlight": "The United Nations",
+              "explanation": "The is part of the organisation's conventional name."
+            },
+            {
+              "sentence": "The World Health Organization is a United Nations agency.",
+              "highlight": "The World Health Organization",
+              "explanation": "The is conventionally used in the organisation's name."
+            }
+          ]
+        },
+        {
+          "heading": "4. Schools and Universities",
+          "content": "Some educational institution names use The, while many names do not. The article depends on the official name.",
+          "examples": [
+            {
+              "sentence": "The University of Oxford is well known.",
+              "highlight": "The University of Oxford",
+              "explanation": "The is part of the conventional name."
+            },
+            {
+              "sentence": "Stanford University is in California.",
+              "highlight": "Stanford University",
+              "explanation": "This university name is used without The."
+            }
+          ]
+        },
+        {
+          "heading": "5. Names Versus Descriptions",
+          "content": "An institution's proper name may follow one pattern, while a general description of an institution follows ordinary article rules.",
+          "examples": [
+            {
+              "sentence": "She studies at a university in Bengaluru.",
+              "highlight": "a university",
+              "explanation": "This is a general description, not a specific official name."
+            },
+            {
+              "sentence": "She studies at the university near her home.",
+              "highlight": "the university",
+              "explanation": "The identifies a particular university."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-03-08",
+      "subtopicId": "subtopic-03-08",
+      "title": "Musical Instruments and Other Uses",
+      "description": "Learn common expressions involving musical instruments and other established uses of The.",
+      "sections": [
+        {
+          "heading": "1. Playing Musical Instruments",
+          "content": "In traditional English usage, The is commonly used before a musical instrument when talking about playing it.",
+          "examples": [
+            {
+              "sentence": "She plays the piano beautifully.",
+              "highlight": "the piano",
+              "explanation": "The is commonly used with musical instruments after play."
+            },
+            {
+              "sentence": "He is learning to play the violin.",
+              "highlight": "the violin",
+              "explanation": "The is used in this traditional instrument expression."
+            }
+          ]
+        },
+        {
+          "heading": "2. Other Musical Instruments",
+          "content": "The same pattern is commonly used with many other instruments.",
+          "examples": [
+            {
+              "sentence": "My brother plays the guitar.",
+              "highlight": "the guitar",
+              "explanation": "The is commonly used before the instrument name."
+            },
+            {
+              "sentence": "She plays the flute in an orchestra.",
+              "highlight": "the flute",
+              "explanation": "The refers to the instrument as a type of musical instrument being played."
+            }
+          ]
+        },
+        {
+          "heading": "3. The with Inventions and Species",
+          "content": "The can refer to a whole class or type when discussing inventions or animal species in certain generalising expressions.",
+          "examples": [
+            {
+              "sentence": "The telephone changed communication.",
+              "highlight": "The telephone",
+              "explanation": "The singular noun represents the invention as a class."
+            },
+            {
+              "sentence": "The tiger is an endangered species.",
+              "highlight": "The tiger",
+              "explanation": "The singular noun represents the species as a whole."
+            }
+          ]
+        },
+        {
+          "heading": "4. The with Adjectives Referring to Groups",
+          "content": "The can be used before certain adjectives to refer to a group of people sharing that characteristic. The expression normally takes a plural verb.",
+          "examples": [
+            {
+              "sentence": "The rich should help the poor.",
+              "highlight": "The rich",
+              "explanation": "The rich refers to rich people as a group."
+            },
+            {
+              "sentence": "The elderly deserve respect.",
+              "highlight": "The elderly",
+              "explanation": "The elderly refers to elderly people collectively."
+            }
+          ]
+        },
+        {
+          "heading": "5. Common Expressions with The",
+          "content": "Some fixed expressions use The as part of their standard grammatical structure.",
+          "examples": [
+            {
+              "sentence": "She plays the piano in the evening.",
+              "highlight": "the piano",
+              "explanation": "This is the common instrument expression."
+            },
+            {
+              "sentence": "The sooner we start, the earlier we finish.",
+              "highlight": "The sooner",
+              "explanation": "The is used in the paired comparative structure 'the..., the...'."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+    "subtopicId": "subtopic-03-08",
+    "questions": [
+        {
+            "id": "q30801",
+            "question": "My sister is learning to play ___ violin.",
+            "options": [
+                "a",
+                "an",
+                "the",
+                "No article"
+            ],
+            "correctAnswer": "the",
+            "explanation": "In conventional English, musical instruments commonly take 'the' after 'play'."
+        },
+        {
+            "id": "q30802",
+            "question": "Which sentence is correct?",
+            "options": [
+                "He plays piano beautifully.",
+                "He plays the piano beautifully.",
+                "He plays a piano beautifully in general.",
+                "He plays an piano beautifully."
+            ],
+            "correctAnswer": "He plays the piano beautifully.",
+            "explanation": "The traditional grammatical pattern is 'play the piano' when referring to the skill of playing the instrument."
+        },
+        {
+            "id": "q30803",
+            "question": "___ rich should help those in need.",
+            "options": [
+                "A",
+                "An",
+                "The",
+                "No article"
+            ],
+            "correctAnswer": "The",
+            "explanation": "The + adjective can refer to a group of people sharing that quality. 'The rich' means rich people."
+        },
+        {
+            "id": "q30804",
+            "question": "Which sentence uses the article correctly?",
+            "options": [
+                "The young need guidance.",
+                "A young need guidance.",
+                "An young need guidance.",
+                "Young need guidance."
+            ],
+            "correctAnswer": "The young need guidance.",
+            "explanation": "The + adjective can represent a whole group of people, such as 'the young'."
+        },
+        {
+            "id": "q30805",
+            "question": "The more you practise, ___ better you become.",
+            "options": [
+                "a",
+                "an",
+                "the",
+                "No article"
+            ],
+            "correctAnswer": "the",
+            "explanation": "The paired comparative construction uses 'the' before the comparative adjective."
+        },
+        {
+            "id": "q30806",
+            "question": "Choose the correct expression.",
+            "options": [
+                "by the bus",
+                "by a bus",
+                "by bus",
+                "by an bus"
+            ],
+            "correctAnswer": "by bus",
+            "explanation": "Means of transport after 'by' generally take no article."
+        },
+        {
+            "id": "q30807",
+            "question": "Choose the correct completion: She goes to work ___ train.",
+            "options": [
+                "a",
+                "an",
+                "the",
+                "by"
+            ],
+            "correctAnswer": "by",
+            "explanation": "Means of transport after 'by' generally take no article: by train, by bus, by car."
+        },
+        {
+            "id": "q30808",
+            "question": "Which sentence is correct?",
+            "options": [
+                "The French are known for their cuisine.",
+                "A French are known for their cuisine.",
+                "An French are known for their cuisine.",
+                "French are known for their cuisine in every context."
+            ],
+            "correctAnswer": "The French are known for their cuisine.",
+            "explanation": "The + nationality adjective can refer to the people of a country as a group."
+        },
+        {
+            "id": "q30809",
+            "question": "He was sent to ___ prison for theft.",
+            "options": [
+                "a",
+                "an",
+                "the",
+                "No article"
+            ],
+            "correctAnswer": "No article",
+            "explanation": "In British and Indian English, 'go to prison' or 'be sent to prison' without an article refers to the institution and its purpose. 'The prison' refers to a particular building."
+        },
+        {
+            "id": "q30810",
+            "question": "The doctor examined ___ injured after the accident.",
+            "options": [
+                "a",
+                "an",
+                "the",
+                "No article"
+            ],
+            "correctAnswer": "the",
+            "explanation": "The + adjective can refer to a group of people. 'The injured' means injured people."
+        },
+        {
+            "id": "q30811",
+            "question": "Which sentence correctly uses an article with an instrument?",
+            "options": [
+                "She practises the flute every evening.",
+                "She practises a flute every evening as a general skill.",
+                "She practises an flute every evening.",
+                "She practises flute every evening in conventional English."
+            ],
+            "correctAnswer": "She practises the flute every evening.",
+            "explanation": "The conventional expression for playing a musical instrument uses 'the'."
+        },
+        {
+            "id": "q30812",
+            "question": "Choose the correct sentence.",
+            "options": [
+                "The elderly deserve respect.",
+                "An elderly deserve respect.",
+                "A elderly deserve respect.",
+                "Elderly deserves respect in all contexts."
+            ],
+            "correctAnswer": "The elderly deserve respect.",
+            "explanation": "The + adjective can represent a group of people. 'The elderly' means elderly people."
+        }
+    ]
+}

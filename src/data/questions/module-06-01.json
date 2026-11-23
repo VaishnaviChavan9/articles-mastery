@@ -1,0 +1,146 @@
+
+{
+  "subtopicId": "subtopic-06-01",
+  "questions": [
+    {
+      "id": "q60101",
+      "question": "I saw ___ eagle flying above the hills.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "Use 'an' before a vowel sound. 'Eagle' begins with a vowel sound."
+    },
+    {
+      "id": "q60102",
+      "question": "She wants to become ___ engineer.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "Use 'an' before a vowel sound. 'Engineer' begins with a vowel sound."
+    },
+    {
+      "id": "q60103",
+      "question": "We visited ___ museum that you recommended.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "Use 'the' because the museum is identified by the phrase 'that you recommended'."
+    },
+    {
+      "id": "q60104",
+      "question": "My brother bought ___ new laptop yesterday.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "Use 'a' when mentioning one nonspecific singular countable noun for the first time."
+    },
+    {
+      "id": "q60105",
+      "question": "___ moon looks bright tonight.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "Use 'the' for unique objects such as the moon."
+    },
+    {
+      "id": "q60106",
+      "question": "He is ___ honest person.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "The 'h' in 'honest' is silent, so the word begins with a vowel sound."
+    },
+    {
+      "id": "q60107",
+      "question": "She studies at ___ university in Mysuru.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "'University' begins with a 'yoo' consonant sound, so use 'a'."
+    },
+    {
+      "id": "q60108",
+      "question": "Please close ___ door before you leave.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "Use 'the' when the listener can identify the particular door from the situation."
+    },
+    {
+      "id": "q60109",
+      "question": "My father reads ___ newspaper every morning.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "Use 'a' when referring to one newspaper in a general, nonspecific sense."
+    },
+    {
+      "id": "q60110",
+      "question": "___ Ganga flows through several Indian states.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "Names of rivers generally take 'the'."
+    },
+    {
+      "id": "q60111",
+      "question": "She gave me ___ useful suggestion.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "'Useful' begins with a 'yoo' consonant sound, so use 'a'."
+    },
+    {
+      "id": "q60112",
+      "question": "We had ___ lunch at noon.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "no article",
+      "explanation": "Meals generally take no article when referred to in a general sense."
+    },
+    {
+      "id": "q60113",
+      "question": "This is ___ most interesting book in the collection.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "Use 'the' before superlative adjectives."
+    },
+    {
+      "id": "q60114",
+      "question": "He plays ___ guitar very well.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "Musical instruments commonly take 'the' after verbs such as play."
+    },
+    {
+      "id": "q60115",
+      "question": "___ children need a safe environment to grow.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Plural countable nouns used in general statements take no article."
+    },
+    {
+      "id": "q60116",
+      "question": "She is ___ MBA graduate.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "MBA is pronounced 'em-bee-ay', beginning with a vowel sound."
+    },
+    {
+      "id": "q60117",
+      "question": "We climbed ___ Mount Everest in a documentary expedition story.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "no article",
+      "explanation": "Individual mountain peaks generally take no article before their names."
+    },
+    {
+      "id": "q60118",
+      "question": "I need ___ hour to finish this assignment.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "an",
+      "explanation": "The 'h' in 'hour' is silent, so it begins with a vowel sound."
+    },
+    {
+      "id": "q60119",
+      "question": "She is ___ first person to arrive today.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "the",
+      "explanation": "Ordinal numbers generally take 'the' when identifying position in an order."
+    },
+    {
+      "id": "q60120",
+      "question": "He wants to buy ___ pair of shoes.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "Use 'a' before the singular countable phrase 'pair of shoes'."
+    }
+  ]
+}

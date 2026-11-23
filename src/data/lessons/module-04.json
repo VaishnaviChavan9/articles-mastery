@@ -1,0 +1,383 @@
+{
+  "moduleId": "module-04",
+  "lessons": [
+    {
+      "id": "lesson-04-01",
+      "subtopicId": "subtopic-04-01",
+      "title": "Introduction to Zero Articles",
+      "sections": [
+        {
+          "heading": "What is a Zero Article?",
+          "content": "A zero article means using a noun without A, An or The. We commonly use no article when talking about things in a general sense, especially plural countable nouns and uncountable nouns.",
+          "examples": [
+            {
+              "sentence": "Books are useful for learning.",
+              "highlight": "Books",
+              "explanation": "Books refers to books in general, not particular books."
+            },
+            {
+              "sentence": "Water is essential for life.",
+              "highlight": "Water",
+              "explanation": "Water is an uncountable noun used generally, so no article is needed."
+            }
+          ]
+        },
+        {
+          "heading": "Plural Nouns Used Generally",
+          "content": "Plural countable nouns usually take no article when referring to an entire category or group.",
+          "examples": [
+            {
+              "sentence": "Teachers play an important role in society.",
+              "highlight": "Teachers",
+              "explanation": "The sentence refers to teachers in general."
+            },
+            {
+              "sentence": "Dogs are loyal animals.",
+              "highlight": "Dogs",
+              "explanation": "Dogs refers to the animal category as a whole."
+            }
+          ]
+        },
+        {
+          "heading": "Uncountable Nouns Used Generally",
+          "content": "Uncountable nouns such as knowledge, milk, information, furniture and advice generally do not take A or An when used in a general sense.",
+          "examples": [
+            {
+              "sentence": "Knowledge gives us confidence.",
+              "highlight": "Knowledge",
+              "explanation": "Knowledge is an uncountable abstract noun used generally."
+            },
+            {
+              "sentence": "Information is available online.",
+              "highlight": "Information",
+              "explanation": "Information is uncountable and does not take A or An."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-04-02",
+      "subtopicId": "subtopic-04-02",
+      "title": "Articles with Proper Nouns",
+      "sections": [
+        {
+          "heading": "What are Proper Nouns?",
+          "content": "Proper nouns are the specific names of people, places, organisations and other unique entities. Most proper nouns are used without an article.",
+          "examples": [
+            {
+              "sentence": "Vaishnavi lives in Bengaluru.",
+              "highlight": "Vaishnavi",
+              "explanation": "A person's name normally takes no article."
+            },
+            {
+              "sentence": "India is a diverse country.",
+              "highlight": "India",
+              "explanation": "Most country names, including India, are used without an article."
+            }
+          ]
+        },
+        {
+          "heading": "Names of People and Cities",
+          "content": "Personal names and most city names do not require articles. Do not normally use A, An or The before them.",
+          "examples": [
+            {
+              "sentence": "Rohan studies in Mysuru.",
+              "highlight": "Rohan",
+              "explanation": "A personal name is used without an article."
+            },
+            {
+              "sentence": "Mumbai is a major city.",
+              "highlight": "Mumbai",
+              "explanation": "The name of the city is used without an article."
+            }
+          ]
+        },
+        {
+          "heading": "Important Exceptions",
+          "content": "Some proper nouns require The, particularly names of certain countries, organisations, geographical features and institutions. Examples include the United States, the United Kingdom and the United Nations.",
+          "examples": [
+            {
+              "sentence": "The United States has fifty states.",
+              "highlight": "The United States",
+              "explanation": "The country name traditionally includes The."
+            },
+            {
+              "sentence": "The United Nations works on international issues.",
+              "highlight": "The United Nations",
+              "explanation": "The is part of the conventional name of this organisation."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-04-03",
+      "subtopicId": "subtopic-04-03",
+      "title": "Plural Nouns in General Statements",
+      "sections": [
+        {
+          "heading": "General Statements",
+          "content": "When plural countable nouns represent an entire class, species or category, we generally do not use an article.",
+          "examples": [
+            {
+              "sentence": "Students need regular practice.",
+              "highlight": "Students",
+              "explanation": "Students refers to students as a general group."
+            },
+            {
+              "sentence": "Birds build nests.",
+              "highlight": "Birds",
+              "explanation": "The sentence describes birds in general."
+            }
+          ]
+        },
+        {
+          "heading": "General Meaning vs Specific Meaning",
+          "content": "A plural noun used generally takes no article. When referring to a particular group already identified or understood from context, use The.",
+          "examples": [
+            {
+              "sentence": "Children enjoy playing.",
+              "highlight": "Children",
+              "explanation": "Children refers to children generally."
+            },
+            {
+              "sentence": "The children in this classroom are quiet.",
+              "highlight": "The children",
+              "explanation": "The identifies a specific group of children."
+            }
+          ]
+        },
+        {
+          "heading": "Avoiding Common Mistakes",
+          "content": "Do not place A or An before plural countable nouns. Use no article for general meaning or The for a particular group.",
+          "examples": [
+            {
+              "sentence": "Computers have changed modern life.",
+              "highlight": "Computers",
+              "explanation": "Computers is plural and used generally."
+            },
+            {
+              "sentence": "The computers in our laboratory are new.",
+              "highlight": "The computers",
+              "explanation": "The refers to the particular computers in the laboratory."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-04-04",
+      "subtopicId": "subtopic-04-04",
+      "title": "Uncountable Nouns",
+      "sections": [
+        {
+          "heading": "Understanding Uncountable Nouns",
+          "content": "Uncountable nouns refer to substances, materials, abstract ideas or things that are not normally counted individually. Examples include advice, information, furniture, rice, sugar and equipment.",
+          "examples": [
+            {
+              "sentence": "She gave me useful advice.",
+              "highlight": "advice",
+              "explanation": "Advice is uncountable, so it does not take A or An."
+            },
+            {
+              "sentence": "We need more equipment.",
+              "highlight": "equipment",
+              "explanation": "Equipment is uncountable and is used without an article when general."
+            }
+          ]
+        },
+        {
+          "heading": "Using No Article",
+          "content": "When an uncountable noun is used generally, we normally do not use A, An or The.",
+          "examples": [
+            {
+              "sentence": "Milk contains calcium.",
+              "highlight": "Milk",
+              "explanation": "Milk is used generally as an uncountable noun."
+            },
+            {
+              "sentence": "Honesty is important.",
+              "highlight": "Honesty",
+              "explanation": "Honesty is an abstract uncountable noun used generally."
+            }
+          ]
+        },
+        {
+          "heading": "When to Use The",
+          "content": "Use The when an uncountable noun refers to a specific quantity, substance or item identified by the context.",
+          "examples": [
+            {
+              "sentence": "The milk in the refrigerator has expired.",
+              "highlight": "The milk",
+              "explanation": "The identifies specific milk in the refrigerator."
+            },
+            {
+              "sentence": "The information you provided was helpful.",
+              "highlight": "The information",
+              "explanation": "The identifies particular information provided by someone."
+            }
+          ]
+        },
+        {
+          "heading": "Common Countable Expressions",
+          "content": "Some uncountable nouns can be used in countable expressions when their meaning changes. We can say a piece of advice, a loaf of bread or a cup of coffee.",
+          "examples": [
+            {
+              "sentence": "She gave me a piece of advice.",
+              "highlight": "a piece of advice",
+              "explanation": "Piece is countable and makes the expression measurable."
+            },
+            {
+              "sentence": "He ordered a coffee.",
+              "highlight": "a coffee",
+              "explanation": "In this context, coffee means one serving or cup of coffee."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-04-05",
+      "subtopicId": "subtopic-04-05",
+      "title": "Meals, Languages and Subjects",
+      "sections": [
+        {
+          "heading": "Articles with Meals",
+          "content": "Names of regular meals such as breakfast, lunch and dinner generally take no article when used in a general sense.",
+          "examples": [
+            {
+              "sentence": "We have breakfast at eight.",
+              "highlight": "breakfast",
+              "explanation": "Breakfast refers to a regular meal, so no article is needed."
+            },
+            {
+              "sentence": "Dinner is ready.",
+              "highlight": "Dinner",
+              "explanation": "Dinner is used generally as a meal name."
+            }
+          ]
+        },
+        {
+          "heading": "When Meals Take an Article",
+          "content": "A or An may be used when describing a particular meal or occasion, especially when an adjective makes it a specific countable event. The can identify a particular meal.",
+          "examples": [
+            {
+              "sentence": "We had a wonderful dinner.",
+              "highlight": "a wonderful dinner",
+              "explanation": "The adjective describes one particular dinner occasion."
+            },
+            {
+              "sentence": "The breakfast served at the hotel was excellent.",
+              "highlight": "The breakfast",
+              "explanation": "The identifies a particular breakfast."
+            }
+          ]
+        },
+        {
+          "heading": "Articles with Languages",
+          "content": "Language names normally take no article when referring to the language itself.",
+          "examples": [
+            {
+              "sentence": "She speaks English fluently.",
+              "highlight": "English",
+              "explanation": "The name of a language normally takes no article."
+            },
+            {
+              "sentence": "I am learning Kannada.",
+              "highlight": "Kannada",
+              "explanation": "Kannada is used as a language name without an article."
+            }
+          ]
+        },
+        {
+          "heading": "Articles with Academic Subjects",
+          "content": "Names of academic subjects generally take no article when referring to the subject as an area of study.",
+          "examples": [
+            {
+              "sentence": "Mathematics requires regular practice.",
+              "highlight": "Mathematics",
+              "explanation": "Mathematics is used as an academic subject."
+            },
+            {
+              "sentence": "She enjoys studying physics.",
+              "highlight": "physics",
+              "explanation": "Physics is used generally as a subject name."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-04-06",
+      "subtopicId": "subtopic-04-06",
+      "title": "Sports, Games and Institutions",
+      "sections": [
+        {
+          "heading": "Articles with Sports and Games",
+          "content": "Names of sports and games generally take no article when referring to the activity.",
+          "examples": [
+            {
+              "sentence": "Cricket is popular in India.",
+              "highlight": "Cricket",
+              "explanation": "Cricket is used as the name of a sport."
+            },
+            {
+              "sentence": "She plays badminton every weekend.",
+              "highlight": "badminton",
+              "explanation": "The name of a game takes no article when used generally."
+            }
+          ]
+        },
+        {
+          "heading": "Articles with Institutions",
+          "content": "Certain institutional expressions take no article when they describe their usual purpose or activity. Examples include go to school, be in prison, go to bed and be at work.",
+          "examples": [
+            {
+              "sentence": "The children go to school every day.",
+              "highlight": "school",
+              "explanation": "School refers to the institution and its usual educational purpose."
+            },
+            {
+              "sentence": "He is in prison.",
+              "highlight": "in prison",
+              "explanation": "This expression describes the institutional status of being imprisoned."
+            }
+          ]
+        },
+        {
+          "heading": "When The Is Required",
+          "content": "Use The when referring to a particular building or place rather than its usual institutional purpose.",
+          "examples": [
+            {
+              "sentence": "I went to the school to meet the principal.",
+              "highlight": "the school",
+              "explanation": "The refers to the specific school building."
+            },
+            {
+              "sentence": "She went to the hospital to visit her uncle.",
+              "highlight": "the hospital",
+              "explanation": "The identifies a particular hospital building or institution being visited."
+            }
+          ]
+        },
+        {
+          "heading": "More Institutional Expressions",
+          "content": "Some common expressions use no article when referring to their normal purpose, such as go home, go to work and go to bed.",
+          "examples": [
+            {
+              "sentence": "My father goes to work early.",
+              "highlight": "work",
+              "explanation": "Work refers to the normal activity or place of employment."
+            },
+            {
+              "sentence": "The baby is sleeping in bed.",
+              "highlight": "bed",
+              "explanation": "Bed is used in the conventional expression describing its normal purpose."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

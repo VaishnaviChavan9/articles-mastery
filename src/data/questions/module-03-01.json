@@ -1,0 +1,122 @@
+
+{
+  "subtopicId": "subtopic-03-01",
+  "questions": [
+    {
+      "id": "q30101",
+      "question": "Please close ___ door before leaving the room.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The refers to a specific door that is known from the situation."
+    },
+    {
+      "id": "q30102",
+      "question": "Which sentence uses 'the' correctly?",
+      "options": [
+        "The honesty is important.",
+        "Please pass me the salt.",
+        "The children need the love.",
+        "She drinks the water every day."
+      ],
+      "correctAnswer": "Please pass me the salt.",
+      "explanation": "The salt refers to a specific salt available in the situation. Abstract nouns and general uncountable nouns normally do not take an article."
+    },
+    {
+      "id": "q30103",
+      "question": "I enjoyed ___ music played at the event.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The music refers to the particular music played at that event."
+    },
+    {
+      "id": "q30104",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The books are useful for learning.",
+        "Books are useful for learning.",
+        "A books are useful for learning.",
+        "An books are useful for learning."
+      ],
+      "correctAnswer": "Books are useful for learning.",
+      "explanation": "Plural countable nouns used in a general sense do not take an article."
+    },
+    {
+      "id": "q30105",
+      "question": "The teacher asked us to open ___ textbook on page 20.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The textbook is a specific book identified by the classroom situation."
+    },
+    {
+      "id": "q30106",
+      "question": "Which sentence correctly refers to a particular group of students?",
+      "options": [
+        "Students in the front row are making noise.",
+        "The students in the front row are making noise.",
+        "A students in the front row are making noise.",
+        "An students in the front row are making noise."
+      ],
+      "correctAnswer": "The students in the front row are making noise.",
+      "explanation": "The phrase 'in the front row' identifies a particular group of students."
+    },
+    {
+      "id": "q30107",
+      "question": "We watched ___ birds near the lake. The birds were migrating.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The sentence refers to the particular birds already identified in the context."
+    },
+    {
+      "id": "q30108",
+      "question": "Choose the correct completion: I could not hear ___ announcement clearly.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The announcement is a specific announcement being made in the situation."
+    },
+    {
+      "id": "q30109",
+      "question": "Which sentence uses 'the' incorrectly for a general meaning?",
+      "options": [
+        "The moon looks bright tonight.",
+        "The furniture in this room is old.",
+        "The dogs are loyal animals.",
+        "The water in this bottle is cold."
+      ],
+      "correctAnswer": "The dogs are loyal animals.",
+      "explanation": "When speaking about dogs as a class in general, use 'Dogs are loyal animals.' The other sentences refer to specific things."
+    },
+    {
+      "id": "q30110",
+      "question": "The manager discussed ___ problem reported by the customer.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The phrase 'reported by the customer' identifies a particular problem."
+    },
+    {
+      "id": "q30111",
+      "question": "Choose the sentence in which 'the' refers to a specific uncountable noun.",
+      "options": [
+        "The patience is necessary.",
+        "The advice given by the doctor was helpful.",
+        "The information is important in general.",
+        "The milk is healthy for everyone."
+      ],
+      "correctAnswer": "The advice given by the doctor was helpful.",
+      "explanation": "The phrase 'given by the doctor' identifies particular advice. General uses of advice, information and milk do not normally take 'the'."
+    },
+    {
+      "id": "q30112",
+      "question": "There is a stain on ___ carpet near the window.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The location 'near the window' identifies a particular carpet."
+    },
+    {
+      "id": "q30113",
+      "question": "Which option correctly completes the sentence? ___ people waiting outside are applicants.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The phrase 'waiting outside' identifies a specific group of people."
+    }
+  ]
+}

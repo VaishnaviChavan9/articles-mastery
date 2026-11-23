@@ -1,0 +1,148 @@
+
+{
+  "subtopicId": "subtopic-04-06",
+  "questions": [
+    {
+      "id": "q40601",
+      "question": "My friends play ___ badminton every evening.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Names of sports generally take no article."
+    },
+    {
+      "id": "q40602",
+      "question": "Which sentence is correct?",
+      "options": [
+        "She plays the chess well.",
+        "She plays chess well.",
+        "She plays a chess well.",
+        "She plays an chess well."
+      ],
+      "correctAnswer": "She plays chess well.",
+      "explanation": "Names of games such as chess generally take no article when referring to the activity."
+    },
+    {
+      "id": "q40603",
+      "question": "The children go to ___ school every morning.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Go to school without an article refers to attending school as students."
+    },
+    {
+      "id": "q40604",
+      "question": "His grandfather is in ___ hospital for treatment.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "In British and Indian English, 'in hospital' can refer to being there as a patient. In American English, 'in the hospital' is more common."
+    },
+    {
+      "id": "q40605",
+      "question": "Which sentence is correct?",
+      "options": [
+        "He goes to the bed early.",
+        "He goes to bed early.",
+        "He goes to a bed early.",
+        "He goes to an bed early."
+      ],
+      "correctAnswer": "He goes to bed early.",
+      "explanation": "Go to bed without an article refers to the ordinary activity of sleeping."
+    },
+    {
+      "id": "q40606",
+      "question": "They played ___ football after school.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Names of sports generally take no article."
+    },
+    {
+      "id": "q40607",
+      "question": "The suspect was taken to ___ prison.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Taken to prison without an article refers to being imprisoned, not merely taken to a particular building."
+    },
+    {
+      "id": "q40608",
+      "question": "Which sentence refers to a particular building?",
+      "options": [
+        "She goes to school every day.",
+        "The children are at school.",
+        "I went to the school to meet the principal.",
+        "He is still in school."
+      ],
+      "correctAnswer": "I went to the school to meet the principal.",
+      "explanation": "The school identifies a particular building visited for a purpose other than attending lessons as a student."
+    },
+    {
+      "id": "q40609",
+      "question": "My brother plays ___ hockey professionally.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Names of sports generally do not take an article."
+    },
+    {
+      "id": "q40610",
+      "question": "The patient was taken to ___ hospital near our house.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The phrase 'near our house' identifies a particular hospital building."
+    },
+    {
+      "id": "q40611",
+      "question": "Which expression is correct?",
+      "options": [
+        "go to the church for worship",
+        "go to church for worship",
+        "go to a church for worship in the institutional sense",
+        "go to an church for worship"
+      ],
+      "correctAnswer": "go to church for worship",
+      "explanation": "Church without an article can refer to attending religious services. 'The church' refers to a particular building."
+    },
+    {
+      "id": "q40612",
+      "question": "She is learning to play ___ golf.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "Names of sports generally take no article."
+    },
+    {
+      "id": "q40613",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The prisoners are in prison.",
+        "The prisoners are in a prison as an institution.",
+        "The prisoners are in an prison.",
+        "The prisoners are in prison in a general institutional sense."
+      ],
+      "correctAnswer": "The prisoners are in prison in a general institutional sense.",
+      "explanation": "The institutional expression 'in prison' takes no article. 'In a prison' or 'in the prison' refers to a particular prison or building."
+    },
+    {
+      "id": "q40614",
+      "question": "He goes to ___ university to study engineering.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "No article",
+      "explanation": "In British and Indian English, 'go to university' can refer to attending university as a student. 'The university' identifies a particular institution."
+    },
+    {
+      "id": "q40615",
+      "question": "Which sentence uses zero article correctly?",
+      "options": [
+        "They play the volleyball on Sundays.",
+        "They play volleyball on Sundays.",
+        "They play a volleyball on Sundays.",
+        "They play an volleyball on Sundays."
+      ],
+      "correctAnswer": "They play volleyball on Sundays.",
+      "explanation": "Names of sports generally take no article when referring to the activity."
+    },
+    {
+      "id": "q40616",
+      "question": "The visitors went to ___ school to attend the annual function.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The school refers to a particular building visited by the visitors for an event, not attending school as students."
+    }
+  ]
+}

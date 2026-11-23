@@ -1,0 +1,26 @@
+
+{
+  "subtopicId": "subtopic-02-01",
+  "questions": [
+    {"id":"q001","question":"She bought ___ dress.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"Dress begins with a consonant sound."},
+    {"id":"q002","question":"He is ___ doctor.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"Doctor begins with the consonant sound /d/."},
+    {"id":"q003","question":"I need ___ chair.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"Chair is a singular countable noun beginning with a consonant sound."},
+    {"id":"q004","question":"She wants to become ___ pilot.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"Pilot begins with a consonant sound."},
+    {"id":"q005","question":"We saw ___ tiger at the zoo.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"A introduces a non-specific singular countable noun."},
+    {"id":"q006","question":"He drives ___ car to work.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"A is used before the singular countable noun car when it is not specific."},
+    {"id":"q007","question":"I have ___ question.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"Question begins with the consonant sound /k/."},
+    {"id":"q008","question":"She is ___ university student.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"University begins with the consonant /y/ sound."},
+    {"id":"q009","question":"He waited for ___ bus.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"Bus begins with a consonant sound."},
+    {"id":"q010","question":"I saw ___ monkey on the tree.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"Monkey begins with a consonant sound."},
+    {"id":"q011","question":"Choose the correct phrase.","options":["a apple","a orange","a useful tool","a hour"],"correctAnswer":"a useful tool","explanation":"Useful begins with the consonant /y/ sound."},
+    {"id":"q012","question":"Which noun can directly take A?","options":["water","information","books","table"],"correctAnswer":"table","explanation":"Table is a singular countable noun."},
+    {"id":"q013","question":"He earns ₹500 ___ day.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"A can mean per or each in expressions of rate."},
+    {"id":"q014","question":"She visits her grandmother twice ___ month.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"A means each in the expression twice a month."},
+    {"id":"q015","question":"My father is ___ teacher.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"A is used before a singular profession beginning with a consonant sound."},
+    {"id":"q016","question":"Choose the grammatically correct sentence.","options":["She is a engineers.","He bought a pen.","I need a water.","They saw a birds."],"correctAnswer":"He bought a pen.","explanation":"A is used with singular countable nouns, not plural or uncountable nouns."},
+    {"id":"q017","question":"There is ___ problem with the computer.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"Problem is a singular countable noun beginning with a consonant sound."},
+    {"id":"q018","question":"He wants to buy ___ new bicycle.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"A introduces a non-specific singular countable noun."},
+    {"id":"q019","question":"Choose the correct phrase.","options":["a honest man","a European country","a umbrella","a hour"],"correctAnswer":"a European country","explanation":"European begins with the consonant /y/ sound."},
+    {"id":"q020","question":"When do we generally use A?","options":["Before plural nouns","Before uncountable nouns","Before singular countable nouns beginning with consonant sounds","Before every vowel letter"],"correctAnswer":"Before singular countable nouns beginning with consonant sounds","explanation":"A is used before singular countable nouns with an initial consonant sound."}
+  ]
+}

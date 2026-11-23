@@ -1,0 +1,146 @@
+
+{
+  "subtopicId": "subtopic-01-02",
+  "questions": [
+    {
+      "id": "q021",
+      "question": "How many articles are there in English?",
+      "options": ["One", "Two", "Three", "Four"],
+      "correctAnswer": "Three",
+      "explanation": "English has three articles: A, An and The."
+    },
+    {
+      "id": "q022",
+      "question": "Which articles are classified as indefinite articles?",
+      "options": ["A and An", "The and A", "The and An", "Only The"],
+      "correctAnswer": "A and An",
+      "explanation": "A and An are indefinite articles because they generally introduce non-specific singular countable nouns."
+    },
+    {
+      "id": "q023",
+      "question": "Which article is definite?",
+      "options": ["A", "An", "The", "Both A and An"],
+      "correctAnswer": "The",
+      "explanation": "The is the definite article used for specific or identifiable nouns."
+    },
+    {
+      "id": "q024",
+      "question": "Choose the correct article: 'I saw ___ bird.'",
+      "options": ["A", "An", "The always", "No article always"],
+      "correctAnswer": "A",
+      "explanation": "A introduces a non-specific singular countable noun beginning with a consonant sound."
+    },
+    {
+      "id": "q025",
+      "question": "Which sentence uses 'the' to identify a specific noun?",
+      "options": ["I need a pencil.", "The pencil on the desk is mine.", "Pencils are useful.", "She bought an umbrella."],
+      "correctAnswer": "The pencil on the desk is mine.",
+      "explanation": "The phrase 'on the desk' identifies a particular pencil."
+    },
+    {
+      "id": "q026",
+      "question": "Which sentence contains a zero article?",
+      "options": ["The dog is sleeping.", "I bought a pen.", "Dogs are loyal animals.", "She ate an apple."],
+      "correctAnswer": "Dogs are loyal animals.",
+      "explanation": "Dogs refers to animals in general. No article is needed before this general plural noun."
+    },
+    {
+      "id": "q027",
+      "question": "Choose the correct article: 'She ate ___ apple.'",
+      "options": ["A", "An", "The always", "No article"],
+      "correctAnswer": "An",
+      "explanation": "Apple begins with a vowel sound, so An is used."
+    },
+    {
+      "id": "q028",
+      "question": "Which sentence uses 'a' correctly?",
+      "options": ["A apple is red.", "A university is nearby.", "A hour has passed.", "A umbrella is useful."],
+      "correctAnswer": "A university is nearby.",
+      "explanation": "University begins with the consonant sound /y/, so A is correct."
+    },
+    {
+      "id": "q029",
+      "question": "Choose the correct article: 'He waited for ___ hour.'",
+      "options": ["A", "An", "The only", "No article"],
+      "correctAnswer": "An",
+      "explanation": "The h in hour is silent. The word begins with a vowel sound."
+    },
+    {
+      "id": "q030",
+      "question": "Which sentence uses 'the' correctly?",
+      "options": ["The honesty is important.", "The books on the table are mine.", "The water is essential for life in general.", "The dogs are loyal animals in general."],
+      "correctAnswer": "The books on the table are mine.",
+      "explanation": "The identifies specific books: the ones on the table."
+    },
+    {
+      "id": "q031",
+      "question": "What does an indefinite article generally introduce?",
+      "options": ["A specific known noun", "A non-specific singular countable noun", "Only plural nouns", "Only proper nouns"],
+      "correctAnswer": "A non-specific singular countable noun",
+      "explanation": "A and An generally introduce a non-specific singular countable noun."
+    },
+    {
+      "id": "q032",
+      "question": "Which sentence uses zero article correctly?",
+      "options": ["Water is essential for life.", "A water is essential for life.", "An water is essential for life.", "The water is essential for all life in general."],
+      "correctAnswer": "Water is essential for life.",
+      "explanation": "Water is an uncountable noun used in a general sense, so no article is needed."
+    },
+    {
+      "id": "q033",
+      "question": "Choose the correct article: 'I bought ___ pen.'",
+      "options": ["A", "An", "No article always", "Both A and An"],
+      "correctAnswer": "A",
+      "explanation": "Pen is a singular countable noun beginning with a consonant sound."
+    },
+    {
+      "id": "q034",
+      "question": "Which sentence refers to a particular teacher?",
+      "options": ["A teacher entered.", "Teachers work hard.", "The teacher is absent today.", "Teacher is a profession."],
+      "correctAnswer": "The teacher is absent today.",
+      "explanation": "The identifies a particular teacher known in the context."
+    },
+    {
+      "id": "q035",
+      "question": "Which pair contains one indefinite article and one definite article?",
+      "options": ["A and An", "A and The", "The and This", "An and Some"],
+      "correctAnswer": "A and The",
+      "explanation": "A is indefinite, while The is definite."
+    },
+    {
+      "id": "q036",
+      "question": "Choose the correct sentence.",
+      "options": ["I saw an bird.", "I saw a bird.", "I saw the bird for the first time, but it was any bird.", "I saw a the bird."],
+      "correctAnswer": "I saw a bird.",
+      "explanation": "A is used before bird because it begins with a consonant sound and is introduced non-specifically."
+    },
+    {
+      "id": "q037",
+      "question": "What is the meaning of zero article?",
+      "options": ["Using A and An together", "Using no article before a noun where appropriate", "Using The twice", "Removing the noun"],
+      "correctAnswer": "Using no article before a noun where appropriate",
+      "explanation": "Zero article means no article is used in a grammatical context where one is not required."
+    },
+    {
+      "id": "q038",
+      "question": "In 'I bought a pen. The pen is blue.', why is 'the' used in the second sentence?",
+      "options": ["Because pen is plural", "Because the pen has already been introduced", "Because pen begins with a vowel", "Because all objects require the"],
+      "correctAnswer": "Because the pen has already been introduced",
+      "explanation": "The second sentence refers to the same pen mentioned in the first sentence."
+    },
+    {
+      "id": "q039",
+      "question": "Which sentence uses an article with a plural noun correctly?",
+      "options": ["A books are useful.", "An books are useful.", "The books on my desk are useful.", "A the books are useful."],
+      "correctAnswer": "The books on my desk are useful.",
+      "explanation": "The can be used with plural nouns when they refer to a specific group."
+    },
+    {
+      "id": "q040",
+      "question": "Which option correctly matches the article type?",
+      "options": ["A – Definite", "An – Definite", "The – Indefinite", "The – Definite"],
+      "correctAnswer": "The – Definite",
+      "explanation": "The is the definite article. A and An are indefinite articles."
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+
+{
+  "subtopicId": "subtopic-03-02",
+  "questions": [
+    {
+      "id": "q30201",
+      "question": "I bought a notebook yesterday. ___ notebook has a blue cover.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The notebook is mentioned for the second time, so 'the' is used."
+    },
+    {
+      "id": "q30202",
+      "question": "A woman entered the office. ___ woman was carrying a file.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The second reference to the woman uses 'the' because she has already been introduced."
+    },
+    {
+      "id": "q30203",
+      "question": "Which sentence correctly introduces a noun for the first time?",
+      "options": [
+        "The stranger knocked on my door.",
+        "A stranger knocked on my door.",
+        "Stranger knocked on my door.",
+        "An stranger knocked on my door."
+      ],
+      "correctAnswer": "A stranger knocked on my door.",
+      "explanation": "A singular countable noun introduced for the first time generally takes 'a' or 'an'."
+    },
+    {
+      "id": "q30204",
+      "question": "We visited a museum. ___ museum displayed ancient coins.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The museum has already been introduced, so the second mention takes 'the'."
+    },
+    {
+      "id": "q30205",
+      "question": "Choose the correct pair: She found ___ key and gave ___ key to her brother.",
+      "options": [
+        "the, a",
+        "a, the",
+        "an, a",
+        "no article, the"
+      ],
+      "correctAnswer": "a, the",
+      "explanation": "Use 'a' when introducing the key for the first time and 'the' when referring to that same key again."
+    },
+    {
+      "id": "q30206",
+      "question": "I spoke to ___ person you recommended.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The relative clause 'you recommended' identifies a particular person."
+    },
+    {
+      "id": "q30207",
+      "question": "Which sentence correctly uses an identifying phrase?",
+      "options": [
+        "I liked a painting on the left wall.",
+        "I liked the painting on the left wall.",
+        "I liked painting on the left wall.",
+        "I liked an painting on the left wall."
+      ],
+      "correctAnswer": "I liked the painting on the left wall.",
+      "explanation": "The phrase 'on the left wall' identifies a particular painting."
+    },
+    {
+      "id": "q30208",
+      "question": "She adopted a puppy. ___ puppy follows her everywhere.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The puppy is a second reference to the same puppy."
+    },
+    {
+      "id": "q30209",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "I met the engineer who designed our building.",
+        "I met an engineer who designed our building yesterday, and engineer was helpful.",
+        "I met a engineer who designed our building.",
+        "I met engineer who designed our building."
+      ],
+      "correctAnswer": "I met the engineer who designed our building.",
+      "explanation": "The phrase 'who designed our building' identifies a particular engineer."
+    },
+    {
+      "id": "q30210",
+      "question": "We stayed at a hotel near the station. ___ hotel had a rooftop restaurant.",
+      "options": ["A", "An", "The", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The hotel has already been introduced in the previous sentence."
+    },
+    {
+      "id": "q30211",
+      "question": "The employee ___ submitted the report will receive an award.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The clause 'who submitted the report' identifies which employee is meant."
+    },
+    {
+      "id": "q30212",
+      "question": "Choose the correct sequence: There was ___ envelope on my desk. ___ envelope contained a photograph.",
+      "options": [
+        "the, an",
+        "an, the",
+        "a, an",
+        "no article, the"
+      ],
+      "correctAnswer": "an, the",
+      "explanation": "Use 'an' to introduce the envelope and 'the' when referring to it again."
+    },
+    {
+      "id": "q30213",
+      "question": "Which sentence uses 'the' because the listener can identify the noun from the situation?",
+      "options": [
+        "I need a pen.",
+        "Could you turn off the fan?",
+        "She bought an umbrella.",
+        "He wants a bicycle."
+      ],
+      "correctAnswer": "Could you turn off the fan?",
+      "explanation": "The fan is identifiable to both speaker and listener from the immediate situation."
+    }
+  ]
+}

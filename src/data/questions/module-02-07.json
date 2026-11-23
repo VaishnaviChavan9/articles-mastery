@@ -1,0 +1,26 @@
+
+{
+  "subtopicId": "subtopic-02-07",
+  "questions": [
+    {"id":"q001","question":"I saw ___ bird in the garden.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"A introduces a singular countable noun for the first time."},
+    {"id":"q002","question":"___ bird was sitting on a branch.","options":["A","An","The","No article"],"correctAnswer":"The","explanation":"The bird was already introduced in the previous sentence."},
+    {"id":"q003","question":"She found ___ old coin.","options":["a","an","the","no article"],"correctAnswer":"an","explanation":"Old begins with a vowel sound and the coin is introduced for the first time."},
+    {"id":"q004","question":"___ coin was made of silver.","options":["A","An","The","No article"],"correctAnswer":"The","explanation":"The coin is identifiable from the previous sentence."},
+    {"id":"q005","question":"He adopted ___ puppy.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"A introduces a non-specific singular countable noun."},
+    {"id":"q006","question":"___ puppy follows him everywhere.","options":["A","An","The","No article"],"correctAnswer":"The","explanation":"The puppy has already been introduced."},
+    {"id":"q007","question":"We visited ___ village last Sunday.","options":["a","an","the","no article"],"correctAnswer":"a","explanation":"A introduces a village that has not yet been identified."},
+    {"id":"q008","question":"___ village was surrounded by hills.","options":["A","An","The","No article"],"correctAnswer":"The","explanation":"The village refers to the one mentioned earlier."},
+    {"id":"q009","question":"She bought ___ umbrella.","options":["a","an","the","no article"],"correctAnswer":"an","explanation":"Umbrella begins with a vowel sound."},
+    {"id":"q010","question":"___ umbrella is red.","options":["A","An","The","No article"],"correctAnswer":"The","explanation":"The umbrella is now identifiable from the previous sentence."},
+    {"id":"q011","question":"Choose the correct sequence: I saw ___ dog. ___ dog was sleeping.","options":["a, the","the, a","an, the","no article, a"],"correctAnswer":"a, the","explanation":"Use A for first introduction and The for the identifiable second mention."},
+    {"id":"q012","question":"Choose the correct sequence: He bought ___ orange. ___ orange was sweet.","options":["a, the","an, the","the, an","no article, the"],"correctAnswer":"an, the","explanation":"An introduces orange; The refers to the same orange again."},
+    {"id":"q013","question":"Can The be used when a noun is mentioned for the first time?","options":["Never","Yes, when it is identifiable from context","Only with plural nouns","Only with names"],"correctAnswer":"Yes, when it is identifiable from context","explanation":"Shared knowledge or the situation can make a noun identifiable even on first mention."},
+    {"id":"q014","question":"Please close ___ door. Why is The appropriate?","options":["The door is plural","The door is identifiable from the situation","Door is uncountable","The is used before every noun"],"correctAnswer":"The door is identifiable from the situation","explanation":"The speaker expects the listener to know which door is meant."},
+    {"id":"q015","question":"Choose the correct sentence.","options":["I saw a moon last night.","I saw the Moon last night.","I saw an Moon last night.","I saw Moon last night."],"correctAnswer":"I saw the Moon last night.","explanation":"The is used for the unique natural satellite of Earth."},
+    {"id":"q016","question":"Which sentence correctly introduces a new singular countable noun?","options":["She bought books.","She bought a bag.","She bought information.","She bought water."],"correctAnswer":"She bought a bag.","explanation":"Bag is a singular countable noun introduced for the first time."},
+    {"id":"q017","question":"Choose the correct sequence: I met ___ engineer. ___ engineer was friendly.","options":["a, the","an, the","the, an","an, an"],"correctAnswer":"an, the","explanation":"Engineer begins with a vowel sound; the second mention is specific."},
+    {"id":"q018","question":"Which noun cannot normally be introduced with A or An directly?","options":["chair","apple","advice","student"],"correctAnswer":"advice","explanation":"Advice is uncountable. We can say 'a piece of advice'."},
+    {"id":"q019","question":"Choose the correct sentence.","options":["I bought a laptop. The laptop is expensive.","I bought the laptop. A laptop is expensive (same laptop).","I bought an laptop.","I bought laptop."],"correctAnswer":"I bought a laptop. The laptop is expensive.","explanation":"A introduces the laptop; The refers to the same identifiable laptop."},
+    {"id":"q020","question":"What is the usual article pattern when introducing and then referring to the same non-specific noun?","options":["The, A","An, A","A or An, then The","No article, then An"],"correctAnswer":"A or An, then The","explanation":"Indefinite articles introduce the noun; The can refer back to it."}
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "subtopicId": "subtopic-05-07",
+  "questions": [
+    {
+      "id": "q50701",
+      "question": "Choose the sentence that clearly refers to one person holding two roles.",
+      "options": ["The principal and the secretary attended the meeting.", "The principal and secretary attended the meeting.", "A principal and a secretary attended the meeting.", "Principal and secretary attended the meeting."],
+      "correctAnswer": "The principal and secretary attended the meeting.",
+      "explanation": "When one article is used before two singular titles joined by 'and', they can refer to one person holding both roles."
+    },
+    {
+      "id": "q50702",
+      "question": "Choose the sentence that clearly refers to two different people.",
+      "options": ["The principal and secretary attended the meeting.", "The principal and the secretary attended the meeting.", "A principal and secretary attended the meeting.", "Principal and the secretary attended the meeting."],
+      "correctAnswer": "The principal and the secretary attended the meeting.",
+      "explanation": "Repeating 'the' before both nouns indicates two separately identified people."
+    },
+    {
+      "id": "q50703",
+      "question": "Which sentence refers to one dog with two colours?",
+      "options": ["A black and a white dog ran across the garden.", "A black and white dog ran across the garden.", "The black and a white dog ran across the garden.", "Black and a white dog ran across the garden."],
+      "correctAnswer": "A black and white dog ran across the garden.",
+      "explanation": "One article before the combined description indicates one dog that is both black and white."
+    },
+    {
+      "id": "q50704",
+      "question": "Which sentence refers to two different dogs?",
+      "options": ["A black and white dog ran across the garden.", "A black and a white dog ran across the garden.", "The black and white dog ran across the garden.", "A black dog and white ran across the garden."],
+      "correctAnswer": "A black and a white dog ran across the garden.",
+      "explanation": "Repeating the article before the second adjective indicates two separate dogs."
+    },
+    {
+      "id": "q50705",
+      "question": "Complete the sentence: She bought ___ red, blue and green dress.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "The adjectives describe one dress, so a single article is used before the adjective sequence."
+    },
+    {
+      "id": "q50706",
+      "question": "Choose the correct sentence.",
+      "options": ["He is a honest and hardworking employee.", "He is an honest and hardworking employee.", "He is the honest and a hardworking employee.", "He is honest and a hardworking employee."],
+      "correctAnswer": "He is an honest and hardworking employee.",
+      "explanation": "One article is used for the single noun 'employee'. 'An' is chosen because 'honest' begins with a vowel sound."
+    },
+    {
+      "id": "q50707",
+      "question": "Complete the sentence: We visited ___ museum and ___ art gallery nearby.",
+      "options": ["a, an", "an, a", "the, a", "a, a"],
+      "correctAnswer": "a, an",
+      "explanation": "These are two separate, unspecified places. 'Museum' begins with a consonant sound and 'art' begins with a vowel sound."
+    },
+    {
+      "id": "q50708",
+      "question": "Choose the correct sentence.",
+      "options": ["She is a teacher and writer.", "She is a teacher and a writer.", "She is an teacher and writer.", "She is the teacher and a writer."],
+      "correctAnswer": "She is a teacher and a writer.",
+      "explanation": "Repeating the article can clearly present teaching and writing as two separate roles. The shorter form can also be acceptable when the roles are treated as a combined description."
+    },
+    {
+      "id": "q50709",
+      "question": "Complete the sentence: He adopted ___ cat and ___ dog from the shelter.",
+      "options": ["a, a", "an, a", "the, the", "a, an"],
+      "correctAnswer": "a, a",
+      "explanation": "Two separate singular countable animals are introduced for the first time, so each noun needs its own article."
+    },
+    {
+      "id": "q50710",
+      "question": "Which sentence correctly refers to two separate objects?",
+      "options": ["I need a pen and notebook.", "I need a pen and a notebook.", "I need an pen and a notebook.", "I need the pen and notebook, referring to two unspecified objects."],
+      "correctAnswer": "I need a pen and a notebook.",
+      "explanation": "Repeating the article makes it clear that two separate countable objects are being requested."
+    },
+    {
+      "id": "q50711",
+      "question": "Complete the sentence: She gave me ___ useful and practical suggestion.",
+      "options": ["a", "an", "the", "no article"],
+      "correctAnswer": "a",
+      "explanation": "Both adjectives describe one singular countable noun. 'Useful' begins with the consonant sound /j/."
+    },
+    {
+      "id": "q50712",
+      "question": "Choose the correct sentence.",
+      "options": ["The old and new buildings were renovated.", "An old and the new buildings were renovated.", "A old and new buildings were renovated.", "The old and a new buildings were renovated."],
+      "correctAnswer": "The old and new buildings were renovated.",
+      "explanation": "One article can apply to coordinated adjectives describing the same plural noun group. Here, both old and new buildings are included in the identified group."
+    },
+    {
+      "id": "q50713",
+      "question": "Complete the sentence: He is ___ first and ___ second person to arrive.",
+      "options": ["the, the", "a, a", "the, a", "a, the"],
+      "correctAnswer": "the, the",
+      "explanation": "The ordinal expressions identify two distinct positions, so 'the' is repeated before each."
+    },
+    {
+      "id": "q50714",
+      "question": "Choose the correct sentence.",
+      "options": ["The manager gave us a clear and detailed explanation.", "The manager gave us an clear and a detailed explanation.", "The manager gave us the clear and a detailed explanation.", "The manager gave us clear and a detailed explanation, referring to one countable explanation."],
+      "correctAnswer": "The manager gave us a clear and detailed explanation.",
+      "explanation": "The adjectives 'clear' and 'detailed' describe one singular countable noun, so one article is sufficient."
+    }
+  ]
+}

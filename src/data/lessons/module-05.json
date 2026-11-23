@@ -1,0 +1,582 @@
+{
+  "moduleId": "module-05",
+  "lessons": [
+    {
+      "id": "lesson-05-01",
+      "subtopicId": "subtopic-05-01",
+      "title": "Countable and Uncountable Nouns",
+      "sections": [
+        {
+          "heading": "Countable Nouns",
+          "content": "Countable nouns refer to things that can be counted individually. They have singular and plural forms. A singular countable noun normally requires a determiner such as A, An, The, this, my or one.",
+          "examples": [
+            {
+              "sentence": "She bought a laptop.",
+              "highlight": "a laptop",
+              "explanation": "Laptop is a singular countable noun introduced for the first time."
+            },
+            {
+              "sentence": "The laptop is expensive.",
+              "highlight": "The laptop",
+              "explanation": "The identifies a particular laptop already known from the context."
+            }
+          ]
+        },
+        {
+          "heading": "Uncountable Nouns",
+          "content": "Uncountable nouns refer to things that are not normally counted individually. Examples include information, furniture, advice, equipment, luggage and knowledge. They generally do not take A or An.",
+          "examples": [
+            {
+              "sentence": "She gave me useful information.",
+              "highlight": "information",
+              "explanation": "Information is uncountable and is used without A or An."
+            },
+            {
+              "sentence": "The furniture is new.",
+              "highlight": "The furniture",
+              "explanation": "The identifies particular furniture. Furniture remains uncountable."
+            }
+          ]
+        },
+        {
+          "heading": "Nouns That Can Be Countable or Uncountable",
+          "content": "Some nouns can be countable or uncountable depending on their meaning. A change in meaning can change whether an article is required.",
+          "examples": [
+            {
+              "sentence": "I need some paper.",
+              "highlight": "paper",
+              "explanation": "Paper refers to the material and is uncountable."
+            },
+            {
+              "sentence": "She presented a paper at the seminar.",
+              "highlight": "a paper",
+              "explanation": "Here, paper means one academic document and is countable."
+            }
+          ]
+        },
+        {
+          "heading": "Choosing the Correct Article",
+          "content": "Use A or An with a singular countable noun when introducing one unspecified item. Use The for a specific noun. Use no article with plural or uncountable nouns when speaking generally.",
+          "examples": [
+            {
+              "sentence": "He bought an umbrella.",
+              "highlight": "an umbrella",
+              "explanation": "Umbrella is a singular countable noun beginning with a vowel sound."
+            },
+            {
+              "sentence": "Umbrellas are useful during the rainy season.",
+              "highlight": "Umbrellas",
+              "explanation": "The plural noun is used generally, so no article is required."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-05-02",
+      "subtopicId": "subtopic-05-02",
+      "title": "Abstract Nouns",
+      "sections": [
+        {
+          "heading": "What are Abstract Nouns?",
+          "content": "Abstract nouns name qualities, emotions, ideas, states or experiences that cannot usually be touched or physically seen. Examples include honesty, courage, happiness, freedom, wisdom and childhood.",
+          "examples": [
+            {
+              "sentence": "Honesty builds trust.",
+              "highlight": "Honesty",
+              "explanation": "Honesty is an abstract noun used generally without an article."
+            },
+            {
+              "sentence": "Courage is necessary in difficult situations.",
+              "highlight": "Courage",
+              "explanation": "Courage refers to a general quality."
+            }
+          ]
+        },
+        {
+          "heading": "Abstract Nouns Used Generally",
+          "content": "Abstract nouns usually take no article when they refer to a quality, emotion or idea in a general sense.",
+          "examples": [
+            {
+              "sentence": "Knowledge is powerful.",
+              "highlight": "Knowledge",
+              "explanation": "Knowledge is used generally as an abstract noun."
+            },
+            {
+              "sentence": "Freedom is important for every individual.",
+              "highlight": "Freedom",
+              "explanation": "Freedom refers to the general concept."
+            }
+          ]
+        },
+        {
+          "heading": "Specific Abstract Nouns",
+          "content": "Use The when an abstract noun refers to a particular quality, experience or idea identified by the context or a descriptive phrase.",
+          "examples": [
+            {
+              "sentence": "The courage she displayed was remarkable.",
+              "highlight": "The courage",
+              "explanation": "The refers to the particular courage displayed by her."
+            },
+            {
+              "sentence": "The beauty of this painting is extraordinary.",
+              "highlight": "The beauty",
+              "explanation": "The identifies a specific quality of the painting."
+            }
+          ]
+        },
+        {
+          "heading": "Abstract Nouns Used as Countable Nouns",
+          "content": "Some abstract nouns can become countable when they refer to a particular instance, event, action or example of a quality. In such cases, A or An may be appropriate.",
+          "examples": [
+            {
+              "sentence": "It was a kindness I will never forget.",
+              "highlight": "a kindness",
+              "explanation": "Kindness refers to one particular kind act."
+            },
+            {
+              "sentence": "She had an interesting experience.",
+              "highlight": "an interesting experience",
+              "explanation": "Experience refers to one particular event or occurrence."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-05-03",
+      "subtopicId": "subtopic-05-03",
+      "title": "Material Nouns",
+      "sections": [
+        {
+          "heading": "What are Material Nouns?",
+          "content": "Material nouns name substances or materials from which things are made. Examples include gold, silver, iron, wood, cotton, plastic, copper and glass.",
+          "examples": [
+            {
+              "sentence": "Gold is a valuable metal.",
+              "highlight": "Gold",
+              "explanation": "Gold refers to the material in general."
+            },
+            {
+              "sentence": "Wood is used to make furniture.",
+              "highlight": "Wood",
+              "explanation": "Wood is a material noun used generally."
+            }
+          ]
+        },
+        {
+          "heading": "General Use of Material Nouns",
+          "content": "Material nouns are generally uncountable and do not take A or An when referring to the material as a whole.",
+          "examples": [
+            {
+              "sentence": "Copper conducts electricity.",
+              "highlight": "Copper",
+              "explanation": "Copper is used generally as a material."
+            },
+            {
+              "sentence": "Plastic is used in many products.",
+              "highlight": "Plastic",
+              "explanation": "Plastic refers to the material in general."
+            }
+          ]
+        },
+        {
+          "heading": "Specific Material Nouns",
+          "content": "Use The when referring to a particular material or quantity that is identified by the context.",
+          "examples": [
+            {
+              "sentence": "The gold in this ring is pure.",
+              "highlight": "The gold",
+              "explanation": "The identifies the specific gold used in this ring."
+            },
+            {
+              "sentence": "The water in the tank is clean.",
+              "highlight": "The water",
+              "explanation": "The refers to a particular quantity of water."
+            }
+          ]
+        },
+        {
+          "heading": "Material Nouns Used as Countable Nouns",
+          "content": "Some material words can also be used as countable nouns when they refer to an object, product, serving or type rather than the material itself.",
+          "examples": [
+            {
+              "sentence": "She bought a glass.",
+              "highlight": "a glass",
+              "explanation": "Glass means a drinking container, not the material."
+            },
+            {
+              "sentence": "He received a gold medal.",
+              "highlight": "a gold medal",
+              "explanation": "Medal is the countable noun. Gold describes its material."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-05-04",
+      "subtopicId": "subtopic-05-04",
+      "title": "Collective Nouns",
+      "sections": [
+        {
+          "heading": "What are Collective Nouns?",
+          "content": "Collective nouns refer to a group of people, animals or things considered as a unit. Examples include team, family, committee, audience, crowd, flock, herd and bunch.",
+          "examples": [
+            {
+              "sentence": "A team is practising for the final.",
+              "highlight": "A team",
+              "explanation": "Team refers to one group and is a singular countable noun."
+            },
+            {
+              "sentence": "The committee has approved the proposal.",
+              "highlight": "The committee",
+              "explanation": "The identifies a particular committee."
+            }
+          ]
+        },
+        {
+          "heading": "Using A and An with Collective Nouns",
+          "content": "A singular countable collective noun normally takes A or An when introduced for the first time. Choose the article according to the first sound of the noun.",
+          "examples": [
+            {
+              "sentence": "A crowd gathered near the entrance.",
+              "highlight": "A crowd",
+              "explanation": "Crowd is a singular countable collective noun introduced for the first time."
+            },
+            {
+              "sentence": "An audience waited for the show.",
+              "highlight": "An audience",
+              "explanation": "Audience begins with a vowel sound, so An is used."
+            }
+          ]
+        },
+        {
+          "heading": "Using The with Collective Nouns",
+          "content": "Use The when the collective noun refers to a particular group already identified or understood from the context.",
+          "examples": [
+            {
+              "sentence": "The team won the final match.",
+              "highlight": "The team",
+              "explanation": "The refers to a particular team known from the context."
+            },
+            {
+              "sentence": "The crowd became restless.",
+              "highlight": "The crowd",
+              "explanation": "The identifies a specific crowd."
+            }
+          ]
+        },
+        {
+          "heading": "Collective Nouns and Verb Agreement",
+          "content": "A collective noun can take a singular verb when the group is considered one unit. In some varieties of English, especially British English, a plural verb can be used when focusing on individual members. The choice depends on meaning and dialect.",
+          "examples": [
+            {
+              "sentence": "The family is planning a holiday.",
+              "highlight": "family is",
+              "explanation": "The family is considered one unit."
+            },
+            {
+              "sentence": "The team are wearing their new uniforms.",
+              "highlight": "team are",
+              "explanation": "This plural agreement is possible in British English when focusing on the individual members."
+            }
+          ]
+        },
+        {
+          "heading": "Collective Nouns Used Generally",
+          "content": "Plural collective nouns can be used without an article when they refer to groups in general.",
+          "examples": [
+            {
+              "sentence": "Families need emotional support.",
+              "highlight": "Families",
+              "explanation": "Families refers to families generally."
+            },
+            {
+              "sentence": "Teams compete in the tournament.",
+              "highlight": "Teams",
+              "explanation": "The plural noun is used generally without an article."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-05-05",
+      "subtopicId": "subtopic-05-05",
+      "title": "Adjectives Used as Nouns",
+      "sections": [
+        {
+          "heading": "Understanding Adjectives Used as Nouns",
+          "content": "Some adjectives can represent an entire group of people when used with The. This structure is commonly used to talk about social groups or people sharing a particular condition or quality.",
+          "examples": [
+            {
+              "sentence": "The rich should support social development.",
+              "highlight": "The rich",
+              "explanation": "The rich means rich people as a group."
+            },
+            {
+              "sentence": "The young need opportunities to learn.",
+              "highlight": "The young",
+              "explanation": "The young refers to young people collectively."
+            }
+          ]
+        },
+        {
+          "heading": "Common Expressions",
+          "content": "Common expressions include the rich, the poor, the elderly, the unemployed, the injured, the blind, the disabled and the homeless.",
+          "examples": [
+            {
+              "sentence": "The elderly deserve respect.",
+              "highlight": "The elderly",
+              "explanation": "The phrase refers to elderly people as a group."
+            },
+            {
+              "sentence": "The unemployed need opportunities.",
+              "highlight": "The unemployed",
+              "explanation": "The phrase refers to people who do not have jobs."
+            }
+          ]
+        },
+        {
+          "heading": "Verb Agreement",
+          "content": "These expressions generally represent plural groups of people and therefore take plural verbs. Do not treat them as ordinary singular nouns.",
+          "examples": [
+            {
+              "sentence": "The poor need better access to education.",
+              "highlight": "need",
+              "explanation": "The poor represents multiple people, so the plural verb 'need' is used."
+            },
+            {
+              "sentence": "The injured were taken to hospital.",
+              "highlight": "were",
+              "explanation": "The injured refers to several injured people and takes a plural verb."
+            }
+          ]
+        },
+        {
+          "heading": "Adjective Before a Noun vs Adjective Used as a Noun",
+          "content": "An adjective normally describes a noun. However, when it is used with The to represent a group, the noun is understood rather than directly stated.",
+          "examples": [
+            {
+              "sentence": "The elderly woman lives nearby.",
+              "highlight": "elderly woman",
+              "explanation": "Elderly describes the singular noun woman."
+            },
+            {
+              "sentence": "The elderly deserve care.",
+              "highlight": "The elderly",
+              "explanation": "The phrase represents elderly people as a group."
+            }
+          ]
+        },
+        {
+          "heading": "Important Usage Note",
+          "content": "These group expressions usually refer to people collectively, not one individual. To refer to one person, use an appropriate noun such as a rich person, an elderly woman or an unemployed worker.",
+          "examples": [
+            {
+              "sentence": "An elderly man helped us.",
+              "highlight": "An elderly man",
+              "explanation": "The adjective describes one singular person, so the noun man is included."
+            },
+            {
+              "sentence": "The elderly need better healthcare.",
+              "highlight": "The elderly",
+              "explanation": "The expression refers to elderly people collectively."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-05-06",
+      "subtopicId": "subtopic-05-06",
+      "title": "Articles with Professions and Titles",
+      "sections": [
+        {
+          "heading": "Articles with Professions",
+          "content": "When describing someone's profession using a singular countable job title after forms of be or become, we normally use A or An.",
+          "examples": [
+            {
+              "sentence": "She is a doctor.",
+              "highlight": "a doctor",
+              "explanation": "Doctor is a singular countable profession and begins with a consonant sound."
+            },
+            {
+              "sentence": "He is an engineer.",
+              "highlight": "an engineer",
+              "explanation": "Engineer begins with a vowel sound, so An is used."
+            }
+          ]
+        },
+        {
+          "heading": "Choosing A or An by Sound",
+          "content": "The choice between A and An depends on pronunciation, not spelling. Use An before a vowel sound and A before a consonant sound.",
+          "examples": [
+            {
+              "sentence": "She is an honest officer.",
+              "highlight": "an honest officer",
+              "explanation": "The H in honest is silent, so the word begins with a vowel sound."
+            },
+            {
+              "sentence": "He is a university lecturer.",
+              "highlight": "a university lecturer",
+              "explanation": "University begins with the consonant sound /juː/."
+            }
+          ]
+        },
+        {
+          "heading": "Titles Before Names",
+          "content": "Titles such as Mr, Mrs, Ms, Dr, Professor and Captain generally take no article when placed directly before a person's name.",
+          "examples": [
+            {
+              "sentence": "Dr Sharma attended the conference.",
+              "highlight": "Dr Sharma",
+              "explanation": "Dr is a title directly before a person's name, so no article is used."
+            },
+            {
+              "sentence": "Professor Mehta teaches mathematics.",
+              "highlight": "Professor Mehta",
+              "explanation": "The title is used directly with the name."
+            }
+          ]
+        },
+        {
+          "heading": "Titles Used as Common Nouns",
+          "content": "When a title refers to a position or person without being directly attached to a name, an article may be required. Use The for a particular or unique position identified by the context.",
+          "examples": [
+            {
+              "sentence": "The president addressed the nation.",
+              "highlight": "The president",
+              "explanation": "The identifies the particular president relevant to the context."
+            },
+            {
+              "sentence": "A captain must take responsibility.",
+              "highlight": "A captain",
+              "explanation": "A refers to any one person holding the position of captain."
+            }
+          ]
+        },
+        {
+          "heading": "Titles with Identifying Phrases",
+          "content": "Use The when a title is followed by an identifying phrase that specifies which person is being discussed.",
+          "examples": [
+            {
+              "sentence": "The doctor who treated me was helpful.",
+              "highlight": "The doctor",
+              "explanation": "The identifying clause specifies which doctor is meant."
+            },
+            {
+              "sentence": "The manager of this department is on leave.",
+              "highlight": "The manager",
+              "explanation": "The identifies the particular manager of this department."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "lesson-05-07",
+      "subtopicId": "subtopic-05-07",
+      "title": "Repetition and Omission of Articles",
+      "sections": [
+        {
+          "heading": "Using One Article for One Noun",
+          "content": "When multiple adjectives describe the same singular noun, one article is generally enough. The article appears before the first adjective.",
+          "examples": [
+            {
+              "sentence": "She bought a beautiful old house.",
+              "highlight": "a beautiful old house",
+              "explanation": "Beautiful and old describe the same house, so only one article is required."
+            },
+            {
+              "sentence": "He gave me an interesting and useful book.",
+              "highlight": "an interesting and useful book",
+              "explanation": "Both adjectives describe one book. An is selected because interesting begins with a vowel sound."
+            }
+          ]
+        },
+        {
+          "heading": "Repeating Articles for Separate Nouns",
+          "content": "When two separate singular countable nouns are joined by and, each noun normally needs its own article when introduced as an unspecified item.",
+          "examples": [
+            {
+              "sentence": "She bought a pen and a notebook.",
+              "highlight": "a pen and a notebook",
+              "explanation": "Pen and notebook are two separate countable objects, so the article is repeated."
+            },
+            {
+              "sentence": "He adopted a cat and a dog.",
+              "highlight": "a cat and a dog",
+              "explanation": "The sentence refers to two separate animals."
+            }
+          ]
+        },
+        {
+          "heading": "One Person vs Two People",
+          "content": "With two singular titles or roles joined by and, using one article can indicate one person holding both roles. Repeating the article usually indicates two different people.",
+          "examples": [
+            {
+              "sentence": "The principal and secretary attended the meeting.",
+              "highlight": "The principal and secretary",
+              "explanation": "This can mean one person who is both the principal and secretary."
+            },
+            {
+              "sentence": "The principal and the secretary attended the meeting.",
+              "highlight": "The principal and the secretary",
+              "explanation": "Repeating The indicates two separate people."
+            }
+          ]
+        },
+        {
+          "heading": "One Object vs Two Objects",
+          "content": "When adjectives joined by and describe one object, use one article. When they describe two separate objects, repeat the article.",
+          "examples": [
+            {
+              "sentence": "A black and white dog entered the garden.",
+              "highlight": "A black and white dog",
+              "explanation": "One dog has both black and white colouring."
+            },
+            {
+              "sentence": "A black and a white dog entered the garden.",
+              "highlight": "A black and a white dog",
+              "explanation": "The repeated article indicates two separate dogs."
+            }
+          ]
+        },
+        {
+          "heading": "Repetition with Ordinal Numbers",
+          "content": "When two different positions or items are identified separately using ordinal numbers, The is normally repeated before each ordinal expression.",
+          "examples": [
+            {
+              "sentence": "The first and the second chapters contain examples.",
+              "highlight": "The first and the second chapters",
+              "explanation": "The article is repeated to identify two separate chapters individually."
+            },
+            {
+              "sentence": "The first and second chapters contain examples.",
+              "highlight": "The first and second chapters",
+              "explanation": "One The can also apply to both coordinated ordinal descriptions when they refer to the same identified group."
+            }
+          ]
+        },
+        {
+          "heading": "Avoiding Unnecessary Repetition",
+          "content": "Do not repeat an article before every adjective describing the same noun. However, repeat it when needed to make clear that two separate nouns, people or objects are intended.",
+          "examples": [
+            {
+              "sentence": "She is a talented and hardworking employee.",
+              "highlight": "a talented and hardworking employee",
+              "explanation": "Both adjectives describe one employee."
+            },
+            {
+              "sentence": "We visited a museum and an exhibition hall.",
+              "highlight": "a museum and an exhibition hall",
+              "explanation": "These are two separate places, so each noun has its own article."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

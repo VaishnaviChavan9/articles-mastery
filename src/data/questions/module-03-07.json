@@ -1,0 +1,132 @@
+
+{
+  "subtopicId": "subtopic-03-07",
+  "questions": [
+    {
+      "id": "q30701",
+      "question": "My father reads ___ Hindu every morning.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "The",
+      "explanation": "The newspaper's established name is 'The Hindu'."
+    },
+    {
+      "id": "q30702",
+      "question": "Which sentence is correct?",
+      "options": [
+        "I read the Times of India.",
+        "I read a Times of India.",
+        "I read an Times of India.",
+        "I read Times of India newspaper without any article."
+      ],
+      "correctAnswer": "I read the Times of India.",
+      "explanation": "The newspaper's conventional name is 'The Times of India'."
+    },
+    {
+      "id": "q30703",
+      "question": "We visited ___ Red Fort during our trip to Delhi.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The Red Fort is an established monument name that takes 'the'."
+    },
+    {
+      "id": "q30704",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The Buckingham Palace is in London.",
+        "Buckingham Palace is in London.",
+        "A Buckingham Palace is in London.",
+        "An Buckingham Palace is in London."
+      ],
+      "correctAnswer": "Buckingham Palace is in London.",
+      "explanation": "Many buildings and palaces named after a person or place do not take 'the'."
+    },
+    {
+      "id": "q30705",
+      "question": "She studies at ___ University of Delhi.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "Names formed with 'University of...' commonly take 'the'."
+    },
+    {
+      "id": "q30706",
+      "question": "Which newspaper name is conventionally used with 'the'?",
+      "options": [
+        "The Guardian",
+        "Economic Times without article",
+        "Indian Express without article",
+        "Hindustan Times without article"
+      ],
+      "correctAnswer": "The Guardian",
+      "explanation": "The newspaper's official name includes 'The'."
+    },
+    {
+      "id": "q30707",
+      "question": "The tourists admired ___ Gateway of India.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The established monument name is 'the Gateway of India'."
+    },
+    {
+      "id": "q30708",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The Oxford University is in England.",
+        "Oxford University is in England.",
+        "An Oxford University is in England.",
+        "A Oxford University is in England."
+      ],
+      "correctAnswer": "Oxford University is in England.",
+      "explanation": "When the proper name is 'Oxford University', it is used without 'the'."
+    },
+    {
+      "id": "q30709",
+      "question": "He works for ___ United Nations.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The name of this international organisation conventionally takes 'the'."
+    },
+    {
+      "id": "q30710",
+      "question": "Which sentence uses the article correctly?",
+      "options": [
+        "We visited the Taj Mahal.",
+        "We visited a Taj Mahal.",
+        "We visited an Taj Mahal.",
+        "We visited Taj Mahal without an article."
+      ],
+      "correctAnswer": "We visited the Taj Mahal.",
+      "explanation": "The established name of the monument is 'the Taj Mahal'."
+    },
+    {
+      "id": "q30711",
+      "question": "She works at ___ World Health Organization.",
+      "options": ["a", "an", "the", "No article"],
+      "correctAnswer": "the",
+      "explanation": "The name of the organisation conventionally takes 'the'."
+    },
+    {
+      "id": "q30712",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "The Parliament of India is located in New Delhi.",
+        "A Parliament of India is located in New Delhi.",
+        "An Parliament of India is located in New Delhi.",
+        "Parliament of India is located in New Delhi without an article."
+      ],
+      "correctAnswer": "The Parliament of India is located in New Delhi.",
+      "explanation": "The descriptive institutional name 'the Parliament of India' takes 'the'."
+    },
+    {
+      "id": "q30713",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The Eiffel Tower attracts many visitors.",
+        "An Eiffel Tower attracts many visitors.",
+        "A Eiffel Tower attracts many visitors.",
+        "Eiffel Tower attracts many visitors without an article."
+      ],
+      "correctAnswer": "The Eiffel Tower attracts many visitors.",
+      "explanation": "The established name of this landmark is conventionally used with 'the'."
+    }
+  ]
+}
